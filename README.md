@@ -170,18 +170,18 @@ loan-approval-risk-analysis/
 
 ```
 ┌──────────────────────────────────────────────────────────┐
-│                    app.py (Dashboard UI)                  │
+│                    app.py (Dashboard UI)                 │
 │         10 Pages • CSS Theme • Session State             │
 ├──────────┬─────────────┬──────────────┬──────────────────┤
 │ utils.py │data_cleaning│visualization │   ml_model.py    │
 │          │    .py      │    .py       │                  │
-│ • Column │ • Missing   │ • 15+ Charts│ • Train/Evaluate │
-│   Detect │   Values    │ • Banking   │ • Random Forest  │
-│ • Risk   │ • Duplicates│   Theme     │ • Logistic Reg   │
-│   Score  │ • Type Fix  │ • Plotly +  │ • Single Predict │
-│ • Format │ • Encoding  │   Matplotlib│ • Feature Import │
+│ • Column │ • Missing   │ • 15+ Charts│ • Train/Evaluate  │
+│   Detect │   Values    │ • Banking   │ • Random Forest   │
+│ • Risk   │ • Duplicates│   Theme     │ • Logistic Reg    │
+│   Score  │ • Type Fix  │ • Plotly +  │ • Single Predict  │
+│ • Format │ • Encoding  │   Matplotlib│ • Feature Import  │
 ├──────────┴─────────────┴──────────────┴──────────────────┤
-│                 report_generator.py                       │
+│                 report_generator.py                      │
 │       Text Report • PDF Report • Recommendations         │
 └──────────────────────────────────────────────────────────┘
 ```
