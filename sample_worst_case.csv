@@ -1,0 +1,1501 @@
+Loan_ID,Gender,Married,Dependents,Education,Self_Employed,Age,Credit_Score,ApplicantIncome,CoapplicantIncome,LoanAmount,Loan_Amount_Term,Credit_History,Property_Area,Loan_Purpose,Employment_Years,Debt_to_Income,Interest_Rate,Monthly_Payment,Loan_Status
+LP10001,Male,No,1,Not Graduate,No,29,492,3803,1217,900,180,1,Semiurban,Vehicle,2,45.17,12.66,11186.58,Y
+LP10002,Male,Yes,,Graduate,,21,553,3187,435,900,360,1,Rural,,3,36.15,18.54,13960.96,N
+LP10003,Female,No,2,Graduate,No,27,444,3665,,900,360,1,Rural,Vehicle,1,72.33,13.81,10528.65,Y
+LP10004,Male,No,3+,Not Graduate,Yes,21,480,2845,677,900,60,1,Semiurban,Business,5,,12.41,20206.97,N
+LP10005,,No,2,Not Graduate,No,31,549,3112,1645,900,180,1,Semiurban,Vehicle,0,37.27,,14184.06,N
+LP10006,Female,Yes,,Graduate,No,22,399,5350,,,360,1,Semiurban,Business,,48.08,9.3,7436.71,N
+LP10007,Female,Yes,1,Not Graduate,Yes,32,468,1579,1724,900,180,0,Urban,Home Purchase,,33.87,9.44,9365.47,N
+LP10008,Female,No,1,Not Graduate,Yes,44,406,3406,1218,900,360,0,Rural,Education,3,37.49,17.06,12874.92,Y
+LP10009,Female,No,0,,Yes,30,383,1812,1444,900,120,0,Semiurban,Vehicle,1,66.08,9.9,11843.78,N
+LP10010,,No,0,Graduate,No,22,536,1406,0,900,120,1,Rural,Debt Consolidation,3,28.32,9.38,11586.73,Y
+LP10011,Male,No,3+,,No,,351,4772,0,,180,,Semiurban,Business,5,42.16,17.22,13991.61,Y
+LP10012,Male,No,3+,Not Graduate,Yes,27,303,5089,2150,,360,1,Semiurban,Home Improvement,0,,13.31,10174.33,N
+LP10013,Male,No,2,Not Graduate,Yes,,,1436,1165,900,360,0,Urban,Home Improvement,0,58.3,8.6,6984.11,N
+LP10014,Female,No,3+,Not Graduate,Yes,21,,,0,900,240,1,Urban,Business,0,39.56,12.4,10161.89,N
+LP10015,Female,No,,Not Graduate,No,31,532,2731,141,900,360,1,Rural,Business,2,44.48,10.01,7904.8,N
+LP10016,Male,No,0,Not Graduate,No,38,521,4159,429,900,240,0,Rural,,0,61.36,16.51,12866.91,N
+LP10017,Male,,2,Not Graduate,No,36,,3284,285,900,360,0,Semiurban,Medical,4,,21.79,16367.65,N
+LP10018,,Yes,2,Graduate,No,26,476,3576,1707,900,,0,Urban,Vehicle,2,56.48,11.23,9430.98,N
+LP10019,Male,Yes,0,Graduate,Yes,37,412,5788,,900,240,0,Semiurban,Business,3,32.49,12.33,10117.61,N
+LP10020,Male,No,3+,Not Graduate,No,,525,3877,777,900,360,1,,Home Improvement,2,47.35,16.41,12400.81,N
+LP10021,Female,,2,Graduate,No,44,,2591,923,900,,1,Urban,Home Purchase,1,52.36,13.12,10040.28,Y
+LP10022,Female,,3+,Graduate,,26,402,,1688,900,360,0,Semiurban,Medical,1,65.47,13.34,10195.53,N
+LP10023,Male,Yes,2,Graduate,Yes,35,384,4309,0,900,240,0,Rural,Home Improvement,3,44.81,19.89,15211.75,Y
+LP10024,Female,No,2,Graduate,Yes,28,322,2077,761,900,,0,Rural,,2,49.08,17.63,13292.21,N
+LP10025,Female,No,,Graduate,,22,533,2344,171,,360,0,Urban,Education,0,47.13,15.93,12052.03,N
+LP10026,Female,Yes,0,Not Graduate,Yes,31,525,1000,,900,60,1,Semiurban,Debt Consolidation,2,60.68,9.61,18950.09,N
+LP10027,Male,No,,Not Graduate,No,21,600,3715,1292,900,240,0,Urban,Debt Consolidation,0,53.4,14.48,11506.79,N
+LP10028,Female,,2,Graduate,No,36,507,4458,,900,360,1,Urban,,3,45.4,,11121.34,Y
+LP10029,Female,Yes,3+,Not Graduate,,21,500,3655,0,900,120,0,Rural,Medical,1,28.76,12.25,13042.79,N
+LP10030,Male,,0,Not Graduate,No,26,559,2627,54,900,60,0,Urban,,4,47.81,15.89,,Y
+LP10031,Female,Yes,3+,Not Graduate,Yes,41,416,1000,701,900,240,1,,Home Purchase,1,49.42,13.42,10814.61,N
+LP10032,Female,No,1,Not Graduate,,22,460,5864,0,900,360,0,Rural,Home Improvement,4,67.5,,5987.72,Y
+LP10033,Male,No,2,Graduate,Yes,40,,1198,1178,900,240,1,,Medical,3,38.44,9.14,8178.75,N
+LP10034,Female,Yes,0,Not Graduate,No,,347,3103,1100,900,180,1,Rural,Home Purchase,5,23.47,15.23,12738.36,N
+LP10035,Female,No,2,,Yes,44,455,1054,0,900,360,1,Rural,Home Improvement,4,40.32,18.4,13857.89,Y
+LP10036,Male,Yes,0,Not Graduate,No,,367,2578,735,900,240,1,Rural,Medical,1,,12.51,10231.61,N
+LP10037,Female,,3+,Not Graduate,No,33,395,3079,1263,900,360,0,,Medical,,34.64,13.95,10628.24,N
+LP10038,Male,No,3+,Not Graduate,,28,352,1000,86,900,120,1,Rural,Debt Consolidation,4,45.1,15.54,14819.2,N
+LP10039,Male,No,3+,Not Graduate,Yes,29,512,2277,0,900,180,0,Semiurban,Business,1,28.37,19.44,15435.6,N
+LP10040,Male,,1,Graduate,No,41,588,1000,1578,900,360,0,Semiurban,Education,0,51.76,13.3,10167.27,N
+LP10041,Male,No,3+,Not Graduate,No,26,473,1598,,900,120,0,Rural,Home Improvement,0,49.16,14.5,14245.81,Y
+LP10042,Male,No,0,Not Graduate,No,22,418,4006,3239,900,360,,Rural,Business,2,58.3,12.08,9312.97,N
+LP10043,Male,,2,,Yes,29,549,2900,0,,360,0,Rural,Home Purchase,0,36.79,9.1,,Y
+LP10044,Male,Yes,,Not Graduate,No,25,536,2862,120,900,360,,Rural,Education,0,31.41,13.05,9990.98,Y
+LP10045,Female,No,1,Not Graduate,No,21,459,3721,0,900,120,1,Rural,Vehicle,1,37.07,12.85,13358.46,N
+LP10046,,Yes,0,Not Graduate,Yes,38,419,,989,900,120,0,Rural,Medical,1,,17.27,15796.11,N
+LP10047,Female,,2,Graduate,No,26,,1498,1013,900,60,1,Rural,Business,2,,14.31,21086.35,Y
+LP10048,Male,,3+,Not Graduate,Yes,32,483,2749,619,900,180,0,Rural,,4,,17.81,14370.93,N
+LP10049,Male,No,0,Graduate,No,,552,2686,756,900,120,,Semiurban,Vehicle,0,46.64,12.58,13215.94,N
+LP10050,Female,Yes,2,Not Graduate,No,23,494,2875,143,900,360,0,Rural,,0,68.37,14.4,10949.42,Y
+LP10051,Female,No,2,Graduate,Yes,21,486,1361,150,900,180,1,,Education,0,43.33,20.16,15913.16,N
+LP10052,Female,No,3+,Not Graduate,,39,471,2168,1059,900,240,0,Rural,Medical,1,32.85,11.8,9784.57,N
+LP10053,Female,Yes,3+,Graduate,No,31,421,5759,2491,900,60,1,Urban,Debt Consolidation,1,50.1,10.81,19483.01,N
+LP10054,,No,0,Not Graduate,Yes,26,423,3327,55,900,360,1,Rural,Home Purchase,,59.58,16.43,12415.36,N
+LP10055,Female,Yes,0,Not Graduate,,35,507,4266,0,,,0,Semiurban,Vehicle,4,35.69,15.28,11581.77,N
+LP10056,Male,Yes,3+,,Yes,21,538,2583,1073,900,360,0,Urban,Vehicle,0,50.03,11.54,8940.1,N
+LP10057,Female,No,3+,Not Graduate,Yes,35,453,3793,180,900,120,1,Semiurban,Education,4,43.9,15.82,14975.38,N
+LP10058,Female,Yes,0,Graduate,No,54,587,3869,1565,900,240,,Urban,Home Improvement,3,55.09,16.8,13064.5,Y
+LP10059,Female,No,3+,Graduate,No,33,594,2037,147,900,360,0,Semiurban,Education,0,62.59,11.71,,Y
+LP10060,Female,Yes,3+,,No,23,481,3446,0,900,360,1,Rural,Education,1,50.54,15.34,11625.07,N
+LP10061,Male,Yes,1,Graduate,No,33,468,5263,1469,900,360,1,Semiurban,Home Improvement,2,30.21,,9333.79,N
+LP10062,Female,,2,Graduate,Yes,33,461,3337,726,900,60,0,Rural,Home Improvement,0,61.05,12.83,20399.53,Y
+LP10063,Female,No,2,Not Graduate,No,28,474,5516,76,900,240,0,Rural,Education,,54.36,14.56,11559.57,N
+LP10064,Male,No,2,Graduate,No,35,352,2160,1641,900,,0,Rural,Business,3,,12.01,9916.05,N
+LP10065,Male,,3+,Not Graduate,No,51,461,1000,25,900,240,1,,Debt Consolidation,3,50.01,15.17,11964.31,N
+LP10066,Female,Yes,2,Graduate,Yes,29,544,2829,1589,900,240,0,Semiurban,Vehicle,5,53.23,10.37,8906.96,N
+LP10067,Male,No,1,Graduate,No,42,449,3144,0,900,120,0,Rural,Medical,1,39.68,21.81,18486.43,N
+LP10068,Female,No,0,Graduate,No,35,597,,408,900,240,1,Urban,Home Purchase,1,40.82,,15622.11,N
+LP10069,Male,No,3+,,Yes,33,428,3219,0,900,360,0,Rural,Business,4,41.64,16.78,12670.45,N
+LP10070,Male,No,3+,Not Graduate,No,21,549,3981,727,900,60,1,Rural,Home Improvement,,53.88,19.23,23460.54,N
+LP10071,,,2,Not Graduate,,29,436,4030,2000,900,360,1,Semiurban,Medical,1,66.24,10.17,8011.44,N
+LP10072,Female,Yes,3+,Not Graduate,,21,469,4713,,900,360,1,,Home Purchase,1,59.71,17.43,13145.65,N
+LP10073,Male,No,3+,Graduate,No,40,,3302,0,900,180,0,Semiurban,Debt Consolidation,2,72.57,10.14,9748.67,N
+LP10074,Female,Yes,2,Graduate,No,21,544,1060,933,900,60,1,,,1,52.13,11.46,19775.28,N
+LP10075,Male,,1,Graduate,,38,512,4943,,900,180,1,,Medical,5,67.83,15.29,12775.53,N
+LP10076,Male,Yes,2,Graduate,Yes,24,465,2465,219,900,,1,Rural,,0,,13.89,10585.54,N
+LP10077,Female,Yes,0,Not Graduate,No,41,510,4520,76,900,240,0,Semiurban,Medical,3,40.88,11.35,9505.02,Y
+LP10078,Female,,1,,No,39,407,3098,952,900,60,1,Urban,,1,50.04,15.45,21624.11,N
+LP10079,,Yes,2,Graduate,Yes,41,416,1260,380,900,60,1,Urban,Medical,0,42.97,9.01,18686.89,Y
+LP10080,Male,No,2,Not Graduate,Yes,37,438,6395,1513,900,360,0,,,1,33.62,13.82,10535.75,N
+LP10081,Female,No,3+,Graduate,No,26,,,0,900,120,0,Rural,Home Improvement,0,37.08,15.58,14841.46,Y
+LP10082,Female,No,3+,Not Graduate,No,35,435,5376,1170,900,180,0,Semiurban,Vehicle,0,38.55,15.9,13155.61,N
+LP10083,Male,Yes,3+,Graduate,No,32,395,3283,150,900,,1,Semiurban,Home Improvement,2,37.97,11.16,12479.15,Y
+LP10084,Female,Yes,3+,Graduate,,25,600,6499,0,900,240,0,Semiurban,Debt Consolidation,4,58.92,9.37,8312.93,N
+LP10085,,No,2,,No,35,549,2981,0,900,180,0,Semiurban,Vehicle,2,50.7,14.41,,N
+LP10086,Male,No,1,Not Graduate,Yes,21,388,3735,1911,900,,1,Urban,Home Improvement,3,53.22,10.45,8955.21,Y
+LP10087,Male,No,,Not Graduate,No,30,592,6389,410,900,240,0,Rural,Debt Consolidation,3,61.94,8.34,,N
+LP10088,Female,,,Not Graduate,No,37,460,3068,568,900,,1,Rural,Home Improvement,3,37.19,15.14,,Y
+LP10089,Female,Yes,1,Not Graduate,No,22,370,1379,2457,900,240,0,Semiurban,Home Purchase,3,42.57,11.7,9722.19,N
+LP10090,Female,Yes,,Not Graduate,No,31,401,1479,135,,360,1,Rural,Home Improvement,3,,,11675.62,N
+LP10091,,No,3+,Not Graduate,,23,376,1000,1816,900,240,0,Semiurban,Education,4,40.95,,13634.07,N
+LP10092,Female,Yes,1,Not Graduate,,53,479,5146,0,900,240,0,Rural,Vehicle,0,58.39,15.99,12514.55,N
+LP10093,Female,Yes,0,Not Graduate,Yes,34,450,5254,23,900,240,0,Rural,Home Improvement,0,45.72,18.05,13924.44,N
+LP10094,Male,No,0,Graduate,No,31,403,5320,0,900,240,1,,Business,,49.18,7.0,6977.69,N
+LP10095,Male,No,2,Graduate,No,,600,2865,906,900,120,0,Rural,Medical,0,58.18,16.78,15516.55,Y
+LP10096,Male,No,0,Not Graduate,Yes,,494,4730,99,900,60,0,Rural,,0,67.69,13.64,20773.83,N
+LP10097,Male,No,2,Not Graduate,No,44,361,3288,785,900,,1,Rural,Business,4,38.6,14.46,10992.36,N
+LP10098,Male,No,3+,Graduate,Yes,24,529,7218,305,20,240,0,Semiurban,Business,3,,,315.3,Y
+LP10099,,No,3+,Graduate,No,31,399,4322,0,900,,1,Urban,Debt Consolidation,0,44.45,,9654.23,N
+LP10100,Female,No,3+,Not Graduate,No,21,,1000,138,900,,0,Rural,Medical,,55.67,14.95,11817.87,N
+LP10101,Female,No,,Graduate,,22,,,923,900,180,1,Semiurban,Home Purchase,2,,14.06,,N
+LP10102,Male,No,3+,Graduate,Yes,31,564,,0,900,360,1,Urban,Debt Consolidation,2,,9.72,7712.57,N
+LP10103,Male,Yes,1,Not Graduate,No,21,488,2478,704,900,120,0,Semiurban,Business,4,63.59,19.57,17137.2,N
+LP10104,Female,No,2,Graduate,,40,413,1000,850,900,240,1,Semiurban,Medical,0,47.17,11.6,,Y
+LP10105,Male,Yes,,Graduate,No,21,402,2983,943,,240,0,Semiurban,Education,0,23.44,,9604.07,N
+LP10106,Female,No,3+,Graduate,Yes,30,420,1000,,900,360,0,,Home Improvement,1,58.4,11.85,9153.73,N
+LP10107,Male,Yes,3+,Graduate,No,29,392,,0,900,240,0,Rural,Education,1,43.39,15.83,12406.66,N
+LP10108,Female,Yes,1,Graduate,Yes,44,470,6849,1495,900,60,0,Rural,Vehicle,,29.97,15.87,21824.13,N
+LP10109,Male,,3+,Not Graduate,Yes,42,525,2612,1680,900,60,1,Rural,Home Improvement,3,47.58,19.0,23346.5,N
+LP10110,Female,Yes,3+,Graduate,Yes,38,422,5404,0,900,180,1,Rural,Medical,1,44.62,14.16,12082.57,Y
+LP10111,Female,No,3+,Not Graduate,Yes,32,407,4750,0,900,,1,Urban,Medical,0,40.34,13.63,13774.46,N
+LP10112,Male,Yes,3+,Graduate,Yes,23,435,1000,,900,120,0,Rural,Home Improvement,,43.01,12.38,13110.86,N
+LP10113,Female,No,2,Not Graduate,No,46,354,4114,1453,900,360,0,Semiurban,Education,2,44.73,8.09,6660.43,Y
+LP10114,Male,Yes,3+,,,32,,4943,552,900,360,,Urban,Debt Consolidation,2,,16.84,12714.23,Y
+LP10115,Male,Yes,2,Not Graduate,No,33,561,2933,697,900,360,0,Semiurban,Home Purchase,0,,13.13,10047.33,Y
+LP10116,Female,Yes,1,,Yes,42,600,3869,861,,120,0,Rural,Education,0,37.5,11.47,12638.15,N
+LP10117,Male,No,0,Not Graduate,No,29,511,5742,1684,900,240,0,Urban,,,33.66,18.69,14369.52,N
+LP10118,Female,Yes,1,Not Graduate,Yes,,470,1000,210,900,180,1,Semiurban,Debt Consolidation,2,,10.86,10150.39,N
+LP10119,Male,No,2,Not Graduate,No,48,399,2642,166,900,240,1,Semiurban,Medical,2,44.79,17.31,13413.79,Y
+LP10120,Male,,1,Not Graduate,,23,,1662,569,900,360,0,Rural,Home Purchase,0,35.11,11.92,9202.13,N
+LP10121,Female,No,3+,Not Graduate,,32,435,1627,641,900,240,0,Semiurban,Debt Consolidation,4,24.17,11.62,9672.39,N
+LP10122,Male,No,1,Not Graduate,No,21,,2490,291,900,,,Semiurban,Medical,2,42.53,14.52,14256.74,N
+LP10123,Male,,3+,Graduate,Yes,24,507,5889,0,900,360,0,Semiurban,Vehicle,3,49.34,21.26,15973.69,N
+LP10124,Female,,1,Not Graduate,No,34,572,6273,522,900,360,1,Urban,Education,2,47.43,8.88,7164.03,N
+LP10125,Male,Yes,1,Graduate,Yes,43,556,2704,2792,900,240,0,Semiurban,Vehicle,5,65.96,20.55,15678.86,N
+LP10126,Female,No,0,Not Graduate,Yes,46,400,3626,328,,,0,Urban,Home Purchase,3,39.33,15.72,12332.63,N
+LP10127,Female,Yes,1,Graduate,,46,483,1000,654,900,360,0,Semiurban,Home Improvement,,40.29,11.99,9250.59,N
+LP10128,Male,Yes,1,Not Graduate,No,31,310,4225,1081,900,360,0,Semiurban,Home Purchase,1,40.34,10.91,8509.76,N
+LP10129,Male,Yes,0,Not Graduate,,21,460,3923,0,900,240,1,Rural,Debt Consolidation,0,59.07,15.28,12037.72,N
+LP10130,Female,Yes,2,Graduate,No,46,,5820,0,900,60,,Rural,Home Improvement,0,46.0,10.9,,Y
+LP10131,Female,Yes,1,Not Graduate,No,30,436,5600,0,900,180,1,Rural,Business,3,41.26,10.37,9876.18,N
+LP10132,,Yes,3+,Graduate,No,28,577,1000,354,900,240,0,Rural,Medical,2,27.89,15.36,12091.19,N
+LP10133,Female,No,2,Graduate,,37,557,,154,900,180,1,Rural,Home Improvement,2,50.73,21.73,16968.5,N
+LP10134,Male,Yes,1,Not Graduate,No,35,479,4822,692,900,120,0,Rural,Vehicle,3,51.24,,15273.07,Y
+LP10135,Male,,2,Graduate,No,,555,1000,1658,900,360,1,Rural,Business,,,15.48,11726.2,N
+LP10136,Female,Yes,3+,Not Graduate,,21,446,1561,0,900,120,0,Semiurban,Vehicle,0,42.83,11.49,12648.44,N
+LP10137,Male,No,1,Graduate,No,37,411,5191,154,900,360,0,Rural,Education,0,50.91,10.0,7898.14,N
+LP10138,Male,No,3+,Graduate,Yes,,,3256,1273,900,360,1,,Education,,54.48,18.79,14145.16,Y
+LP10139,,Yes,2,,Yes,25,588,3681,,900,,1,Rural,Vehicle,3,,14.4,10949.42,Y
+LP10140,Female,Yes,1,Not Graduate,No,,537,2848,0,,360,1,Semiurban,Business,2,56.1,15.09,11444.8,N
+LP10141,Female,No,,,No,36,415,3669,1046,900,360,0,Semiurban,Home Improvement,5,,,15832.57,Y
+LP10142,Female,No,3+,Not Graduate,No,22,523,4094,1449,900,240,,Rural,Medical,2,23.44,14.69,11645.48,N
+LP10143,Male,No,0,Not Graduate,No,21,579,2874,690,900,180,1,Semiurban,Home Improvement,,35.42,7.7,8445.73,N
+LP10144,Male,No,3+,Not Graduate,Yes,34,401,2785,1304,900,240,0,Rural,,4,22.23,17.96,13862.1,N
+LP10145,Male,No,1,Not Graduate,Yes,33,517,,154,900,360,1,Rural,Medical,,41.18,20.22,15202.1,N
+LP10146,Male,No,3+,Graduate,No,43,520,3386,772,,120,0,Urban,,1,,9.73,11759.41,N
+LP10147,Male,No,2,Not Graduate,Yes,36,,1824,749,900,240,0,Semiurban,,3,40.17,7.0,,N
+LP10148,Male,No,0,Not Graduate,No,21,353,3546,171,900,60,0,Rural,Education,2,42.23,20.21,23949.78,N
+LP10149,Male,Yes,0,Graduate,No,42,448,2152,292,900,360,0,Urban,Business,6,54.57,11.25,8741.35,N
+LP10150,Female,No,0,,No,46,451,1000,,900,360,0,Rural,Medical,1,50.62,17.2,12977.29,N
+LP10151,Male,Yes,1,Graduate,No,31,349,2532,178,900,180,1,,Home Purchase,1,53.15,,,N
+LP10152,Male,Yes,2,Graduate,Yes,35,436,3437,,900,180,,Urban,Vehicle,2,60.19,10.48,9937.43,Y
+LP10153,Female,Yes,0,Not Graduate,Yes,36,394,5069,699,900,180,0,Semiurban,Home Improvement,3,59.63,13.68,11792.8,N
+LP10154,Male,Yes,3+,Not Graduate,No,21,,1000,667,900,,0,Rural,Debt Consolidation,3,57.03,10.47,12129.04,N
+LP10155,Female,No,2,Graduate,Yes,47,480,,593,900,240,1,Urban,Home Purchase,1,37.51,18.2,14028.48,N
+LP10156,Male,No,3+,Graduate,Yes,21,,5698,250,900,240,,Rural,Vehicle,0,46.35,13.84,11087.26,N
+LP10157,Male,No,1,Graduate,Yes,28,516,3430,1387,900,360,1,Semiurban,Vehicle,2,62.29,19.68,14802.37,N
+LP10158,,No,1,Graduate,No,35,342,4531,373,900,360,,Rural,Home Improvement,4,48.48,12.53,9626.28,N
+LP10159,Male,No,2,Not Graduate,No,34,600,3369,0,,240,1,Rural,Home Purchase,0,66.44,,6977.69,N
+LP10160,Male,No,2,,Yes,,389,5215,356,900,240,0,Semiurban,,4,34.74,,,N
+LP10161,,No,2,Not Graduate,No,22,600,1536,0,900,,0,Rural,Home Improvement,0,37.37,14.45,10985.2,N
+LP10162,Male,Yes,3+,,Yes,33,398,2722,0,900,360,0,Urban,Debt Consolidation,1,38.99,16.86,12728.83,Y
+LP10163,Male,No,3+,Graduate,No,38,536,2765,281,900,120,0,Rural,Education,1,48.5,13.21,13549.67,N
+LP10164,Male,Yes,2,,No,21,467,3080,1777,,360,1,Semiurban,Home Purchase,0,20.34,12.2,9396.3,Y
+LP10165,Male,No,1,,,32,,2858,0,900,360,0,Urban,Business,0,61.56,10.01,7904.8,N
+LP10166,Male,Yes,0,Not Graduate,No,21,448,1823,0,900,360,1,Urban,Home Improvement,0,54.03,18.11,13644.6,N
+LP10167,Female,No,2,,No,44,436,1000,839,900,,0,Rural,Medical,0,,15.82,11972.27,N
+LP10168,,No,2,Graduate,Yes,21,500,2478,0,900,240,1,Rural,Business,1,,20.86,15899.14,N
+LP10169,Female,No,1,Not Graduate,Yes,35,537,2032,724,900,360,,Semiurban,Vehicle,0,51.94,13.65,10415.03,N
+LP10170,Male,No,3+,Not Graduate,No,52,432,4209,1574,900,60,0,Semiurban,Medical,5,35.25,,21091.04,N
+LP10171,,No,2,Graduate,No,43,372,4027,412,900,,0,Semiurban,Debt Consolidation,2,37.33,20.87,15684.1,N
+LP10172,Male,Yes,1,Graduate,No,39,528,3037,614,900,180,0,Urban,Education,3,53.21,7.0,8089.45,Y
+LP10173,Male,Yes,2,Not Graduate,Yes,29,509,,1360,900,60,0,Rural,Vehicle,3,36.59,15.2,,N
+LP10174,Female,Yes,3+,,No,36,486,1000,612,900,360,0,Rural,Medical,2,56.05,14.01,10670.97,N
+LP10175,Female,No,1,Graduate,,41,411,1987,447,900,60,0,Rural,Vehicle,2,64.04,16.03,21900.6,N
+LP10176,Female,No,3+,Not Graduate,No,37,432,,842,900,360,1,Urban,Debt Consolidation,1,47.78,14.46,10992.36,N
+LP10177,Male,Yes,1,,No,55,516,2588,121,900,240,1,Rural,Home Purchase,1,38.96,13.59,10924.7,Y
+LP10178,Male,No,1,Not Graduate,No,21,456,3744,381,900,360,0,Urban,Medical,0,61.65,9.37,7482.47,Y
+LP10179,Male,No,0,Graduate,Yes,29,435,7548,1049,900,180,1,Semiurban,Medical,,53.19,21.66,16921.06,N
+LP10180,,Yes,3+,,No,43,569,2767,1484,900,360,0,Semiurban,Education,1,45.39,,13116.35,Y
+LP10181,Female,Yes,0,Not Graduate,No,32,451,4106,1869,900,360,0,Rural,Medical,3,53.36,11.88,9174.46,N
+LP10182,Male,No,2,Not Graduate,Yes,32,505,2991,1105,900,,1,Urban,Vehicle,4,50.38,,12017.69,N
+LP10183,Male,No,2,Not Graduate,,38,575,2440,926,900,360,0,Urban,Vehicle,1,55.84,11.7,9050.21,Y
+LP10184,Female,No,2,Graduate,No,32,458,3442,566,900,60,0,,Debt Consolidation,0,,7.0,17821.08,Y
+LP10185,Male,Yes,1,Graduate,Yes,,591,,815,900,240,0,,Vehicle,2,80.56,7.0,6977.69,N
+LP10186,Male,No,3+,Not Graduate,Yes,38,352,2589,647,900,360,0,Urban,Education,1,,15.63,11834.68,N
+LP10187,Female,No,2,Not Graduate,Yes,38,488,3577,0,900,240,1,,Medical,2,50.26,10.98,9277.45,N
+LP10188,Female,No,1,,No,26,495,,0,900,60,0,Semiurban,Business,5,56.0,13.21,20574.65,N
+LP10189,Male,No,,Not Graduate,No,36,,3072,0,,60,1,Rural,Home Purchase,3,67.53,11.43,19761.73,N
+LP10190,Male,Yes,2,Not Graduate,Yes,,527,1880,0,900,180,1,Rural,Home Purchase,2,63.24,8.99,9123.05,N
+LP10191,Male,No,3+,,Yes,39,,3943,2281,900,60,1,Urban,Business,3,,15.43,21614.61,N
+LP10192,Female,Yes,2,Graduate,No,27,503,6170,31,900,360,1,Urban,Vehicle,1,73.18,10.61,8306.76,N
+LP10193,Male,No,1,Not Graduate,No,,600,3340,0,900,360,0,Rural,Business,0,54.43,12.32,9479.79,Y
+LP10194,Female,No,3+,Not Graduate,No,26,508,1979,160,20,360,,Rural,Vehicle,0,37.01,,234.29,N
+LP10195,Female,No,3+,Graduate,No,28,300,2771,396,900,,1,Semiurban,Debt Consolidation,2,60.2,16.6,12928.15,N
+LP10196,Female,,2,Not Graduate,No,43,554,2911,0,900,240,0,,Home Improvement,0,43.47,16.37,12771.79,N
+LP10197,Male,Yes,,Graduate,No,36,456,1138,861,900,240,1,Rural,Education,0,51.1,16.89,13125.97,N
+LP10198,,Yes,3+,Not Graduate,No,27,389,2807,0,,360,1,Semiurban,Debt Consolidation,1,27.54,13.83,10542.86,N
+LP10199,Male,No,2,Graduate,No,28,567,,957,,360,1,Rural,Home Purchase,0,44.92,11.01,8577.71,Y
+LP10200,Female,Yes,2,Graduate,Yes,37,549,4696,1110,900,240,,Urban,Business,0,63.88,15.33,12071.13,N
+LP10201,Male,Yes,2,Not Graduate,No,33,510,1842,636,900,360,0,Semiurban,Debt Consolidation,0,59.0,11.93,,N
+LP10202,Male,Yes,1,Not Graduate,No,29,531,3406,0,,180,1,,Home Purchase,1,56.66,14.85,12503.95,N
+LP10203,Female,No,1,Not Graduate,No,44,497,1458,211,900,120,,,Home Improvement,2,36.19,14.48,14234.89,Y
+LP10204,Female,No,0,Not Graduate,No,25,427,2426,837,900,,1,Rural,Home Purchase,3,34.92,9.82,9572.58,Y
+LP10205,Male,Yes,2,Not Graduate,No,28,549,4162,548,900,240,0,Urban,Vehicle,3,40.49,11.36,9511.2,N
+LP10206,Male,No,3+,Not Graduate,No,33,,3785,1841,900,360,,,Business,2,44.75,20.76,15602.47,Y
+LP10207,Female,Yes,1,Graduate,Yes,29,523,2785,0,900,180,0,Urban,Debt Consolidation,0,49.57,16.98,13838.28,N
+LP10208,Male,Yes,2,Graduate,No,28,476,1921,718,900,180,0,Rural,Medical,0,49.96,11.93,10761.01,N
+LP10209,Male,,1,Not Graduate,No,40,560,,0,900,360,1,Rural,Vehicle,1,59.37,16.84,12714.23,N
+LP10210,Male,No,1,Not Graduate,No,42,465,3685,827,900,360,,Urban,Medical,2,56.3,16.73,12633.97,N
+LP10211,,No,1,,No,28,461,2518,1573,900,180,1,Rural,Home Improvement,2,47.58,11.41,,N
+LP10212,Male,No,2,Graduate,No,39,517,4818,0,900,360,0,,Debt Consolidation,3,40.73,12.41,9542.51,Y
+LP10213,,No,1,Not Graduate,No,,454,4786,1606,900,240,1,Rural,Medical,1,32.62,11.47,9579.27,Y
+LP10214,Female,No,0,Graduate,No,,480,1748,285,900,60,0,Urban,Education,0,52.98,11.98,20010.91,N
+LP10215,Female,No,3+,Not Graduate,,,462,4901,,900,360,1,Semiurban,,2,,,7838.35,N
+LP10216,Male,Yes,3+,Not Graduate,,43,559,4567,639,900,240,0,Urban,Education,,48.05,14.92,11797.94,Y
+LP10217,Male,No,3+,Not Graduate,No,30,600,4005,0,900,120,0,Urban,,,,10.18,11983.46,N
+LP10218,Male,Yes,2,Not Graduate,,28,473,2864,1763,900,240,0,Semiurban,Vehicle,,54.58,13.49,10859.9,N
+LP10219,Male,No,0,Not Graduate,Yes,30,462,2911,677,900,240,1,Rural,Home Purchase,0,61.81,,10879.33,Y
+LP10220,Male,No,3+,Not Graduate,,33,478,4851,,900,180,0,Rural,Business,2,,,13218.31,N
+LP10221,Male,No,3+,Not Graduate,No,43,334,,791,900,240,0,Semiurban,Home Purchase,0,45.59,8.9,8039.74,N
+LP10222,Female,No,2,Not Graduate,Yes,31,321,1705,775,900,180,1,Rural,Education,4,39.04,8.4,8809.98,N
+LP10223,Male,No,2,Graduate,No,32,520,4394,390,900,180,,,Debt Consolidation,3,71.98,12.87,11310.3,N
+LP10224,Male,No,3+,Not Graduate,No,21,496,3884,725,,360,0,Urban,Education,,42.48,13.21,,N
+LP10225,Male,No,3+,Graduate,Yes,43,526,2497,140,900,360,0,Rural,Vehicle,1,56.82,14.21,10813.62,Y
+LP10226,Male,Yes,3+,,No,35,,5834,0,900,60,1,Urban,Home Purchase,2,60.65,20.96,24327.78,N
+LP10227,Female,No,3+,Not Graduate,Yes,34,452,5842,149,900,360,1,Rural,Home Purchase,2,,10.27,8078.3,Y
+LP10228,Male,,2,Graduate,No,21,497,1787,989,900,360,1,Rural,Home Improvement,2,33.51,11.19,8700.37,N
+LP10229,,Yes,2,Not Graduate,No,41,505,2881,160,900,360,1,Urban,Business,2,,19.95,15002.15,N
+LP10230,Male,No,2,Not Graduate,No,32,510,4083,992,900,240,1,Rural,,3,50.82,16.43,12812.53,N
+LP10231,Male,No,2,Graduate,No,26,438,1790,824,900,360,0,Rural,Vehicle,3,73.63,13.83,10542.86,N
+LP10232,Male,No,0,Not Graduate,No,,580,4393,916,900,360,1,Urban,Home Purchase,1,35.77,7.0,,Y
+LP10233,Male,No,3+,Not Graduate,No,,498,2824,1655,900,,1,Urban,Vehicle,5,41.45,15.72,21752.58,N
+LP10234,Female,No,0,Graduate,No,25,600,4869,280,900,120,0,Rural,Debt Consolidation,,49.49,9.16,11478.9,Y
+LP10235,Male,,3+,Not Graduate,No,30,535,2491,2166,,360,1,Rural,Home Purchase,2,,12.97,9934.7,N
+LP10236,Female,,3+,Graduate,No,26,595,2844,1219,900,180,1,Urban,Education,,72.35,9.03,9144.47,Y
+LP10237,Female,No,3+,Graduate,No,47,426,1260,0,900,240,1,Rural,Vehicle,1,45.3,16.63,12948.58,Y
+LP10238,Male,No,3+,Not Graduate,No,21,565,1000,537,900,180,0,Semiurban,,2,48.26,18.24,14649.46,N
+LP10239,Female,No,2,Graduate,Yes,35,532,3137,0,900,360,1,Semiurban,Debt Consolidation,2,50.21,20.81,15639.57,N
+LP10240,Male,Yes,2,Graduate,No,22,329,4362,838,,60,0,Urban,,2,30.22,17.68,22697.7,Y
+LP10241,,No,1,Not Graduate,No,28,467,3271,0,900,360,1,Rural,Home Purchase,,56.16,11.46,8885.17,Y
+LP10242,Male,Yes,0,Not Graduate,No,,523,2816,0,900,360,1,Rural,Home Improvement,4,42.58,,12706.93,N
+LP10243,Male,Yes,3+,Not Graduate,No,24,,2535,753,900,360,0,Urban,Home Improvement,0,61.89,10.5,8232.65,N
+LP10244,Female,Yes,3+,Not Graduate,No,24,536,1416,905,900,360,1,Urban,Business,4,52.49,,9139.91,N
+LP10245,Male,,1,,No,41,397,5489,0,900,180,0,,Home Purchase,2,65.75,16.05,13249.69,N
+LP10246,,No,3+,Not Graduate,No,25,580,,0,900,180,0,Semiurban,Education,0,61.74,12.56,11127.86,N
+LP10247,Female,No,2,Graduate,No,38,476,2391,,900,360,0,Semiurban,Debt Consolidation,1,54.98,10.26,8071.6,N
+LP10248,,No,3+,Graduate,No,38,,1755,,900,360,1,Urban,Home Improvement,2,54.9,12.39,,Y
+LP10249,Female,No,1,,No,40,,4600,1651,900,360,1,Rural,Debt Consolidation,,56.13,7.0,5987.72,N
+LP10250,,No,0,Not Graduate,Yes,25,459,2594,276,900,180,0,Rural,Debt Consolidation,3,29.33,14.72,12424.13,N
+LP10251,Male,Yes,3+,Not Graduate,No,28,501,5004,1085,900,360,0,Rural,Home Purchase,0,36.42,13.6,,N
+LP10252,Male,No,0,Not Graduate,Yes,23,574,3174,701,,60,1,Rural,Home Purchase,0,48.41,17.81,22761.16,Y
+LP10253,Female,Yes,3+,Not Graduate,Yes,32,415,,1289,900,60,1,Semiurban,Medical,3,56.03,12.39,,N
+LP10254,,No,1,Not Graduate,No,32,429,2374,0,900,180,0,Rural,Medical,2,39.92,15.32,12794.12,N
+LP10255,Female,No,0,Graduate,Yes,,415,3183,804,900,360,0,Urban,Business,3,43.82,12.89,9878.47,N
+LP10256,Female,,3+,Graduate,,22,405,2393,,900,240,0,,,5,52.25,,10711.32,N
+LP10257,Male,No,0,Graduate,Yes,,595,6335,393,900,360,0,Rural,Debt Consolidation,1,30.41,14.79,11229.01,Y
+LP10258,Female,No,0,Graduate,No,24,579,4427,0,900,240,0,Semiurban,Vehicle,0,67.78,10.04,8709.06,Y
+LP10259,Female,No,,Not Graduate,Yes,21,464,3542,8,900,240,1,Rural,Debt Consolidation,2,51.45,12.85,10448.16,Y
+LP10260,Male,No,2,Graduate,No,27,501,1869,2262,900,180,,Rural,Education,1,45.4,10.06,9704.51,N
+LP10261,Male,Yes,3+,Graduate,,25,,2835,0,900,360,0,Rural,Home Purchase,0,53.23,14.17,10785.06,N
+LP10262,Male,No,0,Not Graduate,No,31,420,1678,549,900,240,1,Rural,Business,,40.22,17.69,13675.47,N
+LP10263,Male,No,2,Not Graduate,No,42,373,1887,1693,,180,0,Rural,Medical,4,56.02,15.28,12769.33,N
+LP10264,Male,No,1,Graduate,No,21,542,5462,1225,900,360,0,Urban,Home Purchase,4,50.19,18.0,,Y
+LP10265,Male,Yes,3+,Graduate,No,27,580,2776,1721,900,240,0,Semiurban,Home Purchase,2,31.58,15.72,12332.63,N
+LP10266,Male,No,1,Not Graduate,Yes,21,503,3216,0,900,360,0,Semiurban,Education,0,33.63,13.24,10124.9,Y
+LP10267,Female,No,,Graduate,No,23,504,3188,713,900,240,0,Rural,Debt Consolidation,,58.52,12.9,10480.13,N
+LP10268,Female,No,2,Not Graduate,,42,345,,0,900,360,1,Rural,Home Improvement,0,29.35,,10103.74,N
+LP10269,Female,Yes,,Not Graduate,Yes,32,366,2891,0,900,360,1,Rural,Home Purchase,2,30.66,11.98,9243.66,N
+LP10270,Male,Yes,1,Not Graduate,Yes,34,497,2871,0,900,360,0,Semiurban,Medical,2,65.0,8.15,6698.23,N
+LP10271,Female,Yes,1,Not Graduate,No,,434,3056,1105,900,360,0,Semiurban,Home Improvement,0,30.47,13.7,10450.51,N
+LP10272,Male,No,2,Graduate,Yes,21,509,4105,230,900,360,1,Rural,Education,2,40.48,15.38,11653.95,N
+LP10273,Male,Yes,3+,,No,26,493,1000,100,900,360,0,Urban,,2,37.48,14.96,11351.21,N
+LP10274,Male,No,2,Not Graduate,,28,491,2565,1144,475,120,1,Semiurban,Medical,,45.15,10.52,6414.73,N
+LP10275,Male,No,2,Graduate,No,38,600,4270,399,900,60,0,Semiurban,Home Purchase,3,45.28,14.83,21330.71,N
+LP10276,,Yes,3+,Graduate,No,38,511,4333,389,900,360,1,Semiurban,Vehicle,3,,14.95,11344.02,N
+LP10277,Female,Yes,0,Graduate,No,26,561,4956,328,900,360,0,Urban,Education,5,37.85,16.92,12772.64,Y
+LP10278,Female,No,1,Graduate,Yes,23,540,2087,1079,900,360,1,Rural,Education,0,54.88,11.58,8967.6,N
+LP10279,Male,No,,Not Graduate,Yes,44,513,4118,1115,900,360,1,Rural,Home Purchase,0,43.68,14.65,11128.52,N
+LP10280,Female,No,1,Graduate,No,21,479,5585,898,900,,0,Rural,Home Purchase,3,48.16,11.66,12736.11,Y
+LP10281,Male,No,0,Not Graduate,,21,,2836,589,900,360,,Rural,Business,0,39.31,15.46,11711.74,Y
+LP10282,Female,No,3+,,No,29,549,3736,1502,900,240,1,,Education,5,62.64,15.16,11957.64,N
+LP10283,Female,No,3+,Graduate,Yes,,513,,0,900,180,0,Semiurban,Debt Consolidation,5,36.19,,12028.03,Y
+LP10284,Female,Yes,1,Not Graduate,No,23,339,2727,934,900,360,0,Rural,Debt Consolidation,0,38.26,14.43,10970.89,N
+LP10285,Male,Yes,0,Graduate,Yes,36,490,,671,900,,0,Rural,Home Purchase,1,48.05,13.44,20681.05,N
+LP10286,Male,No,3+,Graduate,No,37,519,1813,0,,120,,Rural,Education,0,56.41,12.35,13095.14,N
+LP10287,Female,No,1,Not Graduate,,37,509,1494,1435,900,360,1,Urban,Debt Consolidation,1,43.6,12.07,9306.04,N
+LP10288,,Yes,0,Graduate,No,25,537,3919,232,,240,0,Rural,Debt Consolidation,0,73.21,,10996.13,N
+LP10289,,No,3+,Graduate,No,26,521,3106,1706,900,180,,Semiurban,Home Purchase,,25.6,16.38,13457.52,Y
+LP10290,Female,Yes,0,Not Graduate,Yes,21,563,2061,0,900,,,Semiurban,Business,1,26.83,14.83,11738.21,Y
+LP10291,Male,No,1,,No,29,507,4360,94,900,,1,Rural,Home Purchase,,47.36,18.91,16747.61,Y
+LP10292,Female,No,1,Not Graduate,Yes,37,600,1484,382,900,360,1,,Debt Consolidation,3,43.45,16.19,12240.8,N
+LP10293,Male,No,2,Not Graduate,No,21,566,5042,826,900,240,0,Rural,Education,4,53.73,11.26,9449.47,Y
+LP10294,Male,Yes,,Not Graduate,No,34,596,4434,408,900,360,0,Urban,Medical,1,72.4,21.98,16508.98,Y
+LP10295,Male,No,3+,Not Graduate,Yes,36,403,2363,401,900,360,0,Rural,Home Improvement,,39.66,13.37,10216.73,N
+LP10296,Male,,3+,Graduate,No,21,567,6411,190,900,240,0,Urban,,,56.01,22.38,16986.42,N
+LP10297,Male,No,1,Graduate,Yes,21,504,4371,0,900,360,1,Semiurban,Medical,1,45.6,12.9,9885.5,N
+LP10298,Female,No,1,Graduate,Yes,35,481,2809,541,,360,1,Rural,,1,,10.49,8225.93,Y
+LP10299,Male,,2,Not Graduate,Yes,41,498,3913,1118,900,360,0,Rural,Vehicle,0,47.04,10.69,8360.77,N
+LP10300,Female,No,1,Not Graduate,Yes,27,421,2622,0,900,360,0,Rural,Medical,2,38.58,16.91,12765.34,N
+LP10301,Male,No,2,Not Graduate,,37,508,2015,0,900,,0,Rural,Business,4,56.98,11.78,,N
+LP10302,Male,No,3+,Graduate,No,41,425,2173,0,900,120,1,Semiurban,Vehicle,0,49.45,8.94,11371.62,N
+LP10303,Female,Yes,3+,Not Graduate,No,36,377,6201,0,900,240,0,Semiurban,Business,0,,18.24,14056.26,N
+LP10304,,No,,Not Graduate,Yes,38,600,1797,945,900,360,1,Rural,Medical,1,59.17,7.0,,N
+LP10305,Male,Yes,0,Not Graduate,Yes,21,600,1253,,900,360,0,Urban,Home Purchase,3,30.07,14.54,11049.66,N
+LP10306,Female,No,1,Graduate,No,24,450,4974,3,900,360,0,,Home Improvement,1,42.7,16.99,12823.77,Y
+LP10307,Male,No,,Not Graduate,Yes,36,464,3417,379,900,60,0,Rural,Home Purchase,4,45.81,10.03,19135.63,N
+LP10308,Female,No,0,Not Graduate,No,38,451,3747,0,900,360,0,Rural,,0,52.3,13.61,10386.66,N
+LP10309,Male,Yes,0,Not Graduate,No,37,503,5166,0,900,120,0,Rural,Home Improvement,2,50.94,13.57,13742.23,N
+LP10310,Female,Yes,2,Graduate,No,30,472,2851,1087,900,240,0,Rural,Vehicle,1,54.64,9.73,,N
+LP10311,Male,No,3+,Graduate,Yes,22,504,5413,0,,360,1,Semiurban,Medical,,54.43,16.49,12459.05,Y
+LP10312,Male,Yes,3+,Not Graduate,Yes,42,395,,0,900,360,1,Semiurban,Home Purchase,1,53.59,11.8,9119.19,Y
+LP10313,Male,No,1,Not Graduate,,37,551,,477,900,120,0,Semiurban,Home Improvement,0,60.25,13.12,13501.74,N
+LP10314,,Yes,2,Not Graduate,Yes,,493,3281,472,900,60,1,Rural,Home Purchase,0,63.75,10.11,19171.09,Y
+LP10315,Male,No,,Graduate,No,46,600,1979,0,900,180,1,Urban,Business,0,38.63,7.0,8089.45,N
+LP10316,Female,No,0,Graduate,No,24,527,4101,1337,900,180,,Urban,Home Improvement,3,48.22,16.53,13552.36,N
+LP10317,Female,Yes,3+,Not Graduate,,24,427,3908,186,900,180,0,Urban,Vehicle,2,70.91,10.07,9710.02,N
+LP10318,Female,No,,Graduate,No,35,430,3580,565,900,360,,Semiurban,Education,0,74.44,18.34,13813.74,Y
+LP10319,Male,Yes,3+,Graduate,No,21,396,3136,0,900,360,0,Semiurban,Education,1,24.29,19.31,14528.89,N
+LP10320,Male,No,2,,No,25,392,,225,900,360,0,Urban,,1,42.32,17.06,,N
+LP10321,Female,No,1,Not Graduate,No,33,331,,661,900,180,1,Semiurban,Debt Consolidation,1,50.71,19.56,15514.89,Y
+LP10322,Female,No,2,Not Graduate,Yes,43,503,5568,,900,60,0,Urban,Home Purchase,,60.84,9.68,18980.94,Y
+LP10323,Male,Yes,2,Graduate,No,22,394,,0,900,180,0,Urban,,4,49.73,7.8,8497.28,N
+LP10324,Female,Yes,2,Graduate,,31,510,5565,0,900,240,1,,Vehicle,2,62.11,14.89,11778.02,N
+LP10325,Female,No,,Not Graduate,Yes,21,412,2750,0,900,360,,Urban,Home Improvement,2,46.95,12.85,9850.39,Y
+LP10326,Female,Yes,1,Not Graduate,Yes,33,329,4182,597,900,240,1,Rural,Vehicle,1,47.0,13.98,11178.62,N
+LP10327,Male,No,,Not Graduate,No,30,389,1689,555,900,60,1,Semiurban,,1,60.29,,19920.09,N
+LP10328,Male,No,0,Graduate,Yes,24,385,3301,146,900,120,1,Rural,,1,49.36,15.12,,N
+LP10329,Male,No,2,Graduate,No,39,327,1000,63,900,360,0,Urban,Business,3,33.37,13.03,9976.9,N
+LP10330,Male,No,0,Graduate,No,37,477,1000,222,900,60,0,Semiurban,Education,1,64.94,14.0,20941.43,N
+LP10331,Male,Yes,3+,Graduate,No,37,517,5781,627,900,360,0,Rural,Debt Consolidation,2,39.86,13.22,,N
+LP10332,Male,No,0,Not Graduate,No,23,520,5263,1138,900,240,1,Semiurban,Vehicle,1,,14.86,11758.11,N
+LP10333,Female,Yes,3+,Graduate,,32,,3615,0,900,240,0,Semiurban,Home Purchase,1,57.4,13.92,11139.43,Y
+LP10334,Male,No,2,,Yes,52,,5397,,900,240,1,Semiurban,,1,66.46,10.72,9118.81,N
+LP10335,Female,Yes,3+,Not Graduate,No,34,465,2697,2507,900,180,1,Urban,Home Improvement,3,46.41,7.0,8089.45,N
+LP10336,Female,No,,Not Graduate,No,31,446,2326,105,900,360,0,Rural,Home Improvement,0,58.28,11.23,8727.69,N
+LP10337,Male,No,0,Graduate,No,31,417,3065,1214,900,120,1,Rural,Debt Consolidation,4,56.12,19.65,17184.67,N
+LP10338,Male,,3+,Not Graduate,Yes,30,,2772,0,900,60,1,Semiurban,,0,38.16,12.91,20436.32,Y
+LP10339,Male,Yes,3+,Not Graduate,No,,435,1000,670,900,240,1,Urban,Home Improvement,4,61.82,16.49,12853.31,N
+LP10340,Female,Yes,2,Not Graduate,No,41,590,1000,284,900,,1,,Business,0,68.04,17.54,13226.24,N
+LP10341,Female,Yes,1,,No,35,514,3730,881,900,360,0,Rural,Vehicle,6,52.23,11.19,8700.37,Y
+LP10342,Female,Yes,3+,Graduate,Yes,32,600,3176,153,900,120,0,,Education,0,61.64,17.19,15750.31,Y
+LP10343,Male,No,3+,Graduate,No,41,376,3229,1235,900,180,0,Urban,Business,2,52.41,,12393.49,N
+LP10344,Male,Yes,,Graduate,Yes,35,451,,267,900,360,1,Semiurban,Business,2,34.07,15.95,,Y
+LP10345,Female,Yes,1,Graduate,No,39,,2740,0,900,360,1,Rural,Home Improvement,0,54.4,,12867.62,N
+LP10346,Male,Yes,3+,,No,43,405,2892,1269,900,360,1,Urban,Medical,,,10.37,8145.31,N
+LP10347,Male,No,2,Graduate,Yes,,532,4360,1762,900,240,0,Rural,,0,36.59,15.26,12024.37,Y
+LP10348,Male,No,3+,Not Graduate,No,,475,4248,0,900,60,0,Semiurban,Medical,1,74.14,13.01,20482.37,N
+LP10349,Female,No,3+,Graduate,No,22,,3510,,900,180,1,Urban,Education,7,56.35,10.68,,Y
+LP10350,Female,Yes,1,Not Graduate,No,32,461,3373,0,900,360,0,Urban,Home Purchase,1,52.07,12.31,9472.83,N
+LP10351,,No,2,Graduate,No,43,600,3960,,900,240,1,Semiurban,Medical,,48.87,16.69,12989.46,N
+LP10352,Male,Yes,0,Not Graduate,No,23,,1296,215,900,60,1,Rural,,2,56.04,12.08,,N
+LP10353,Male,No,1,Graduate,No,30,569,3250,0,900,360,0,,Home Purchase,0,54.46,10.12,7978.07,N
+LP10354,Female,No,1,Graduate,No,29,395,,,900,360,0,Rural,Vehicle,2,,14.87,,N
+LP10355,Male,Yes,2,Not Graduate,Yes,31,593,1000,0,900,180,0,,Vehicle,0,,13.87,,N
+LP10356,Male,No,2,Not Graduate,No,51,441,3239,0,900,120,1,,Education,0,,16.77,,N
+LP10357,Male,,2,Graduate,No,23,388,1000,1184,900,360,1,Urban,Business,0,65.44,,10678.09,N
+LP10358,Male,No,0,Graduate,Yes,,532,1000,0,,120,1,Semiurban,Home Purchase,1,,10.31,,Y
+LP10359,Female,Yes,0,Not Graduate,Yes,21,478,2225,0,900,180,0,Urban,Business,,67.28,13.92,11937.34,N
+LP10360,Female,No,2,Graduate,Yes,,518,2493,0,900,180,0,Semiurban,Education,1,40.41,15.35,12812.73,Y
+LP10361,Male,,0,Not Graduate,No,31,,4452,440,900,240,1,Rural,Home Improvement,4,59.98,15.1,11917.66,N
+LP10362,Female,No,1,Not Graduate,Yes,27,,2183,1445,900,180,1,,Home Purchase,4,46.0,,14132.65,N
+LP10363,Male,No,3+,,No,21,471,5244,228,900,240,0,Semiurban,Medical,0,41.9,11.2,9412.51,N
+LP10364,Male,Yes,1,Not Graduate,No,,407,,1327,900,,1,Rural,Vehicle,0,51.53,9.95,7864.91,N
+LP10365,Male,Yes,2,Not Graduate,Yes,44,459,3481,,900,60,0,Semiurban,Education,3,43.86,14.94,21382.6,N
+LP10366,Female,No,3+,Graduate,Yes,21,470,3585,0,900,120,0,Urban,Vehicle,,57.16,13.1,,N
+LP10367,Male,No,0,Not Graduate,No,41,480,4802,985,900,120,1,Rural,Debt Consolidation,2,53.51,11.39,12597.02,N
+LP10368,Female,No,0,Not Graduate,,,459,2495,133,,,1,Rural,Education,2,39.08,13.42,10252.09,N
+LP10369,Female,,2,Not Graduate,,34,410,1698,206,900,240,1,,,1,15,14.65,11619.03,N
+LP10370,Male,No,2,Graduate,No,41,397,3722,0,900,,0,Rural,Debt Consolidation,7,35.27,18.29,14090.99,Y
+LP10371,Female,No,3+,Not Graduate,Yes,44,428,2736,1559,,,0,,Medical,0,48.49,11.91,12865.6,N
+LP10372,Female,No,2,Not Graduate,No,26,465,1810,133,900,360,,Urban,Medical,3,34.85,15.54,11769.57,N
+LP10373,Male,No,3+,Not Graduate,Yes,26,600,5237,0,900,120,0,Semiurban,Home Improvement,1,43.1,13.54,13726.14,Y
+LP10374,Female,No,3+,Graduate,No,,513,5472,754,900,120,0,Rural,,,39.91,,,Y
+LP10375,Female,,,,No,34,600,1000,0,900,360,1,Semiurban,Business,0,34.62,14.21,10813.62,N
+LP10376,Male,No,2,Not Graduate,No,38,403,1443,567,900,240,1,Urban,,4,61.72,11.08,9338.75,N
+LP10377,Male,No,3+,Not Graduate,No,35,333,2678,611,900,180,0,,Medical,,,18.77,14995.11,Y
+LP10378,Female,No,2,Graduate,Yes,41,512,1507,457,900,120,0,Urban,Home Improvement,2,45.76,11.68,,N
+LP10379,Female,No,3+,Not Graduate,Yes,21,509,3932,1067,900,240,1,Semiurban,Debt Consolidation,0,45.77,15.92,12467.32,N
+LP10380,Male,No,3+,Graduate,No,21,,6142,,900,360,0,Urban,,1,,14.67,11142.86,N
+LP10381,Female,Yes,2,Not Graduate,Yes,27,432,1000,0,900,360,1,Urban,Vehicle,0,26.73,14.14,10763.65,Y
+LP10382,Male,Yes,1,Not Graduate,No,21,378,1000,,900,120,0,Semiurban,Vehicle,0,72.43,14.07,,N
+LP10383,Male,No,3+,Not Graduate,Yes,30,,1049,1151,900,360,0,Semiurban,Home Improvement,3,49.83,18.15,13674.0,N
+LP10384,Female,No,,Graduate,,32,361,4179,1363,900,,1,Semiurban,Vehicle,0,,8.9,9074.94,N
+LP10385,Male,No,2,Not Graduate,No,21,440,4995,320,900,180,1,Rural,Debt Consolidation,0,53.09,16.9,13787.3,N
+LP10386,Male,No,3+,Not Graduate,,32,459,,1516,900,360,0,Rural,Vehicle,0,55.7,13.84,10549.97,N
+LP10387,Male,Yes,1,Not Graduate,No,21,492,4377,1040,900,360,0,Urban,Education,0,,8.38,6843.83,N
+LP10388,Female,No,2,Not Graduate,Yes,34,522,4437,0,900,180,,Rural,Business,,,22.44,,Y
+LP10389,Male,No,3+,,No,,475,2663,877,900,360,0,Semiurban,Business,5,44.96,10.34,8125.19,N
+LP10390,Female,Yes,3+,Not Graduate,,28,412,5453,195,900,180,1,Rural,,0,43.63,13.53,11702.83,N
+LP10391,,No,3+,Not Graduate,Yes,41,399,4775,1442,900,360,0,,Home Improvement,4,47.38,18.35,13821.09,N
+LP10392,,No,3+,Graduate,Yes,33,532,4151,330,,240,1,Urban,Vehicle,4,56.17,12.43,10180.89,N
+LP10393,Male,Yes,2,Graduate,Yes,26,357,,273,900,,1,Rural,Home Improvement,1,17.33,10.94,8530.13,Y
+LP10394,Female,No,1,Not Graduate,Yes,21,490,1785,0,900,360,1,Semiurban,Home Improvement,2,27.02,8.23,6748.75,N
+LP10395,Female,No,3+,Not Graduate,No,34,370,4868,154,900,360,0,Semiurban,Home Improvement,2,,14.76,11207.46,N
+LP10396,Female,Yes,3+,Not Graduate,,21,555,2662,946,900,360,,Rural,Vehicle,0,50.52,,11798.5,N
+LP10397,Male,Yes,3+,Not Graduate,No,30,571,3262,0,,180,0,Semiurban,Education,6,61.33,9.29,9284.31,N
+LP10398,Female,Yes,3+,Not Graduate,,32,580,5040,0,900,,0,Semiurban,Education,0,27.93,18.02,13903.66,N
+LP10399,Female,No,2,Not Graduate,Yes,30,469,3637,1237,900,360,0,Rural,Vehicle,0,39.84,13.01,9962.83,Y
+LP10400,Male,No,0,Graduate,Yes,23,436,1795,492,900,240,,,Home Improvement,1,42.73,12.66,10326.95,Y
+LP10401,Male,Yes,2,Not Graduate,No,49,,2617,639,900,360,1,Urban,Home Improvement,1,54.95,,,N
+LP10402,Female,Yes,,,Yes,21,487,1124,630,900,240,0,Semiurban,Home Improvement,2,37.47,16.36,12765.0,N
+LP10403,Male,Yes,3+,Not Graduate,No,44,502,4716,0,900,360,1,Rural,Home Purchase,0,45.17,12.58,9661.22,Y
+LP10404,Male,No,0,Not Graduate,No,24,445,3405,0,900,240,1,Urban,Medical,4,57.68,15.57,12231.87,N
+LP10405,Female,Yes,3+,Not Graduate,No,25,336,4890,392,900,360,0,Urban,Medical,0,43.01,14.75,11200.28,N
+LP10406,Female,Yes,1,Not Graduate,Yes,29,600,3205,1239,900,240,1,Semiurban,,0,30.27,12.27,10079.7,N
+LP10407,Female,No,3+,Graduate,No,29,357,2077,0,900,360,1,Rural,Debt Consolidation,2,49.83,9.34,7462.85,N
+LP10408,Female,,2,Not Graduate,,49,511,3680,,900,240,0,Semiurban,Debt Consolidation,,49.65,13.02,10557.01,N
+LP10409,Female,No,0,Graduate,No,37,535,4512,684,900,240,1,Rural,Home Purchase,4,36.47,14.82,11731.58,N
+LP10410,Female,No,,Not Graduate,Yes,40,409,4913,0,,120,1,Urban,Debt Consolidation,1,55.96,,,N
+LP10411,Female,Yes,0,Graduate,Yes,34,387,2388,1306,900,,1,Rural,Debt Consolidation,1,64.5,12.63,13242.27,N
+LP10412,Female,Yes,1,Graduate,,45,325,3266,1490,900,180,0,Rural,Business,1,49.01,16.81,13730.03,N
+LP10413,Male,No,3+,Graduate,Yes,28,462,2961,,900,360,,Semiurban,Education,0,54.38,16.31,12328.04,N
+LP10414,Female,No,1,Graduate,No,35,586,2980,1195,900,240,0,Semiurban,Home Purchase,4,42.21,,10859.9,N
+LP10415,,No,3+,,Yes,41,436,4688,1594,,360,1,Urban,Business,1,23.31,11.8,9119.19,N
+LP10416,Female,No,3+,Not Graduate,No,23,480,3394,2025,900,240,0,Rural,Home Purchase,1,38.4,7.0,6977.69,N
+LP10417,Female,No,,Not Graduate,Yes,32,431,4876,1477,900,180,0,Rural,Debt Consolidation,3,50.04,14.11,12052.26,N
+LP10418,Female,Yes,1,,Yes,37,461,1544,1652,900,60,0,Rural,Home Purchase,2,60.87,15.59,21690.67,Y
+LP10419,Male,No,2,Not Graduate,No,,570,3182,249,900,360,0,Urban,Business,0,,15.76,11928.8,N
+LP10420,,No,0,Not Graduate,,23,420,4332,0,900,360,0,Rural,Education,1,65.22,14.26,,N
+LP10421,Female,,2,Not Graduate,No,40,549,1000,566,900,,0,Rural,Debt Consolidation,4,66.37,12.94,9913.61,N
+LP10422,Male,No,0,Graduate,Yes,36,493,2640,1327,900,180,0,Rural,Home Improvement,1,75.7,,,N
+LP10423,Female,,0,Graduate,No,34,331,4242,441,900,360,0,Semiurban,Home Improvement,,35.2,10.22,8044.85,N
+LP10424,Male,No,1,Not Graduate,Yes,29,472,,622,,240,0,Semiurban,Business,0,50.23,13.85,,N
+LP10425,Male,Yes,2,Graduate,,34,467,2496,,900,180,1,Rural,Medical,3,54.62,10.68,10049.26,Y
+LP10426,Male,No,2,Not Graduate,Yes,,,2973,411,900,360,0,Rural,Education,1,55.47,18.64,14034.61,N
+LP10427,Male,No,3+,Graduate,No,24,368,,780,900,180,1,Semiurban,Debt Consolidation,0,,12.88,11316.21,Y
+LP10428,Male,No,2,Graduate,Yes,28,468,3240,1171,900,240,0,Rural,Home Improvement,3,41.19,13.19,10666.24,N
+LP10429,Female,Yes,3+,Not Graduate,No,37,494,1817,1459,900,240,1,Rural,Home Purchase,,34.62,11.2,9412.51,N
+LP10430,Female,No,0,Not Graduate,Yes,30,372,2871,883,900,360,0,Rural,Debt Consolidation,2,58.49,15.42,11682.84,N
+LP10431,Male,Yes,2,Not Graduate,No,,563,1058,243,900,240,0,Rural,Medical,0,,15.16,11957.64,N
+LP10432,Male,No,1,Graduate,Yes,30,456,5749,1081,900,,1,,Vehicle,2,48.98,17.61,13620.28,Y
+LP10433,Male,Yes,2,Graduate,No,53,507,1919,1896,900,240,1,Rural,Medical,1,,10.79,9161.42,N
+LP10434,Male,No,1,Not Graduate,Yes,25,427,3894,0,900,240,1,Urban,Debt Consolidation,3,47.96,15.57,12231.87,Y
+LP10435,,No,0,Not Graduate,No,,513,6938,923,900,360,0,Rural,,3,35.45,,5987.72,N
+LP10436,Female,No,2,Graduate,No,21,511,1298,192,900,120,,Semiurban,Home Purchase,3,44.23,19.55,17125.34,N
+LP10437,Male,No,,Graduate,No,29,533,3248,877,900,360,0,Rural,Vehicle,,45.6,18.58,,N
+LP10438,Male,Yes,0,Graduate,No,21,413,5279,458,900,360,0,Rural,Education,1,66.77,7.0,5987.72,N
+LP10439,Female,No,0,Not Graduate,Yes,21,509,3283,,900,360,1,Semiurban,Vehicle,6,,,6354.67,Y
+LP10440,Male,No,2,Graduate,No,,343,4529,1969,900,,1,Rural,Medical,2,25.61,14.04,10692.35,Y
+LP10441,Male,No,2,Not Graduate,,,418,5489,0,900,360,0,Urban,Home Purchase,3,46.85,8.51,6926.6,Y
+LP10442,Female,Yes,,Graduate,,34,,3688,651,900,360,,Urban,Home Purchase,2,58.43,10.3,8098.38,Y
+LP10443,Female,Yes,,Not Graduate,Yes,30,407,2728,421,900,360,1,Semiurban,Medical,2,24.98,17.22,12991.92,Y
+LP10444,Female,No,2,Graduate,Yes,49,476,4272,0,,,0,Rural,Debt Consolidation,3,71.7,,9697.28,N
+LP10445,Male,No,3+,Graduate,Yes,21,426,3519,346,900,180,0,Semiurban,Education,0,62.39,14.88,12522.39,Y
+LP10446,,No,1,Not Graduate,No,21,535,1933,1842,900,360,0,,Vehicle,4,47.04,8.26,6767.73,N
+LP10447,Male,No,,Not Graduate,,24,554,3938,839,900,240,1,Semiurban,,1,41.05,,9653.74,Y
+LP10448,Female,No,3+,Graduate,Yes,32,589,3201,1819,900,,0,Urban,Home Improvement,0,45.95,18.22,14636.47,Y
+LP10449,Male,No,2,Not Graduate,No,35,423,4865,0,900,360,0,Urban,Medical,0,48.21,13.71,10457.61,N
+LP10450,,No,0,Graduate,Yes,23,432,,1127,900,,0,Semiurban,Education,1,49.35,10.08,7951.4,N
+LP10451,Female,,1,,No,38,486,1000,692,900,360,1,Rural,Vehicle,2,24.46,15.37,11646.73,N
+LP10452,Male,Yes,2,Not Graduate,Yes,30,543,2792,1032,900,,,Urban,Business,0,54.96,15.37,12825.14,N
+LP10453,Male,No,3+,Graduate,No,25,467,5430,1825,900,240,1,Rural,Business,1,68.12,12.53,10244.3,N
+LP10454,Male,Yes,0,Not Graduate,Yes,49,581,6465,220,900,360,1,,Debt Consolidation,3,40.4,16.4,12393.53,N
+LP10455,Male,No,1,Not Graduate,,23,,1526,1075,900,240,0,Semiurban,,0,59.17,15.66,12292.3,N
+LP10456,Male,,2,Not Graduate,No,27,454,5456,0,900,240,0,Semiurban,Education,0,45.21,12.97,10524.95,Y
+LP10457,Female,Yes,3+,Graduate,Yes,25,553,3336,,,,1,Rural,Medical,0,42.49,16.26,12291.68,N
+LP10458,Female,No,1,Graduate,Yes,39,533,4055,0,900,120,1,Semiurban,Medical,4,50.18,16.83,15544.97,N
+LP10459,Female,No,3+,Not Graduate,No,39,380,2111,361,900,240,1,Rural,Home Purchase,4,,12.56,10263.36,Y
+LP10460,Male,No,2,Not Graduate,No,32,518,1526,,900,60,0,Rural,Debt Consolidation,1,50.62,18.53,23114.36,Y
+LP10461,Male,Yes,3+,Not Graduate,,21,507,1588,397,900,240,0,Semiurban,Debt Consolidation,2,39.27,11.1,9351.02,Y
+LP10462,Female,Yes,2,Graduate,No,24,550,4041,,900,60,1,Semiurban,Business,3,43.76,10.78,19469.58,N
+LP10463,,Yes,1,Graduate,Yes,28,600,1000,0,900,180,0,Rural,Debt Consolidation,,42.22,20.12,15886.52,Y
+LP10464,Female,Yes,2,Graduate,No,21,461,3518,0,900,60,0,Rural,Debt Consolidation,3,32.23,10.81,19483.01,Y
+LP10465,Male,No,0,Not Graduate,Yes,32,373,1346,844,900,,1,Semiurban,Vehicle,0,46.77,9.18,7358.47,Y
+LP10466,Male,No,3+,Not Graduate,No,21,588,3853,117,900,180,0,Urban,Debt Consolidation,0,66.95,12.75,11239.53,N
+LP10467,Female,Yes,3+,Not Graduate,No,34,553,3732,1293,900,240,0,Semiurban,Medical,3,37.71,18.79,14439.33,N
+LP10468,Female,No,2,Not Graduate,,32,445,,1335,,180,1,Urban,,1,51.01,13.72,11816.84,Y
+LP10469,Male,No,1,Graduate,Yes,,521,4332,0,900,360,1,Urban,Business,4,42.82,15.15,,N
+LP10470,Female,Yes,2,Not Graduate,No,34,473,3446,1672,900,60,0,Rural,Home Improvement,2,38.7,11.63,19852.13,N
+LP10471,Male,Yes,3+,Not Graduate,Yes,36,463,,2082,900,60,0,Rural,Home Purchase,,48.97,12.17,20097.4,N
+LP10472,Male,Yes,,Not Graduate,No,22,504,1881,1226,900,360,1,Rural,,6,49.69,21.03,15802.87,N
+LP10473,Female,No,3+,Graduate,Yes,,582,2669,1115,900,240,1,Semiurban,Vehicle,3,68.59,17.68,13668.56,Y
+LP10474,Male,,3+,Graduate,No,22,441,1000,9,900,,0,Rural,Home Purchase,2,36.81,18.31,14104.89,N
+LP10475,Female,Yes,1,Graduate,Yes,34,516,3193,354,900,360,0,Urban,Medical,0,62.2,18.74,14108.3,N
+LP10476,Female,No,0,Graduate,Yes,32,540,2001,1649,900,360,,Rural,Home Purchase,2,52.59,12.73,9766.22,N
+LP10477,Female,No,2,Not Graduate,No,46,477,3349,243,900,240,0,Semiurban,Home Purchase,2,58.84,12.81,10422.6,N
+LP10478,Male,No,,,Yes,31,478,3564,0,900,,0,,Home Improvement,5,39.08,12.78,13321.43,Y
+LP10479,Female,No,,Graduate,Yes,21,368,1575,198,900,180,1,Semiurban,Home Improvement,3,68.76,15.6,12968.17,Y
+LP10480,Male,No,3+,Not Graduate,Yes,31,458,6482,485,900,,0,,Debt Consolidation,3,54.74,16.89,12750.74,N
+LP10481,Male,No,0,Not Graduate,No,41,380,3587,709,900,360,,Semiurban,Home Improvement,2,46.53,12.38,9521.59,N
+LP10482,Female,Yes,1,Not Graduate,No,26,409,3168,,900,360,0,,Business,1,42.3,18.98,14285.28,N
+LP10483,Male,Yes,0,Graduate,Yes,31,,2838,660,,240,0,Urban,Vehicle,3,52.97,11.99,9903.5,Y
+LP10484,Female,Yes,1,Not Graduate,Yes,21,543,2480,10,900,120,0,Rural,Business,2,46.85,,14333.33,N
+LP10485,Male,No,,Not Graduate,No,43,405,2782,416,900,360,0,Rural,,1,37.13,13.12,10040.28,N
+LP10486,Female,Yes,0,Graduate,No,28,482,1376,0,900,240,0,Urban,Medical,,36.73,16.46,12832.92,N
+LP10487,Female,Yes,3+,Not Graduate,No,36,459,2383,867,900,120,0,Rural,Home Improvement,4,68.13,14.26,14115.02,N
+LP10488,Female,No,3+,Graduate,No,35,,1468,143,900,60,1,Urban,Business,2,24.79,11.08,19604.11,N
+LP10489,Female,Yes,,Not Graduate,Yes,35,547,,75,900,,0,Rural,Debt Consolidation,3,32.19,18.22,13725.47,N
+LP10490,Female,No,0,Not Graduate,No,38,450,1338,0,900,360,1,Semiurban,Vehicle,1,38.55,12.45,9570.42,N
+LP10491,Female,Yes,3+,Not Graduate,No,22,475,2581,1011,900,240,0,Semiurban,,2,52.7,10.98,9277.45,N
+LP10492,,No,0,Not Graduate,No,30,500,1279,310,900,240,0,Rural,Home Purchase,3,29.39,7.16,7064.39,N
+LP10493,Male,No,3+,Not Graduate,No,47,600,2228,1160,900,360,,Rural,,4,50.8,15.93,12052.03,N
+LP10494,Male,No,0,Graduate,No,34,435,1000,0,,360,1,Rural,Medical,0,77.22,12.11,9333.79,N
+LP10495,Female,No,0,Not Graduate,No,41,567,3031,1367,,60,1,Urban,Home Purchase,1,50.84,14.93,21377.88,Y
+LP10496,Female,No,1,,Yes,41,430,1000,1326,900,60,0,Urban,Home Purchase,0,50.41,11.43,19761.73,N
+LP10497,Male,No,3+,Graduate,No,37,600,1476,885,900,60,0,Semiurban,Medical,0,45.85,10.07,19153.35,N
+LP10498,Male,No,3+,,No,27,447,1560,606,,360,1,Rural,Home Improvement,2,,15.29,11588.98,Y
+LP10499,Male,No,3+,Not Graduate,,21,565,1987,144,900,360,0,Urban,Home Purchase,1,37.68,10.37,8145.31,N
+LP10500,Male,No,1,Not Graduate,Yes,41,458,3603,1712,,240,1,Rural,Vehicle,2,32.95,13.87,11106.81,Y
+LP10501,,No,1,Graduate,No,,525,1324,0,900,360,1,Rural,Education,0,44.53,14.05,10699.47,N
+LP10502,Female,No,0,Not Graduate,Yes,44,,3773,0,900,240,1,Urban,Home Purchase,2,27.56,,11871.06,N
+LP10503,Male,Yes,2,Not Graduate,No,21,555,3898,0,900,120,0,,Home Purchase,2,62.11,17.57,15968.35,N
+LP10504,Female,No,3+,Not Graduate,Yes,27,400,2484,0,900,360,1,Rural,Education,3,56.81,7.0,5987.72,N
+LP10505,Female,,1,Graduate,,25,442,4305,570,900,360,,,,2,35.7,16.96,12801.86,N
+LP10506,Male,Yes,2,Graduate,No,48,464,4271,,900,360,0,Semiurban,Medical,0,43.18,9.67,7679.57,N
+LP10507,Male,No,3+,Not Graduate,No,34,,5061,864,900,360,0,Rural,Home Purchase,0,27.79,14.7,11164.39,Y
+LP10508,Male,No,,Not Graduate,Yes,23,538,2411,0,,60,1,Semiurban,Debt Consolidation,3,47.68,14.54,21194.24,N
+LP10509,,Yes,0,Graduate,Yes,47,391,3165,118,900,360,0,Rural,Business,0,31.09,,10970.89,N
+LP10510,Female,Yes,0,Graduate,Yes,44,478,3353,861,,180,0,Rural,Education,0,43.79,7.0,8089.45,N
+LP10511,Female,No,2,Not Graduate,Yes,42,580,5223,712,,360,0,Semiurban,Medical,0,59.8,12.0,9257.51,Y
+LP10512,,Yes,1,Graduate,No,,442,3361,7,900,360,0,Semiurban,Debt Consolidation,1,26.09,14.44,10978.04,N
+LP10513,Female,No,2,Not Graduate,Yes,21,522,2144,1428,900,240,0,Semiurban,Vehicle,0,30.25,8.3,7696.86,N
+LP10514,Male,Yes,,Not Graduate,No,21,442,4625,733,900,180,0,Rural,,2,40.72,12.89,11322.12,N
+LP10515,Female,No,3+,Not Graduate,No,35,483,2251,,,360,0,Rural,Medical,0,44.11,7.0,5987.72,N
+LP10516,Male,Yes,1,Graduate,Yes,22,482,1420,1209,900,240,0,Semiurban,Debt Consolidation,1,43.09,13.65,10963.65,N
+LP10517,Male,No,3+,,No,33,388,1000,901,900,360,0,Urban,Home Purchase,0,49.87,17.53,13218.91,N
+LP10518,Female,Yes,3+,Not Graduate,No,30,532,2430,1289,900,360,1,,Vehicle,5,35.33,11.04,8598.12,N
+LP10519,Female,,1,Not Graduate,No,30,391,2273,0,900,360,,Semiurban,Medical,0,54.16,14.14,10763.65,N
+LP10520,Male,Yes,1,Graduate,No,44,479,3384,1217,900,360,,Rural,Debt Consolidation,0,44.69,15.34,11625.07,N
+LP10521,Female,No,3+,Graduate,No,,496,1416,486,900,240,0,,Debt Consolidation,3,41.63,12.05,9941.17,N
+LP10522,Male,Yes,1,Not Graduate,No,22,,6690,2067,,240,1,Semiurban,,0,65.01,17.7,,N
+LP10523,Female,,1,Graduate,Yes,47,555,4311,605,900,360,,Semiurban,,4,49.3,8.6,6984.11,N
+LP10524,Female,No,,Graduate,Yes,58,401,1862,1871,900,240,1,Semiurban,Home Purchase,1,53.49,11.61,9666.17,N
+LP10525,,No,3+,Not Graduate,Yes,39,401,3236,0,900,180,0,Rural,Medical,3,30.6,14.28,12155.45,Y
+LP10526,Male,No,1,Not Graduate,No,21,,4344,475,900,60,1,Rural,Home Purchase,1,49.89,10.79,19474.06,N
+LP10527,,No,3+,Not Graduate,Yes,52,410,6097,2453,900,,1,Urban,Business,7,75.1,14.76,11691.82,Y
+LP10528,Male,No,2,Not Graduate,No,41,486,,420,900,360,1,Urban,Business,0,56.12,9.1,7306.45,Y
+LP10529,Male,Yes,2,Not Graduate,No,41,444,2565,,900,60,0,,Business,0,52.07,10.41,19304.41,N
+LP10530,Female,Yes,3+,Graduate,No,26,419,4077,,900,360,0,Semiurban,Home Improvement,1,55.39,14.82,11250.56,Y
+LP10531,Male,No,2,Not Graduate,No,23,451,2090,497,900,240,1,Semiurban,Home Purchase,0,61.92,15.19,11977.65,N
+LP10532,Female,No,1,Graduate,Yes,34,,1000,501,900,180,0,Urban,Education,3,45.93,10.47,9931.86,Y
+LP10533,Male,,2,Graduate,No,21,488,1168,,900,360,1,Semiurban,,2,53.3,8.86,7151.13,Y
+LP10534,Female,No,3+,,Yes,32,461,6634,1967,900,240,0,Urban,Debt Consolidation,0,58.26,,13132.81,N
+LP10535,Female,Yes,0,,No,23,,2698,1075,900,60,1,Rural,,0,49.03,,24005.03,N
+LP10536,Female,No,,Not Graduate,No,39,510,1741,923,900,180,1,Rural,Vehicle,3,47.32,19.61,15547.97,N
+LP10537,Male,,,Not Graduate,No,36,563,1767,161,900,60,0,Semiurban,Business,4,40.32,17.03,22381.84,Y
+LP10538,Male,No,0,Not Graduate,Yes,40,600,4653,1513,900,,,Rural,Medical,,39.07,12.65,20316.88,Y
+LP10539,Female,Yes,3+,Not Graduate,No,25,421,2061,0,900,360,0,,Debt Consolidation,2,44.12,18.18,13696.05,N
+LP10540,Male,,3+,,No,42,585,1000,1289,900,,0,,Education,0,27.3,15.93,12052.03,N
+LP10541,Female,Yes,3+,Not Graduate,Yes,21,,2086,,900,60,1,Rural,Home Improvement,,58.69,20.87,24282.25,N
+LP10542,Male,,2,,No,21,424,5122,522,900,360,0,Rural,Vehicle,0,42.22,7.08,6036.16,N
+LP10543,Male,No,2,Not Graduate,No,34,,7666,1521,900,360,1,Rural,Education,2,36.59,14.55,11056.82,N
+LP10544,Female,Yes,0,Graduate,No,33,389,1000,1670,900,120,0,,Home Improvement,,39.21,20.38,17620.36,N
+LP10545,Female,No,3+,Not Graduate,,43,483,1838,0,900,240,1,Rural,Home Purchase,0,63.02,9.64,8471.63,Y
+LP10546,Male,Yes,2,Graduate,Yes,39,434,3535,488,900,240,1,Semiurban,Home Improvement,0,,18.2,14028.48,N
+LP10547,Female,Yes,1,Graduate,No,42,375,5185,301,900,240,0,Semiurban,Home Improvement,0,35.49,15.29,12044.4,Y
+LP10548,,No,,Graduate,No,46,547,2324,112,900,240,,Urban,Medical,2,33.08,15.26,12024.37,N
+LP10549,Male,Yes,2,Graduate,No,39,,,782,900,240,0,Urban,Medical,0,45.62,15.45,12151.43,Y
+LP10550,Female,Yes,2,Not Graduate,No,25,,2531,,900,,0,Rural,Debt Consolidation,2,40.92,,11502.44,N
+LP10551,Male,Yes,0,Not Graduate,,34,480,4416,514,900,360,0,Urban,Debt Consolidation,3,46.06,14.6,11092.66,N
+LP10552,Male,No,2,Not Graduate,Yes,21,534,3702,260,900,120,0,Urban,Home Purchase,5,43.95,13.47,,N
+LP10553,Male,No,1,Not Graduate,Yes,27,563,4681,376,900,,1,Semiurban,Vehicle,,46.67,13.54,10337.04,N
+LP10554,Female,Yes,2,Graduate,No,35,,4875,,900,180,0,Rural,Vehicle,,52.38,15.82,13105.53,N
+LP10555,Female,No,1,Not Graduate,,,433,2139,0,900,240,1,Urban,,3,35.96,14.9,11784.66,Y
+LP10556,Male,Yes,,Graduate,Yes,44,381,4575,939,900,60,,Semiurban,Home Improvement,3,40.37,11.68,19874.77,N
+LP10557,Female,No,3+,Not Graduate,No,31,526,3788,679,,180,,Rural,Home Improvement,1,48.71,15.97,13199.49,Y
+LP10558,Male,No,1,Graduate,No,29,463,,827,900,360,1,Rural,Business,3,58.11,19.97,15016.96,N
+LP10559,Female,Yes,1,Not Graduate,No,32,,1000,218,900,180,0,Semiurban,Vehicle,1,32.97,7.0,8089.45,N
+LP10560,Male,No,1,Not Graduate,No,36,512,1871,423,,240,0,Semiurban,Debt Consolidation,1,60.93,9.74,8530.73,Y
+LP10561,Male,No,2,Not Graduate,Yes,43,532,1000,138,900,180,1,Semiurban,Medical,0,44.21,12.58,11139.6,N
+LP10562,Female,Yes,1,,No,26,346,5181,825,900,360,0,Rural,Debt Consolidation,1,64.3,10.63,,N
+LP10563,Male,,2,Graduate,Yes,21,378,4660,2703,900,240,0,Urban,Vehicle,4,39.55,14.39,11447.51,N
+LP10564,Female,Yes,0,Graduate,No,29,400,5837,116,900,240,,Urban,Vehicle,3,51.57,7.97,7511.17,Y
+LP10565,Female,Yes,2,Graduate,No,25,600,3933,0,900,180,0,Rural,Education,3,46.08,16.14,13306.26,N
+LP10566,Male,No,2,Not Graduate,No,,355,5376,6,900,360,0,,Home Improvement,2,55.32,13.55,,N
+LP10567,Female,Yes,2,,No,35,,3277,2195,900,240,,Rural,Debt Consolidation,5,42.08,11.68,9709.73,N
+LP10568,Female,No,,Not Graduate,Yes,55,,,286,900,,1,Urban,,0,38.11,15.58,14841.46,N
+LP10569,Male,Yes,3+,Not Graduate,,21,,5240,0,900,120,0,,Education,0,67.96,11.68,12746.45,N
+LP10570,Female,No,2,Not Graduate,Yes,23,515,4303,0,900,360,1,Semiurban,Education,,28.02,17.8,13416.92,N
+LP10571,Female,No,0,Not Graduate,No,40,349,4226,0,900,120,1,Urban,Debt Consolidation,0,41.37,12.79,,N
+LP10572,Male,No,2,Not Graduate,Yes,34,502,7082,,900,120,1,Urban,Medical,0,45.63,21.05,18024.11,Y
+LP10573,Female,No,1,Graduate,No,27,397,3326,248,900,240,1,Semiurban,Vehicle,0,58.29,18.5,14237.07,N
+LP10574,,No,0,Not Graduate,,32,494,2989,195,900,360,1,Rural,Business,2,28.01,12.75,9780.24,N
+LP10575,Male,Yes,2,Graduate,No,,326,4510,670,900,,1,Rural,Home Purchase,1,50.09,14.05,10699.47,N
+LP10576,Male,No,3+,,No,33,515,2512,1000,900,360,0,Rural,Business,3,51.22,17.22,12991.92,N
+LP10577,Female,Yes,2,Not Graduate,Yes,45,600,3181,149,900,360,1,Rural,Home Purchase,2,52.17,17.85,13453.62,N
+LP10578,Female,Yes,2,Not Graduate,No,31,,3491,987,900,60,1,Urban,Home Purchase,1,35.44,8.8,18595.28,Y
+LP10579,Female,Yes,3+,Graduate,,44,408,4034,952,900,360,,Urban,Home Improvement,5,47.11,,11214.64,N
+LP10580,,Yes,3+,Not Graduate,No,41,440,1411,604,900,60,0,Urban,Home Improvement,,38.72,12.19,20106.52,Y
+LP10581,Male,,0,Not Graduate,Yes,21,383,2905,1217,900,,0,,Medical,2,55.73,12.04,9285.23,N
+LP10582,Female,No,1,Not Graduate,Yes,26,412,1000,1204,900,360,0,Semiurban,Debt Consolidation,,24.93,15.67,11863.63,N
+LP10583,Female,Yes,0,Not Graduate,No,35,508,1740,1386,900,180,0,Urban,Medical,3,,,15567.83,Y
+LP10584,Male,,2,,No,25,497,4710,803,900,360,1,Urban,Education,2,29.71,16.94,12787.25,N
+LP10585,Male,Yes,3+,Graduate,No,35,600,5228,1525,,,1,Rural,Business,0,47.7,12.51,11098.56,N
+LP10586,Female,Yes,3+,Not Graduate,Yes,31,485,4683,515,,360,1,,,0,51.47,9.65,7666.38,Y
+LP10587,Female,,3+,Graduate,No,39,388,3928,997,900,240,,Rural,Education,5,42.26,12.35,10130.25,N
+LP10588,,No,3+,,Yes,45,468,1083,0,900,360,0,Urban,Business,1,46.97,15.29,11588.98,N
+LP10589,Male,No,,Not Graduate,No,21,451,3167,1364,900,120,1,Rural,Education,3,44.8,11.96,12891.58,N
+LP10590,Male,No,3+,Not Graduate,No,36,449,4441,804,900,360,1,,Debt Consolidation,0,55.07,10.87,8482.62,N
+LP10591,Male,Yes,2,Graduate,No,44,323,,1902,900,240,0,Rural,Home Improvement,0,52.69,15.13,,N
+LP10592,,No,3+,Not Graduate,No,,560,5666,842,900,240,1,Rural,,4,65.68,16.28,12710.74,N
+LP10593,Female,Yes,1,Graduate,No,25,497,1000,710,900,120,,Urban,Home Purchase,0,40.92,13.82,13876.74,N
+LP10594,Male,Yes,1,Graduate,No,40,421,2660,0,900,240,1,Semiurban,Home Improvement,,60.28,11.96,9884.69,N
+LP10595,Female,No,3+,Not Graduate,No,40,508,1369,881,900,180,0,Rural,Home Purchase,1,59.45,,15833.27,N
+LP10596,Male,No,1,Graduate,Yes,30,513,,329,,60,0,Urban,Home Purchase,2,41.15,16.6,22174.2,N
+LP10597,Female,No,3+,Not Graduate,No,21,541,1708,51,900,,0,Semiurban,Debt Consolidation,1,54.67,9.87,7811.82,N
+LP10598,Female,No,2,Not Graduate,No,25,,2454,1495,900,180,0,Urban,Business,4,46.52,13.31,11571.37,N
+LP10599,Female,No,2,Not Graduate,No,47,,1832,483,900,360,,Semiurban,Home Purchase,0,49.49,7.0,5987.72,N
+LP10600,Male,No,2,Not Graduate,Yes,46,523,2561,1252,900,,0,Urban,Home Purchase,0,34.13,10.76,8408.1,N
+LP10601,Male,No,2,Graduate,No,24,482,5550,0,900,180,,Rural,Business,1,50.47,14.26,,N
+LP10602,Male,Yes,2,Not Graduate,Yes,22,493,2334,0,900,240,0,Rural,Education,1,55.14,14.49,11513.39,N
+LP10603,Male,No,2,Not Graduate,Yes,34,368,2848,346,900,60,1,Semiurban,Vehicle,0,,17.87,22790.48,N
+LP10604,Female,,,Not Graduate,No,38,407,3732,533,900,360,1,Rural,Medical,4,37.48,11.88,9174.46,N
+LP10605,Female,Yes,2,Not Graduate,No,25,445,2037,0,900,240,0,Rural,Business,0,60.69,13.25,10704.88,N
+LP10606,Female,Yes,2,Graduate,No,39,436,2576,1971,900,360,1,Semiurban,Home Purchase,1,,,8105.08,N
+LP10607,Female,No,,Graduate,No,48,452,1987,196,900,180,1,,Home Purchase,2,47.44,12.05,10830.48,Y
+LP10608,,,0,Not Graduate,No,36,465,4644,923,900,360,,Urban,Home Purchase,2,54.1,17.62,,N
+LP10609,Male,Yes,1,Graduate,No,24,,5316,,,360,0,Semiurban,Business,5,45.36,16.88,12743.43,N
+LP10610,Female,Yes,2,Graduate,No,44,524,3889,817,900,360,,Rural,Vehicle,2,45.24,14.87,11286.49,N
+LP10611,Female,No,0,Graduate,Yes,32,511,4587,693,900,360,0,,Home Improvement,4,60.53,15.26,11567.34,Y
+LP10612,Female,No,0,Graduate,No,35,511,3850,1180,900,,1,Semiurban,,0,34.15,13.41,10245.02,N
+LP10613,Male,Yes,3+,,No,21,457,3479,0,900,60,1,Semiurban,Debt Consolidation,1,47.5,16.22,21991.59,N
+LP10614,Male,No,2,Not Graduate,No,34,389,,0,900,240,,Rural,Home Improvement,0,29.43,12.21,10041.85,N
+LP10615,Male,No,0,Not Graduate,No,32,504,2181,1092,900,120,0,Urban,Debt Consolidation,4,46.89,10.73,12260.35,N
+LP10616,Male,Yes,3+,Graduate,No,25,,1294,1339,900,120,1,Semiurban,Debt Consolidation,0,50.7,,15836.22,N
+LP10617,Female,Yes,3+,Not Graduate,Yes,29,427,3891,1306,900,360,0,Rural,Debt Consolidation,0,58.3,15.67,11863.63,N
+LP10618,,No,3+,Graduate,Yes,,500,4310,652,900,360,0,Rural,Home Improvement,1,36.0,10.57,8279.79,N
+LP10619,Female,Yes,2,,Yes,31,510,2451,828,900,240,,Semiurban,Debt Consolidation,2,44.63,16.26,12697.19,N
+LP10620,,Yes,2,Not Graduate,Yes,32,539,4071,603,900,240,0,,Medical,4,,12.25,10067.08,N
+LP10621,Male,No,3+,Not Graduate,No,21,470,4393,783,900,360,1,Semiurban,Vehicle,0,21.62,16.01,12110.07,N
+LP10622,Female,No,0,Graduate,No,,496,2905,2087,900,240,0,Rural,Medical,3,51.85,15.97,12501.05,N
+LP10623,Female,No,3+,Not Graduate,Yes,46,432,,744,900,120,0,Rural,,1,48.75,20.68,17800.69,N
+LP10624,Male,Yes,0,Graduate,,55,307,1557,1709,900,360,1,Semiurban,,2,,11.68,9036.43,N
+LP10625,Male,,2,Not Graduate,No,28,411,,1049,900,60,1,Rural,Home Purchase,4,30.78,12.79,20381.14,N
+LP10626,Male,No,,Graduate,Yes,49,501,1054,1616,900,240,1,Rural,Home Improvement,3,,13.01,10550.59,Y
+LP10627,Male,No,1,Graduate,No,27,485,2369,633,,180,1,Urban,Debt Consolidation,,47.32,10.2,9781.86,N
+LP10628,Female,No,1,Not Graduate,No,,471,2938,1229,,360,0,,Home Purchase,1,,11.32,8789.23,N
+LP10629,Male,No,2,Not Graduate,No,,511,1000,57,900,360,0,Rural,Medical,3,57.44,12.75,9780.24,N
+LP10630,Female,,1,,,28,568,4619,1550,900,,0,Semiurban,Debt Consolidation,1,34.35,14.92,11322.44,N
+LP10631,Female,,3+,Not Graduate,Yes,42,411,3655,1880,900,360,1,Semiurban,,,62.15,,8530.13,N
+LP10632,Female,No,3+,,No,23,497,5831,0,,,1,Semiurban,Home Purchase,0,48.89,7.0,6977.69,N
+LP10633,Male,No,0,Not Graduate,No,36,600,3881,2693,900,240,0,Semiurban,Business,,43.83,16.66,,N
+LP10634,Female,No,2,Graduate,No,23,597,5862,0,900,240,0,Rural,Debt Consolidation,0,66.23,13.56,10905.25,N
+LP10635,Female,No,0,Not Graduate,Yes,,563,2913,383,900,180,0,Semiurban,Education,3,47.0,14.59,12344.51,N
+LP10636,Male,No,2,,Yes,37,460,3972,0,900,180,1,Urban,Debt Consolidation,4,38.75,15.99,13212.03,Y
+LP10637,Female,No,2,Not Graduate,No,27,510,2604,0,900,180,0,Rural,Medical,0,23.78,10.97,10212.42,N
+LP10638,Female,,3+,Graduate,No,24,533,4824,745,900,360,0,Urban,Debt Consolidation,,46.13,10.09,7958.07,N
+LP10639,Male,No,3+,Not Graduate,,26,563,,473,900,240,0,Semiurban,Medical,4,43.07,15.99,12514.55,N
+LP10640,Female,No,2,Not Graduate,No,36,502,5063,,900,120,0,Semiurban,Home Improvement,4,41.16,13.64,13779.83,N
+LP10641,,Yes,0,Graduate,No,24,471,2202,1060,900,180,1,Rural,Home Purchase,2,54.24,9.07,9165.91,N
+LP10642,,Yes,3+,Not Graduate,No,27,382,,2442,900,240,0,Semiurban,Vehicle,2,31.41,,9351.02,N
+LP10643,Male,No,2,Graduate,Yes,35,494,1000,2044,900,360,,Rural,Business,3,,,10019.15,N
+LP10644,Female,No,1,,No,,487,2460,893,900,360,1,Urban,Business,0,45.56,11.55,8946.97,N
+LP10645,Male,Yes,2,Graduate,Yes,23,491,1282,224,900,240,0,Semiurban,,1,29.67,18.7,,N
+LP10646,Female,Yes,3+,Not Graduate,Yes,32,395,3711,0,900,60,0,Rural,Debt Consolidation,0,,17.0,22367.32,N
+LP10647,Female,,0,Graduate,No,42,571,2701,,900,60,0,Rural,Education,6,30.39,,23163.65,N
+LP10648,,Yes,0,Not Graduate,No,28,509,4432,117,900,180,1,Semiurban,Home Improvement,0,56.34,15.22,12732.17,N
+LP10649,Female,Yes,3+,Not Graduate,Yes,32,435,3482,725,900,360,0,Urban,Home Purchase,3,43.65,13.19,10089.63,N
+LP10650,Male,Yes,0,Graduate,No,21,375,,0,,,,Rural,Education,3,46.99,20.6,16207.05,N
+LP10651,Male,No,,Not Graduate,No,22,555,4858,1625,900,60,0,Rural,Debt Consolidation,4,40.57,8.35,18399.88,Y
+LP10652,Male,Yes,2,Not Graduate,No,47,420,3402,1349,900,180,1,Rural,Education,0,38.63,12.0,10801.51,Y
+LP10653,Male,Yes,2,Not Graduate,No,,500,3290,,900,360,0,Rural,Home Improvement,4,33.09,17.56,13240.9,N
+LP10654,Male,No,0,Not Graduate,No,49,447,,1285,900,360,0,Rural,Vehicle,2,45.44,10.94,,N
+LP10655,Female,No,3+,Graduate,No,49,435,3642,1159,900,180,0,Urban,Education,0,43.75,13.7,11804.82,N
+LP10656,Male,No,,Graduate,,35,519,4103,2028,900,60,0,Urban,Home Purchase,0,33.37,7.0,,N
+LP10657,Female,No,,Not Graduate,No,,486,3779,,900,180,0,,Home Improvement,2,38.82,,15733.58,N
+LP10658,Male,,1,Graduate,No,27,,7768,0,900,60,1,Rural,Vehicle,2,47.93,11.24,19676.07,N
+LP10659,,No,3+,Not Graduate,No,31,391,3424,331,900,360,0,Rural,Home Purchase,0,31.65,11.87,9167.55,N
+LP10660,Male,No,1,Not Graduate,Yes,41,500,2088,486,900,360,0,Rural,Home Improvement,2,17.78,17.63,,Y
+LP10661,Male,No,3+,Not Graduate,No,29,446,5105,119,900,360,0,Semiurban,Business,1,71.95,11.96,9229.81,N
+LP10662,Male,Yes,1,Not Graduate,No,33,325,4149,695,900,240,0,Rural,Home Improvement,0,53.71,10.46,8961.25,N
+LP10663,Male,No,1,Not Graduate,Yes,24,585,,324,900,,0,Semiurban,Debt Consolidation,3,56.02,14.6,,N
+LP10664,Female,No,3+,Not Graduate,Yes,22,600,2308,0,900,240,0,Rural,Debt Consolidation,,,,11270.21,Y
+LP10665,Female,No,0,Graduate,Yes,21,522,,,900,360,1,,Business,1,62.81,17.78,13402.24,N
+LP10666,,No,1,Not Graduate,Yes,21,383,3089,828,900,360,,Rural,Home Purchase,0,57.68,,11114.17,N
+LP10667,Female,Yes,2,Not Graduate,No,38,487,2491,506,900,180,1,Urban,Education,2,66.37,,,N
+LP10668,Male,Yes,3+,Not Graduate,Yes,38,440,2827,,900,360,0,Urban,Home Improvement,0,,18.95,14263.15,Y
+LP10669,Male,Yes,0,Not Graduate,No,33,,1489,528,900,360,0,Urban,Business,3,45.43,13.13,,Y
+LP10670,Female,No,1,Not Graduate,No,45,417,4048,0,,180,0,Rural,Medical,1,59.51,19.5,15475.23,N
+LP10671,Female,No,2,,,28,458,3621,330,,60,,Semiurban,Home Improvement,,57.39,12.89,20427.12,N
+LP10672,Male,No,2,Not Graduate,Yes,,462,,,900,240,1,Rural,Debt Consolidation,2,,17.82,13765.26,N
+LP10673,Male,Yes,2,Graduate,No,21,395,2609,915,900,,1,Urban,Business,0,26.24,16.13,12609.16,N
+LP10674,Female,No,3+,Not Graduate,No,44,513,4083,491,900,360,1,Semiurban,Debt Consolidation,1,35.79,,8118.48,N
+LP10675,Female,No,2,Not Graduate,No,36,428,4673,,,120,1,Urban,Home Purchase,2,69.46,15.06,14553.23,N
+LP10676,Male,No,1,Graduate,No,22,,3805,581,900,240,0,Rural,Debt Consolidation,1,42.43,13.08,10595.52,N
+LP10677,Female,No,2,Graduate,Yes,39,514,3775,548,900,60,1,Rural,Medical,0,43.05,8.74,18569.16,N
+LP10678,Male,No,3+,Not Graduate,No,37,547,4176,0,900,360,0,Semiurban,Home Purchase,2,58.34,12.43,9556.46,N
+LP10679,Male,No,3+,Graduate,Yes,40,526,5053,881,900,360,1,Rural,Debt Consolidation,1,45.03,13.37,10216.73,Y
+LP10680,Female,No,2,Not Graduate,No,39,472,1794,0,900,180,0,Rural,Medical,0,,10.91,10178.57,N
+LP10681,Male,No,3+,Not Graduate,Yes,37,600,5953,1888,900,180,0,Rural,Vehicle,0,67.21,15.99,13212.03,N
+LP10682,Male,Yes,3+,Graduate,,48,575,2484,635,900,360,0,Semiurban,Education,2,49.52,13.14,10054.38,N
+LP10683,,Yes,2,Graduate,No,24,486,1617,1094,900,,,Semiurban,Debt Consolidation,1,40.09,11.53,12669.04,N
+LP10684,Female,No,2,Graduate,Yes,21,524,3390,466,,240,0,,Education,,26.61,13.33,10756.47,Y
+LP10685,Male,No,2,Not Graduate,,31,404,2838,896,900,180,1,Urban,Business,5,32.92,12.91,11333.93,Y
+LP10686,Male,No,,Graduate,No,39,459,2953,1252,900,120,1,Semiurban,Education,0,62.27,12.48,13163.35,Y
+LP10687,Male,Yes,3+,,Yes,35,478,5657,0,900,180,0,,Business,,35.35,7.0,8089.45,N
+LP10688,Male,No,0,,,28,441,4167,0,,180,0,Urban,Medical,,41.17,19.91,15746.86,N
+LP10689,,No,2,Not Graduate,,21,379,3960,1126,900,240,0,,Home Purchase,1,30.82,14.17,11302.98,N
+LP10690,Female,No,1,Graduate,,,454,1574,800,900,360,,Rural,Debt Consolidation,5,72.37,13.94,10621.12,N
+LP10691,Male,Yes,1,Not Graduate,No,29,542,1932,1114,900,60,0,Rural,,,58.33,,19911.02,N
+LP10692,Male,No,3+,Not Graduate,No,27,562,2843,1268,,240,1,Semiurban,Business,2,41.67,11.11,9357.16,N
+LP10693,Female,No,3+,Graduate,No,21,427,3786,1170,900,360,1,,,1,51.31,15.96,,N
+LP10694,Male,No,3+,Graduate,No,36,413,5135,0,900,60,0,Rural,Education,0,,,22121.26,N
+LP10695,Male,No,3+,Graduate,Yes,41,342,4962,403,900,360,1,Semiurban,Education,3,33.05,20.49,15402.21,N
+LP10696,Male,No,1,Graduate,Yes,33,537,1000,0,900,360,,Urban,Home Improvement,3,28.26,13.25,10131.96,N
+LP10697,Male,Yes,3+,Graduate,No,41,519,2933,995,900,240,0,Urban,,,26.89,14.24,11348.91,N
+LP10698,Female,,2,Not Graduate,No,40,483,1455,0,,240,0,Semiurban,Home Improvement,5,68.34,14.73,11671.95,N
+LP10699,Female,No,2,Graduate,No,33,578,1000,0,900,240,0,Rural,Debt Consolidation,2,58.17,17.13,13290.25,N
+LP10700,Female,No,3+,Not Graduate,No,36,403,2983,975,900,180,1,Urban,Education,0,68.63,15.07,12639.46,N
+LP10701,,No,2,Not Graduate,Yes,46,497,2496,1432,900,180,0,Rural,Business,1,61.49,14.32,12179.78,N
+LP10702,Female,No,1,Graduate,Yes,23,600,1000,250,900,360,1,Rural,Home Improvement,1,51.28,12.19,9389.35,Y
+LP10703,Male,,0,Not Graduate,No,35,535,1000,,900,60,0,,Home Improvement,1,41.36,7.0,,N
+LP10704,Female,,3+,,Yes,30,503,5067,525,900,240,1,Rural,Business,1,,14.58,11572.77,Y
+LP10705,,Yes,1,Not Graduate,Yes,31,429,1830,838,900,240,0,Urban,Education,,52.05,14.18,11309.54,N
+LP10706,Female,No,3+,,Yes,21,549,4232,936,900,240,0,Urban,,0,58.63,23.48,17779.89,N
+LP10707,Female,No,2,Graduate,Yes,35,491,2955,2277,900,120,1,Rural,Home Purchase,2,,14.38,14180.34,Y
+LP10708,Male,No,2,Graduate,Yes,32,445,,319,900,,1,Rural,Debt Consolidation,2,49.04,,19743.68,N
+LP10709,Female,No,2,Graduate,No,28,491,5098,,900,240,1,Rural,Education,0,68.22,13.56,10905.25,N
+LP10710,,,1,Not Graduate,No,34,,3755,0,900,360,0,Semiurban,Home Purchase,5,,17.73,13365.56,N
+LP10711,Male,Yes,2,Graduate,No,26,578,1909,923,900,,0,Urban,Home Purchase,0,50.32,16.81,12692.34,N
+LP10712,Male,No,3+,Graduate,No,21,,3326,0,900,360,0,Rural,Home Purchase,1,53.88,10.93,,N
+LP10713,Female,No,,Not Graduate,,30,546,2887,190,900,120,1,Semiurban,Home Purchase,2,44.95,17.98,16205.08,Y
+LP10714,Male,Yes,2,Graduate,Yes,23,434,1529,418,900,240,0,Rural,Business,3,18.25,,8864.83,N
+LP10715,Male,No,1,Not Graduate,Yes,34,588,2763,985,900,240,0,Rural,Education,6,59.77,15.21,11990.99,N
+LP10716,Female,No,0,Not Graduate,No,24,510,2355,1049,900,120,0,Urban,Business,3,55.72,16.23,15205.43,N
+LP10717,Male,No,3+,Graduate,No,25,475,2658,0,900,360,0,Urban,Medical,3,,15.94,,N
+LP10718,Male,Yes,0,Not Graduate,No,26,403,4879,,900,120,0,Semiurban,Home Purchase,0,41.15,14.56,14278.6,Y
+LP10719,Female,No,2,Graduate,No,21,,3312,350,,180,0,Semiurban,Medical,1,54.33,14.66,12387.36,N
+LP10720,Female,No,1,Graduate,Yes,43,419,1871,1355,900,60,0,Semiurban,Home Purchase,1,,15.26,21533.96,N
+LP10721,Male,Yes,3+,Graduate,No,21,339,3620,0,,360,1,Rural,Home Purchase,0,36.28,13.59,10372.48,N
+LP10722,Male,No,1,Not Graduate,No,36,,,,900,180,0,Rural,Business,2,22.72,14.58,12338.4,N
+LP10723,Female,Yes,,Not Graduate,Yes,37,600,3175,,900,120,0,,Education,,50.21,7.24,10561.43,N
+LP10724,Male,Yes,3+,Not Graduate,No,24,576,4177,866,900,360,0,,Home Improvement,0,,17.1,12904.16,Y
+LP10725,,Yes,0,Not Graduate,No,28,,4888,232,900,360,0,Semiurban,Medical,0,50.2,13.34,10195.53,Y
+LP10726,Female,No,0,Graduate,Yes,34,403,1000,674,900,180,0,Urban,Business,2,61.5,12.35,11004.99,N
+LP10727,Female,Yes,3+,,Yes,44,549,4154,857,900,360,0,Urban,Debt Consolidation,2,39.59,14.01,10670.97,N
+LP10728,Male,No,,Graduate,Yes,26,575,2592,805,900,360,0,Urban,Education,0,50.37,9.06,7280.49,N
+LP10729,Female,No,3+,Graduate,Yes,29,300,2240,1292,900,240,,Rural,Vehicle,2,34.06,12.19,10029.25,N
+LP10730,Male,No,2,Graduate,Yes,48,418,3797,260,900,120,1,Rural,Vehicle,3,66.15,15.29,14680.39,N
+LP10731,Female,No,0,Not Graduate,No,40,488,4508,381,900,60,0,Urban,Vehicle,0,55.51,16.06,21914.95,N
+LP10732,Male,No,2,Not Graduate,No,21,399,,1972,900,120,1,,Medical,2,26.85,,13021.88,Y
+LP10733,,No,2,Not Graduate,No,42,,5475,1003,900,120,1,,Debt Consolidation,0,68.56,11.98,12901.98,N
+LP10734,Male,No,1,Not Graduate,No,,526,3554,0,900,180,,Rural,,0,50.0,14.09,,N
+LP10735,Female,Yes,,Not Graduate,No,,507,4676,74,900,60,0,Semiurban,Medical,,70.03,12.14,20083.73,Y
+LP10736,Male,No,3+,Not Graduate,,21,480,3682,,900,180,0,Urban,,1,42.46,13.29,11559.45,N
+LP10737,Male,Yes,3+,Not Graduate,No,37,476,3935,0,900,180,1,Semiurban,Vehicle,2,55.81,11.86,10720.58,Y
+LP10738,Female,No,2,Graduate,No,34,507,1527,1117,900,180,1,Rural,Business,0,46.69,15.24,12744.56,Y
+LP10739,Female,No,3+,Not Graduate,No,35,462,5486,936,,360,1,Rural,Debt Consolidation,,51.09,15.44,11697.29,N
+LP10740,Female,Yes,3+,Not Graduate,Yes,29,338,3370,0,900,360,0,,Vehicle,4,37.26,11.81,9126.1,N
+LP10741,Male,Yes,0,Not Graduate,Yes,23,523,3300,372,900,120,1,Urban,Home Improvement,5,53.91,12.18,,Y
+LP10742,,Yes,1,Not Graduate,Yes,27,541,4897,807,900,240,0,Rural,Debt Consolidation,,39.2,14.26,11362.04,N
+LP10743,Female,Yes,2,Graduate,No,34,590,1000,0,900,240,0,Urban,Debt Consolidation,,65.16,13.09,10601.94,N
+LP10744,Female,No,2,Not Graduate,,49,462,1000,0,900,60,0,,Home Improvement,1,24.82,12.66,20321.46,N
+LP10745,,No,2,Graduate,,,537,3811,1711,900,240,0,Urban,Vehicle,0,41.84,14.89,11778.02,N
+LP10746,Male,No,2,,Yes,37,531,3662,645,900,,1,Urban,Business,4,60.65,10.6,8300.01,Y
+LP10747,Male,No,3+,Graduate,No,37,600,3714,1112,900,,1,Rural,Home Improvement,5,64.86,20.23,15452.06,N
+LP10748,Male,No,0,Not Graduate,Yes,31,475,5597,0,900,360,,Semiurban,Debt Consolidation,3,58.88,14.38,10935.11,Y
+LP10749,Male,No,2,Not Graduate,No,37,489,1460,0,900,360,0,Rural,Medical,1,63.54,19.95,15002.15,N
+LP10750,Female,Yes,0,Not Graduate,Yes,28,600,2026,1628,900,240,,Urban,Education,,31.64,22.26,16900.18,Y
+LP10751,Male,No,0,Graduate,No,21,383,3739,0,900,180,1,Rural,Medical,5,59.43,17.29,14036.44,Y
+LP10752,Male,,3+,Not Graduate,Yes,,503,6216,2065,900,360,0,Rural,Vehicle,3,,17.94,13519.7,N
+LP10753,Female,No,0,Not Graduate,Yes,36,493,4706,763,900,180,0,Rural,Debt Consolidation,6,46.74,23.55,18213.44,Y
+LP10754,Male,Yes,2,Not Graduate,,21,513,4375,256,,240,1,,Vehicle,3,,9.86,8601.88,Y
+LP10755,Male,No,3+,Not Graduate,Yes,21,455,2601,866,900,180,0,Rural,Medical,0,62.15,17.85,,N
+LP10756,Female,No,1,Graduate,No,,536,4889,0,,240,0,Semiurban,Home Purchase,4,50.86,17.25,13372.58,N
+LP10757,Male,No,,Graduate,Yes,35,453,2859,1129,900,360,1,Urban,Education,0,72.65,8.53,6939.37,N
+LP10758,Male,Yes,2,Graduate,No,41,487,3227,0,900,360,0,Urban,Vehicle,3,15,20.63,15506.03,Y
+LP10759,Male,Yes,0,Not Graduate,No,49,,2919,825,900,240,0,,Debt Consolidation,2,29.91,22.13,16806.82,N
+LP10760,Male,Yes,0,Not Graduate,No,34,338,3745,0,900,60,0,Semiurban,Home Purchase,,50.4,12.25,20133.89,Y
+LP10761,Female,No,1,,No,21,390,3728,226,900,360,1,Rural,Business,0,56.88,15.58,11798.5,N
+LP10762,Female,No,,Not Graduate,No,21,390,5124,184,900,360,0,Rural,Home Improvement,0,38.9,13.25,10131.96,Y
+LP10763,Male,No,3+,,No,37,,1000,522,900,240,0,Rural,Education,,42.85,10.56,9021.72,N
+LP10764,Female,No,2,Not Graduate,No,28,363,,1409,900,360,1,Rural,Education,1,15,7.0,5987.72,N
+LP10765,Female,No,0,Not Graduate,Yes,31,469,2466,,900,240,1,Urban,Business,1,36.58,14.23,11342.34,Y
+LP10766,Female,No,0,Graduate,Yes,32,480,4799,,900,180,0,Rural,Medical,2,59.96,13.99,11979.63,N
+LP10767,Female,Yes,2,Not Graduate,No,33,493,4010,1231,900,,0,Rural,Medical,2,,14.03,10685.22,N
+LP10768,Female,No,2,Graduate,,,471,3893,1674,900,180,1,,,0,37.08,12.29,10969.99,N
+LP10769,Male,No,1,Not Graduate,,53,600,3290,578,900,240,1,Semiurban,,1,54.42,13.87,11106.81,N
+LP10770,Male,No,,Graduate,Yes,30,504,1997,,900,240,1,Rural,Medical,3,38.24,12.16,10010.35,N
+LP10771,Female,No,3+,Graduate,No,37,475,5180,806,900,360,0,Semiurban,Medical,1,58.96,,9941.73,N
+LP10772,Female,No,3+,Graduate,No,21,450,3174,1797,900,360,,Urban,Debt Consolidation,,60.31,7.69,6410.43,N
+LP10773,Male,Yes,3+,Graduate,No,28,597,6224,535,,360,1,Rural,Medical,2,46.11,12.19,,Y
+LP10774,Male,No,1,Graduate,Yes,32,556,5158,,900,360,1,,,3,,16.43,12415.36,Y
+LP10775,Male,Yes,2,Graduate,No,44,423,2838,1835,900,180,0,Rural,Home Improvement,3,27.72,10.97,10212.42,N
+LP10776,Male,Yes,2,Graduate,Yes,32,,2377,2083,900,360,0,Semiurban,Education,0,,16.96,12801.86,N
+LP10777,Male,Yes,,Graduate,No,,391,1192,1257,900,240,1,Semiurban,Home Purchase,1,39.43,15.42,,N
+LP10778,Female,Yes,3+,Graduate,Yes,,,5293,107,900,360,,Rural,Home Purchase,4,33.08,18.94,14255.77,N
+LP10779,Female,No,0,Not Graduate,No,23,577,3007,496,,360,1,,Home Purchase,2,54.01,11.97,9236.74,Y
+LP10780,Male,,3+,Graduate,No,33,515,1809,1280,900,180,0,Rural,Medical,,44.89,8.25,8731.26,N
+LP10781,Female,Yes,3+,Not Graduate,No,36,497,2186,223,900,240,1,Urban,Debt Consolidation,0,60.27,15.64,12278.86,Y
+LP10782,,No,0,Not Graduate,No,21,342,1936,1055,900,240,1,Semiurban,Vehicle,,63.97,,13153.32,Y
+LP10783,Male,,3+,,Yes,21,491,1397,0,900,360,0,Semiurban,Home Improvement,,39.77,15.92,12044.77,N
+LP10784,Female,No,2,Not Graduate,No,,540,3947,1101,900,360,0,Urban,Debt Consolidation,3,47.68,18.89,,N
+LP10785,,No,2,Not Graduate,No,21,488,1018,1123,900,,,Rural,Debt Consolidation,1,45.23,11.67,9703.5,N
+LP10786,Male,Yes,0,,No,23,565,4852,668,900,360,1,Rural,Education,0,46.42,11.59,8974.48,Y
+LP10787,Female,No,1,Not Graduate,No,,477,3101,0,900,60,0,Semiurban,Vehicle,1,48.02,12.16,20092.85,N
+LP10788,Male,No,2,Not Graduate,No,40,497,,731,900,360,0,Rural,Vehicle,4,,15.06,11423.19,N
+LP10789,,No,0,Not Graduate,Yes,,398,4736,490,900,360,1,Rural,Home Purchase,3,57.15,17.52,13211.58,Y
+LP10790,Female,No,2,Graduate,No,28,481,4491,825,,360,0,Semiurban,Debt Consolidation,2,58.24,13.32,10181.39,N
+LP10791,Male,No,3+,Not Graduate,Yes,41,592,3177,1354,900,360,1,Rural,Home Purchase,3,26.26,16.29,,N
+LP10792,Female,Yes,1,Not Graduate,Yes,29,437,,237,900,120,1,Rural,Home Purchase,2,52.9,11.4,12602.15,N
+LP10793,Male,Yes,,Not Graduate,No,30,464,2727,530,900,360,1,Urban,Home Improvement,2,52.2,8.98,7228.66,N
+LP10794,Male,Yes,3+,Not Graduate,Yes,45,594,3475,0,900,240,1,Semiurban,Education,6,39.75,15.1,11917.66,N
+LP10795,Female,Yes,1,Not Graduate,No,35,407,1730,1943,900,360,1,Rural,Medical,0,59.99,19.71,14824.56,N
+LP10796,Female,Yes,,Graduate,,22,446,3178,0,900,360,1,Rural,Medical,,53.44,13.22,,Y
+LP10797,Male,No,3+,Graduate,Yes,40,,4092,1535,900,60,1,Rural,Business,0,54.31,10.03,19135.63,N
+LP10798,Male,No,0,Not Graduate,No,35,377,1287,343,900,360,0,Semiurban,Debt Consolidation,0,39.31,16.65,,N
+LP10799,,No,2,Graduate,Yes,42,436,3343,1773,900,,0,Urban,,3,49.68,15.18,11509.65,N
+LP10800,Male,Yes,2,Graduate,Yes,28,435,,406,900,240,1,Rural,Medical,3,29.59,12.23,10054.47,N
+LP10801,Female,,3+,Graduate,No,21,427,5595,0,900,360,1,Rural,Business,1,45.18,11.6,8981.36,Y
+LP10802,Female,No,0,Not Graduate,No,52,459,2246,795,,,1,Rural,Education,0,47.31,14.07,12028.03,Y
+LP10803,Female,No,3+,Graduate,No,28,535,3913,51,900,360,1,Rural,,0,33.4,,10949.42,N
+LP10804,Female,Yes,2,Not Graduate,No,40,412,3608,668,900,360,0,Rural,Home Improvement,3,32.23,13.7,10450.51,N
+LP10805,Male,No,0,Not Graduate,Yes,36,519,1378,1109,900,180,0,Rural,Debt Consolidation,6,53.48,15.54,12930.8,N
+LP10806,Male,Yes,2,Not Graduate,No,27,482,6714,382,900,360,1,Semiurban,Education,1,45.02,8.57,6964.92,Y
+LP10807,Male,No,1,Graduate,Yes,33,463,4523,898,900,360,1,,Debt Consolidation,2,50.93,13.78,10507.33,N
+LP10808,Male,Yes,0,Not Graduate,Yes,31,564,3050,,900,240,1,Rural,Home Purchase,5,64.07,12.89,10473.73,Y
+LP10809,Male,No,2,Not Graduate,No,21,536,1000,1552,900,120,0,Rural,Debt Consolidation,0,46.28,12.84,13353.17,N
+LP10810,Female,No,0,Graduate,Yes,33,479,3362,634,900,360,0,Semiurban,Vehicle,3,82.14,12.65,9710.19,N
+LP10811,Male,Yes,0,Not Graduate,No,21,493,3238,578,900,360,1,Semiurban,Home Improvement,2,25.24,15.42,11682.84,N
+LP10812,Male,Yes,3+,Graduate,No,23,507,1699,0,900,,1,Urban,Home Improvement,0,,14.45,10985.2,N
+LP10813,Female,No,0,Not Graduate,No,33,534,2515,0,900,360,0,,Vehicle,6,,11.24,8734.52,N
+LP10814,Female,Yes,1,Not Graduate,Yes,45,600,6072,0,,,0,Rural,Home Improvement,0,50.52,17.43,13145.65,N
+LP10815,Female,Yes,2,Graduate,,31,495,2680,2089,900,360,0,Rural,Medical,0,,18.94,14255.77,N
+LP10816,Female,No,3+,Not Graduate,Yes,36,458,3616,1044,900,360,1,Urban,Medical,0,45.68,11.19,8700.37,Y
+LP10817,Female,,2,Graduate,Yes,,393,2834,896,900,180,1,Urban,Business,3,,13.04,11410.88,Y
+LP10818,Female,No,2,Not Graduate,No,,474,1438,48,900,360,1,Rural,Home Improvement,3,37.26,13.93,10614.0,N
+LP10819,Male,Yes,2,Not Graduate,No,27,379,3386,598,900,360,,Rural,,1,57.32,13.22,10110.79,N
+LP10820,Male,No,1,Not Graduate,No,36,458,,0,900,360,1,Semiurban,Debt Consolidation,5,48.86,12.65,9710.19,N
+LP10821,Male,Yes,2,Not Graduate,Yes,31,584,1300,0,900,240,0,Rural,Business,3,45.21,15.16,11957.64,N
+LP10822,Female,Yes,2,Graduate,No,29,590,2937,959,,,0,Rural,Vehicle,6,37.73,14.55,11552.97,N
+LP10823,Male,No,,Graduate,Yes,34,412,1761,805,20,240,,Rural,Vehicle,,45.07,10.51,,N
+LP10824,Male,Yes,3+,,No,31,450,1252,0,900,360,0,Urban,Education,1,66.5,18.06,13607.85,Y
+LP10825,,Yes,2,Not Graduate,Yes,,381,1889,1654,900,360,0,Semiurban,Home Purchase,1,44.55,9.97,7878.2,N
+LP10826,Male,Yes,3+,Not Graduate,No,33,391,1958,0,900,180,,Urban,Home Purchase,0,,20.95,16441.89,Y
+LP10827,Male,No,1,Not Graduate,No,33,482,1000,2022,900,240,1,Rural,Education,4,68.02,,9039.89,N
+LP10828,Male,,1,Graduate,No,36,467,4958,1537,900,240,0,Semiurban,Home Improvement,4,,11.3,9474.14,N
+LP10829,Male,No,3+,Graduate,Yes,21,418,1455,58,900,180,0,Rural,Vehicle,2,34.75,13.38,11613.13,N
+LP10830,,Yes,2,Graduate,Yes,32,495,1140,703,900,240,,Urban,Business,3,36.68,17.21,13345.12,N
+LP10831,Male,Yes,3+,Graduate,No,24,510,3769,0,900,120,0,Semiurban,Home Purchase,4,45.66,19.03,16818.16,N
+LP10832,Male,No,3+,Graduate,,25,516,4630,234,900,240,1,Semiurban,Business,0,56.11,15.29,12044.4,Y
+LP10833,Female,No,3+,,No,23,511,1522,1948,900,180,1,Semiurban,Medical,1,25.32,10.79,10111.01,Y
+LP10834,Female,,2,Not Graduate,No,40,554,1747,0,900,180,0,Rural,Home Improvement,3,35.73,12.0,10801.51,N
+LP10835,Female,,3+,Graduate,No,37,505,3489,0,900,120,1,Urban,Medical,0,24.9,,11298.79,N
+LP10836,Male,No,,Not Graduate,Yes,39,396,,763,900,360,1,Urban,Debt Consolidation,2,51.27,12.57,9654.23,N
+LP10837,Male,No,2,Graduate,,56,532,3411,663,900,180,0,Rural,Home Purchase,1,49.41,20.36,16046.56,N
+LP10838,Male,No,2,Not Graduate,,42,320,3648,624,900,240,0,Urban,Medical,3,44.73,16.92,13146.48,Y
+LP10839,Male,No,3+,Graduate,No,27,590,6619,1598,900,360,0,Semiurban,Home Improvement,4,47.44,7.57,6336.13,N
+LP10840,Female,No,2,Not Graduate,No,37,521,3011,0,900,360,1,Semiurban,Education,1,48.63,10.76,8408.1,N
+LP10841,Male,Yes,2,Not Graduate,No,43,461,1087,0,900,60,1,,Business,3,57.53,14.89,,N
+LP10842,Male,,2,Graduate,Yes,33,406,3681,194,900,180,0,Urban,Home Improvement,0,53.63,11.91,,N
+LP10843,Male,No,2,Not Graduate,,39,544,1237,674,900,,0,Semiurban,Business,,44.82,11.33,,N
+LP10844,Male,,2,Graduate,,23,490,4856,1120,,240,1,Semiurban,Business,5,57.81,9.4,8330.5,N
+LP10845,Male,No,1,Graduate,,29,499,1000,1245,900,60,0,Rural,Medical,5,54.49,11.52,19802.38,N
+LP10846,Male,No,0,Not Graduate,Yes,27,360,2685,1451,900,180,0,Semiurban,Vehicle,2,64.65,19.7,,N
+LP10847,Male,No,2,Not Graduate,No,31,448,,1815,900,360,0,Rural,Business,0,68.81,17.97,13541.73,Y
+LP10848,Male,No,1,Not Graduate,,21,532,3431,1687,900,120,1,Rural,,4,62.92,10.81,12300.9,N
+LP10849,Female,Yes,3+,Not Graduate,No,38,383,2033,918,900,360,0,Urban,Business,,40.71,19.36,14565.82,N
+LP10850,Male,No,2,Not Graduate,Yes,50,512,1000,613,,240,0,,Home Improvement,2,41.82,,6977.69,N
+LP10851,Male,Yes,3+,,No,35,,2074,0,900,360,1,,Vehicle,3,31.4,10.16,8004.76,Y
+LP10852,Female,No,1,Not Graduate,No,31,486,3103,1032,900,240,,Rural,Debt Consolidation,4,65.01,11.32,9486.49,N
+LP10853,Female,Yes,,Graduate,Yes,25,413,,0,900,240,,Rural,Education,2,34.92,17.47,13523.82,N
+LP10854,Female,No,1,Not Graduate,,21,500,,917,900,240,0,Semiurban,Debt Consolidation,1,30.43,12.86,10454.55,N
+LP10855,Male,,1,Not Graduate,Yes,21,598,2022,1285,900,360,1,Rural,Debt Consolidation,3,55.89,7.56,,N
+LP10856,Female,No,1,Not Graduate,Yes,41,468,5430,,900,240,1,Semiurban,Medical,2,36.18,13.25,10704.88,N
+LP10857,Male,Yes,1,Not Graduate,,21,428,2484,396,900,180,0,Rural,Home Purchase,3,56.45,23.73,18337.71,N
+LP10858,Male,No,2,,No,43,526,2004,1640,900,360,1,Semiurban,Business,,29.04,14.57,11071.16,N
+LP10859,Female,Yes,3+,Graduate,No,28,493,1800,1594,900,360,1,Semiurban,Business,3,53.99,12.47,9584.37,Y
+LP10860,Female,Yes,2,Not Graduate,No,33,394,1400,383,900,240,,Rural,,,29.89,14.8,11718.32,N
+LP10861,Male,No,1,Not Graduate,No,21,496,3824,745,,360,0,Semiurban,Medical,2,54.54,10.3,,N
+LP10862,Female,Yes,0,Not Graduate,Yes,32,365,2414,0,900,240,0,Rural,Vehicle,4,56.76,15.85,12420.13,Y
+LP10863,Female,No,3+,Not Graduate,Yes,39,500,5770,0,,180,0,Rural,Medical,5,43.47,13.7,11804.82,N
+LP10864,,Yes,2,Graduate,No,25,480,4958,970,,240,0,Rural,Home Improvement,0,31.66,17.53,13565.14,N
+LP10865,,Yes,2,Not Graduate,No,35,489,2611,2049,900,360,1,Urban,Vehicle,3,59.42,14.51,11028.17,N
+LP10866,Male,No,1,Not Graduate,No,38,426,5567,0,900,180,,Urban,,1,68.07,7.98,8590.48,Y
+LP10867,Female,No,1,Graduate,,37,506,2426,816,900,240,0,Rural,Vehicle,0,44.29,21.95,16677.68,Y
+LP10868,Female,No,1,Graduate,No,33,552,3904,1652,900,,,Rural,Business,0,44.25,11.15,8673.07,Y
+LP10869,Female,No,3+,Graduate,No,30,476,3480,523,,360,0,Semiurban,Debt Consolidation,3,52.65,7.0,5987.72,N
+LP10870,Female,No,2,Not Graduate,No,,600,4044,2292,,180,1,Urban,Medical,,62.74,12.69,11204.22,N
+LP10871,Female,No,0,Graduate,Yes,36,476,4668,594,900,120,0,Urban,Vehicle,3,41.57,16.17,15171.67,Y
+LP10872,Male,Yes,3+,Not Graduate,No,,476,1000,412,900,180,1,Rural,Business,4,39.25,11.97,10784.15,N
+LP10873,Male,Yes,0,,No,43,475,3244,1120,900,360,1,Semiurban,Home Improvement,0,63.66,11.79,9112.29,N
+LP10874,Male,,3+,,,35,355,1947,,900,240,1,Rural,,0,27.78,14.35,11421.19,N
+LP10875,Male,Yes,2,Not Graduate,Yes,25,548,2709,1256,900,360,0,Rural,Medical,2,71.64,18.59,13997.78,N
+LP10876,Male,Yes,2,Graduate,No,44,458,2611,,900,180,0,Urban,Vehicle,0,47.88,12.62,11163.08,Y
+LP10877,Female,No,2,Not Graduate,Yes,26,455,1679,1291,900,180,,Semiurban,Medical,1,47.76,17.59,14229.09,N
+LP10878,,No,1,,No,24,478,2727,373,900,360,0,Semiurban,Home Improvement,0,,15.65,11849.15,N
+LP10879,Female,No,3+,Not Graduate,Yes,23,447,5111,542,,60,0,,,3,63.09,15.81,21795.5,Y
+LP10880,Female,No,2,Not Graduate,No,21,465,1000,,900,,0,Rural,,2,49.81,14.06,11230.93,N
+LP10881,Male,No,2,Graduate,Yes,39,411,2921,962,900,,,Semiurban,Debt Consolidation,0,44.01,9.61,7640.02,N
+LP10882,Male,No,1,Not Graduate,Yes,,410,2675,674,900,360,0,Rural,Education,2,60.07,10.95,8536.92,N
+LP10883,Female,No,0,Graduate,Yes,25,438,5131,2026,900,60,0,Rural,Medical,3,,19.19,23440.69,N
+LP10884,Female,No,2,Not Graduate,No,36,567,3982,,900,60,1,Urban,Business,6,,17.07,22401.21,N
+LP10885,Male,Yes,1,Graduate,No,23,449,1000,1215,900,360,0,Urban,Medical,2,37.13,,9333.79,Y
+LP10886,Male,No,0,Not Graduate,No,46,536,3329,2299,900,180,0,Semiurban,Home Purchase,3,36.88,,13552.36,Y
+LP10887,Female,No,1,Not Graduate,No,26,478,1514,0,900,240,1,Semiurban,Debt Consolidation,2,28.71,12.01,9916.05,N
+LP10888,Male,No,2,Not Graduate,No,26,522,4466,946,,60,0,Semiurban,Home Improvement,0,58.85,12.72,20349.0,N
+LP10889,Male,No,3+,Not Graduate,No,21,395,5577,0,900,240,0,Rural,,4,52.24,17.12,13283.4,N
+LP10890,Female,No,2,Not Graduate,Yes,23,455,5390,0,900,360,0,Rural,Vehicle,0,52.76,,7541.44,N
+LP10891,Female,Yes,3+,Not Graduate,No,35,492,1913,499,900,360,0,Semiurban,Education,3,,17.9,13490.33,N
+LP10892,Female,,0,Graduate,Yes,41,499,5476,464,900,,0,Urban,Home Purchase,0,60.12,7.7,6416.64,N
+LP10893,Male,No,3+,Not Graduate,Yes,43,,,0,,360,,Rural,Business,1,,18.28,13769.59,Y
+LP10894,Female,Yes,2,Not Graduate,No,30,,1749,1183,900,240,1,Rural,Debt Consolidation,1,55.82,16.09,12582.11,N
+LP10895,Male,,2,Graduate,No,29,523,2054,0,900,360,0,Semiurban,Vehicle,0,,,,N
+LP10896,Male,Yes,,,Yes,26,570,2271,1406,900,180,0,,Vehicle,1,,,,N
+LP10897,Female,No,2,Not Graduate,Yes,29,537,4115,706,,180,0,Rural,Medical,0,59.05,12.4,11034.2,N
+LP10898,Female,Yes,3+,,Yes,47,467,2904,0,900,,0,Semiurban,Debt Consolidation,0,39.65,18.7,16624.44,N
+LP10899,Female,Yes,3+,,No,37,472,1000,,,360,0,Urban,Home Improvement,1,,17.58,13255.56,N
+LP10900,Male,No,0,Not Graduate,Yes,21,429,2691,1715,900,360,0,Semiurban,Education,0,44.81,11.68,9036.43,N
+LP10901,Female,Yes,3+,Not Graduate,No,35,514,1895,764,900,,0,Semiurban,Home Purchase,1,24.46,17.22,12991.92,N
+LP10902,Female,No,2,Graduate,No,,381,,0,900,360,0,Rural,Home Improvement,2,38.88,16.08,12160.89,N
+LP10903,Female,Yes,3+,Not Graduate,Yes,44,558,3911,489,900,180,0,Rural,Business,4,57.81,10.76,10094.15,Y
+LP10904,,Yes,1,Not Graduate,Yes,30,405,5255,536,900,60,,Semiurban,Home Purchase,3,46.6,13.19,20565.41,N
+LP10905,Male,No,3+,Not Graduate,No,43,600,4519,2181,900,180,0,Semiurban,,0,39.74,15.47,12887.26,N
+LP10906,Female,Yes,2,Graduate,Yes,,315,2881,159,900,,0,Semiurban,Medical,3,54.46,,,N
+LP10907,Female,No,,Not Graduate,No,27,380,3077,694,900,240,0,Semiurban,Debt Consolidation,3,31.02,15.06,11891.03,N
+LP10908,Male,Yes,0,Graduate,,46,457,4658,2241,900,120,,Semiurban,Home Purchase,0,36.34,17.28,15801.83,N
+LP10909,Female,Yes,0,Not Graduate,No,36,579,1453,,,240,1,Semiurban,Home Improvement,2,,16.24,12683.63,N
+LP10910,Female,Yes,0,,Yes,22,,2028,681,900,60,0,Semiurban,Debt Consolidation,5,38.69,8.96,18665.05,N
+LP10911,Male,No,2,Not Graduate,No,,493,3102,0,900,,0,Semiurban,Education,0,43.12,,10749.39,N
+LP10912,Male,No,2,Graduate,Yes,34,469,7002,420,900,360,0,Rural,Vehicle,1,77.19,18.23,13732.82,N
+LP10913,Female,No,0,Graduate,No,28,508,1000,736,900,,1,Urban,Home Improvement,0,57.69,16.92,12772.64,N
+LP10914,Male,No,,Not Graduate,No,27,423,3463,187,900,60,1,Urban,,5,55.45,14.36,21109.78,N
+LP10915,Male,No,2,Graduate,Yes,21,414,2668,2039,900,360,0,Urban,Home Improvement,3,48.97,11.96,9229.81,Y
+LP10916,Male,,2,Not Graduate,No,34,445,3284,258,900,360,0,Urban,Business,0,64.06,17.31,,N
+LP10917,Male,Yes,1,Graduate,No,,429,2599,,900,60,1,Semiurban,Education,2,40.0,13.67,20787.77,N
+LP10918,Female,No,1,Not Graduate,No,29,492,3938,,900,120,0,Semiurban,Vehicle,0,43.74,14.84,14432.09,N
+LP10919,Female,Yes,,Not Graduate,Yes,39,546,2079,1175,900,60,1,Semiurban,Vehicle,1,64.77,20.69,24191.34,Y
+LP10920,Female,No,1,Not Graduate,No,21,422,1717,0,900,240,1,Semiurban,Debt Consolidation,1,55.32,14.16,11296.42,N
+LP10921,Male,No,1,Graduate,No,29,411,4021,,900,240,0,Semiurban,Business,1,41.05,15.04,11877.71,N
+LP10922,Female,Yes,3+,Graduate,Yes,28,572,2568,1454,900,240,0,Semiurban,Business,2,46.61,13.11,10614.79,N
+LP10923,Male,No,3+,Graduate,Yes,49,484,3016,1923,900,60,,Urban,Education,,48.12,20.91,,N
+LP10924,Female,Yes,3+,Not Graduate,No,36,,2480,0,900,360,1,Semiurban,Medical,2,51.05,14.04,10692.35,N
+LP10925,Female,No,2,Not Graduate,No,38,,,0,900,360,1,,,0,50.59,16.97,12809.16,N
+LP10926,Male,No,0,Not Graduate,No,42,554,4010,1916,,360,0,Rural,Education,0,52.07,,13475.64,Y
+LP10927,Female,Yes,3+,Not Graduate,Yes,24,415,,822,900,240,0,Semiurban,Home Purchase,5,38.66,14.48,11506.79,Y
+LP10928,,Yes,3+,Not Graduate,No,29,410,3213,330,900,240,1,Rural,Education,2,42.75,13.63,10950.66,N
+LP10929,Male,No,1,Graduate,Yes,33,,1000,770,900,240,1,Semiurban,Vehicle,2,53.11,,8906.96,N
+LP10930,Female,Yes,,,Yes,41,500,1000,1189,900,360,,,Home Improvement,2,51.79,11.63,,N
+LP10931,Male,No,2,Not Graduate,Yes,21,443,3618,889,900,240,0,,Education,3,,10.57,,N
+LP10932,Female,No,0,Not Graduate,No,22,491,4748,1371,900,360,0,Rural,Debt Consolidation,2,52.92,18.21,13718.11,N
+LP10933,Male,Yes,,,No,35,600,3781,621,900,60,0,Semiurban,Debt Consolidation,2,29.98,11.87,19960.93,Y
+LP10934,Male,Yes,1,Not Graduate,,21,548,1649,931,900,360,0,Semiurban,Home Improvement,4,39.28,10.3,8098.38,N
+LP10935,Female,Yes,2,Not Graduate,Yes,35,488,4420,0,900,60,1,Rural,Debt Consolidation,,32.73,14.88,21354.29,Y
+LP10936,Male,No,3+,Not Graduate,Yes,38,530,2898,263,900,240,1,Semiurban,Home Improvement,0,64.25,10.53,9003.56,N
+LP10937,Male,No,2,Graduate,Yes,31,367,3947,1353,900,240,1,Urban,,2,47.07,17.25,,N
+LP10938,Female,No,2,Not Graduate,No,38,526,2611,477,900,240,0,Semiurban,Debt Consolidation,2,,10.67,9088.43,N
+LP10939,Female,No,0,Not Graduate,No,38,534,2459,1207,900,240,0,Semiurban,Education,5,17.36,9.48,8377.43,N
+LP10940,Male,No,3+,,No,33,520,,1706,900,120,0,Rural,Vehicle,2,60.91,13.48,13693.97,N
+LP10941,Female,Yes,0,,No,21,493,3926,585,900,360,0,Urban,Education,2,61.42,23.08,17328.21,N
+LP10942,Female,No,3+,Not Graduate,No,26,596,1000,,900,180,1,Semiurban,Business,0,39.61,17.35,14074.9,N
+LP10943,Female,No,3+,,No,24,,3049,1101,900,360,1,Rural,Education,0,45.98,18.65,14041.98,N
+LP10944,Female,No,3+,Graduate,No,30,393,2816,244,900,240,0,Urban,Education,0,65.17,14.1,,N
+LP10945,Male,Yes,1,Not Graduate,No,29,517,2512,774,900,360,,Rural,Home Improvement,5,54.69,17.29,13043.14,N
+LP10946,Male,No,0,Not Graduate,No,25,600,4858,0,900,360,1,Urban,,6,,,11473.61,N
+LP10947,Female,No,3+,Graduate,No,28,516,2260,0,900,360,1,,Home Improvement,,59.87,14.34,10906.5,Y
+LP10948,Male,No,1,Not Graduate,No,23,506,3862,0,900,360,1,Semiurban,,2,,11.97,9236.74,Y
+LP10949,Male,No,0,Not Graduate,Yes,31,362,3438,,,360,0,Rural,Medical,3,43.4,19.81,,N
+LP10950,Female,Yes,2,,Yes,21,529,4893,780,900,240,1,Rural,Education,0,57.31,10.3,,Y
+LP10951,Male,No,1,Graduate,No,37,501,3270,0,,360,0,Urban,Education,1,56.96,15.7,11885.34,N
+LP10952,,No,1,Graduate,Yes,23,490,,0,900,240,0,Rural,Business,0,50.87,10.99,9283.57,N
+LP10953,Male,Yes,3+,Graduate,,31,483,3604,,900,180,1,Semiurban,Home Improvement,3,31.62,13.61,11750.78,Y
+LP10954,Female,No,2,Graduate,No,28,547,4399,0,900,60,0,Semiurban,Medical,0,75.66,12.55,20271.04,N
+LP10955,Male,,0,Not Graduate,Yes,22,465,4360,21,900,,0,Rural,Medical,1,47.55,17.59,13262.89,N
+LP10956,Male,No,3+,Not Graduate,No,,429,4239,0,900,360,1,Urban,Debt Consolidation,2,46.59,9.01,,N
+LP10957,Female,No,1,Not Graduate,No,30,385,3396,,900,360,1,Rural,Home Purchase,,41.81,12.05,,Y
+LP10958,Male,Yes,,Not Graduate,Yes,38,600,2024,439,900,180,0,Rural,,2,27.83,16.16,13318.84,N
+LP10959,Female,Yes,,Graduate,Yes,28,,1514,529,900,240,1,Semiurban,Vehicle,0,,11.83,9803.32,N
+LP10960,,No,2,,Yes,41,436,3706,0,900,,,Rural,Debt Consolidation,3,36.08,15.44,11697.29,Y
+LP10961,,Yes,0,Not Graduate,,30,528,1813,173,900,360,0,Urban,Education,5,52.93,14.21,10813.62,N
+LP10962,Male,Yes,0,Graduate,Yes,32,430,2491,999,900,360,0,Semiurban,Vehicle,3,18.65,14.26,10849.33,N
+LP10963,Female,No,,Graduate,No,52,332,3238,639,900,180,1,Semiurban,Medical,0,34.94,14.73,12430.26,Y
+LP10964,,,0,Graduate,No,21,600,3417,791,900,240,0,Semiurban,Medical,0,50.63,15.47,,N
+LP10965,Female,No,2,Not Graduate,No,30,572,3175,431,900,60,0,Rural,Education,4,59.35,15.19,21500.8,Y
+LP10966,Male,No,3+,Not Graduate,No,,521,3554,750,900,240,0,Rural,Business,3,45.39,13.76,11035.16,N
+LP10967,Male,No,2,Not Graduate,No,22,534,4849,1848,900,360,1,Rural,Business,0,29.41,11.47,8892.03,N
+LP10968,Male,Yes,2,Graduate,Yes,28,453,5232,360,900,360,1,Semiurban,Business,0,43.64,21.88,16434.59,N
+LP10969,Male,,3+,Graduate,,34,496,,1310,900,,0,Rural,Business,2,39.99,,10225.26,Y
+LP10970,Male,,3+,Not Graduate,Yes,28,516,3560,1165,900,240,0,Rural,Debt Consolidation,0,45.63,14.35,11421.19,N
+LP10971,Female,No,2,Graduate,No,,546,1728,0,900,,0,Rural,Medical,2,43.91,14.29,11381.74,N
+LP10972,Female,No,1,Graduate,Yes,32,455,,0,900,180,1,Rural,Home Purchase,,56.11,15.16,12695.06,Y
+LP10973,Male,Yes,,Not Graduate,No,26,443,4669,445,900,120,0,Semiurban,Debt Consolidation,4,32.8,11.37,12586.75,N
+LP10974,,No,2,,,21,,1000,396,,360,0,Semiurban,Business,2,58.31,18.26,13754.88,N
+LP10975,Male,No,2,Not Graduate,Yes,29,548,7044,401,900,240,0,Rural,Education,0,77.28,13.7,10996.13,N
+LP10976,Male,No,2,Not Graduate,No,27,405,5156,,900,360,0,Urban,Home Improvement,0,39.05,21.76,16345.33,N
+LP10977,Female,Yes,1,Not Graduate,Yes,37,,3020,0,900,120,0,Urban,Debt Consolidation,4,57.36,10.0,11893.57,N
+LP10978,,No,2,Graduate,No,35,600,1094,782,900,240,1,Rural,Medical,1,58.09,14.23,11342.34,N
+LP10979,Female,Yes,3+,Not Graduate,Yes,32,,2740,390,900,360,1,Rural,Vehicle,3,53.16,12.5,9605.32,N
+LP10980,Female,No,2,Not Graduate,No,29,437,,357,900,240,0,Urban,Vehicle,0,77.86,14.93,11804.58,N
+LP10981,Male,No,2,Not Graduate,Yes,40,480,1422,435,900,360,0,Urban,,3,66.66,14.69,11157.21,N
+LP10982,,No,2,,Yes,26,559,4460,0,900,360,1,Urban,Debt Consolidation,0,44.5,10.87,8482.62,N
+LP10983,Female,Yes,2,Not Graduate,No,40,543,5183,,900,120,0,Rural,Medical,0,48.04,13.67,13795.96,N
+LP10984,Female,Yes,2,Graduate,No,38,351,3135,995,900,360,0,Semiurban,Education,1,38.61,7.0,5987.72,N
+LP10985,Male,Yes,2,Graduate,Yes,24,367,4428,1951,900,360,1,Semiurban,Medical,2,53.18,11.74,9077.79,N
+LP10986,Female,Yes,2,Not Graduate,Yes,25,473,,944,900,240,1,,,2,57.0,11.99,9903.5,Y
+LP10987,Male,,2,Not Graduate,Yes,28,496,4013,1857,900,360,1,Semiurban,Education,0,38.75,9.8,7765.46,Y
+LP10988,Male,No,3+,Not Graduate,No,32,600,,1243,900,60,0,Semiurban,Medical,0,36.78,11.62,19847.61,N
+LP10989,Female,No,2,,Yes,21,329,2632,1054,900,180,0,Rural,Vehicle,5,51.39,15.39,12837.55,N
+LP10990,Male,,0,Graduate,No,45,456,4571,0,900,360,0,Rural,Business,,56.91,19.2,14447.65,N
+LP10991,Male,No,2,Not Graduate,Yes,28,505,,0,900,180,1,Rural,Vehicle,3,56.6,9.68,9496.02,Y
+LP10992,Male,Yes,3+,Not Graduate,Yes,32,404,4132,0,,120,1,Rural,Home Purchase,1,47.55,15.56,14830.33,N
+LP10993,Male,Yes,1,Not Graduate,Yes,21,594,6752,0,900,,1,Urban,Education,3,50.72,12.25,13042.79,N
+LP10994,Male,Yes,2,Not Graduate,,43,511,2083,665,900,360,0,,,2,65.61,7.0,5987.72,N
+LP10995,Female,No,2,Not Graduate,No,39,457,3825,0,900,,0,Urban,Vehicle,1,72.75,11.57,10553.79,N
+LP10996,Female,Yes,1,Not Graduate,No,40,457,1824,,900,120,0,Rural,Education,1,50.62,14.86,14443.08,N
+LP10997,Male,No,,,No,28,463,5510,,900,240,,Urban,Education,0,41.63,15.95,12487.55,Y
+LP10998,Male,No,3+,Not Graduate,Yes,30,375,3390,0,900,360,1,,Business,0,35.16,7.27,6151.8,N
+LP10999,Male,No,1,Not Graduate,Yes,36,,2701,0,900,240,1,Rural,Debt Consolidation,3,53.87,20.27,15480.38,Y
+LP11000,Female,,0,,,44,384,3965,1026,900,120,0,,Vehicle,0,29.42,13.1,13491.1,N
+LP11001,Male,No,,Graduate,Yes,54,428,,1128,900,240,,Urban,Home Improvement,0,45.0,12.69,10346.06,N
+LP11002,Female,Yes,2,Not Graduate,Yes,35,425,4253,0,900,360,1,Rural,Business,,57.52,13.75,,N
+LP11003,Female,No,2,Not Graduate,No,35,474,3990,1577,900,360,0,Urban,Home Purchase,,62.23,15.99,12095.56,N
+LP11004,Male,,,Not Graduate,,27,515,2874,1273,900,,1,Rural,Education,2,46.71,14.7,11652.1,N
+LP11005,Female,No,0,Not Graduate,Yes,,467,1927,2257,900,120,0,Urban,Vehicle,,32.81,,12829.28,N
+LP11006,Female,Yes,2,Not Graduate,No,28,329,1641,0,900,360,0,Rural,Business,0,55.32,,7528.32,N
+LP11007,Female,No,3+,Not Graduate,Yes,24,559,6352,990,900,,1,Urban,Home Purchase,2,53.37,16.08,,N
+LP11008,Male,Yes,0,Not Graduate,No,54,600,4828,1272,900,120,0,,Business,4,50.9,16.47,15340.84,Y
+LP11009,Male,Yes,3+,Not Graduate,No,21,445,4243,845,900,360,0,Urban,Education,2,60.15,8.79,7106.03,N
+LP11010,Male,No,1,Graduate,Yes,35,460,1960,756,900,120,0,Semiurban,Home Improvement,1,59.64,14.76,14388.16,N
+LP11011,Male,No,1,Graduate,No,,600,4591,30,900,360,1,Rural,Home Improvement,1,45.26,,9098.49,Y
+LP11012,Female,No,1,Not Graduate,Yes,45,440,,1379,900,240,,Rural,Education,3,19.14,13.32,10750.02,N
+LP11013,Male,No,0,Not Graduate,Yes,48,455,,872,900,60,0,Semiurban,Home Improvement,3,48.2,21.08,24388.54,N
+LP11014,Female,,3+,Not Graduate,No,24,532,4283,75,900,240,0,Urban,Business,,38.35,22.93,17382.52,N
+LP11015,Female,No,2,Not Graduate,,38,381,,0,900,240,1,Urban,Home Purchase,0,62.14,15.46,12158.12,N
+LP11016,Male,No,2,Graduate,No,34,439,1000,,900,360,1,Rural,Business,1,46.31,12.85,9850.39,N
+LP11017,Female,,3+,Not Graduate,No,38,535,1509,,900,240,0,Rural,Home Improvement,0,,15.92,12467.32,N
+LP11018,Male,No,2,Not Graduate,No,46,426,4081,1642,900,180,1,Semiurban,Education,7,36.01,20.8,16341.13,Y
+LP11019,Female,No,2,Not Graduate,Yes,21,443,1000,0,,360,0,Semiurban,Education,1,59.99,18.49,13924.14,N
+LP11020,,Yes,3+,Graduate,No,32,569,1000,2199,900,360,1,Urban,Home Improvement,7,48.62,9.34,7462.85,N
+LP11021,,Yes,1,Not Graduate,No,38,492,1608,995,900,360,0,Urban,Education,,49.94,8.75,7080.3,Y
+LP11022,Female,No,3+,Graduate,,27,347,,498,900,360,0,Rural,Debt Consolidation,0,52.59,21.22,15943.98,N
+LP11023,Male,Yes,2,Graduate,No,42,499,3066,349,,360,0,Urban,Business,3,41.5,17.34,13079.74,N
+LP11024,Female,Yes,1,,Yes,32,433,5258,743,900,360,,Rural,Home Improvement,,39.85,18.11,13644.6,N
+LP11025,Female,Yes,3+,Not Graduate,Yes,39,480,1630,0,900,60,0,Rural,Vehicle,6,52.09,13.97,20927.43,N
+LP11026,Female,No,2,Not Graduate,Yes,25,434,2287,978,900,180,0,Urban,Home Purchase,2,42.83,11.11,10291.62,N
+LP11027,Male,No,3+,Graduate,Yes,41,364,3334,0,900,240,0,Semiurban,Home Purchase,4,63.89,,11061.2,N
+LP11028,Male,No,3+,Graduate,Yes,47,359,3388,422,900,120,0,Urban,Vehicle,2,50.99,15.16,14608.46,N
+LP11029,Male,,3+,Not Graduate,No,31,434,4008,546,900,360,1,Urban,Medical,2,41.34,14.98,11365.6,N
+LP11030,Male,No,2,Graduate,No,42,362,1329,,900,240,,Rural,Vehicle,0,59.86,15.13,11937.65,N
+LP11031,Male,Yes,0,Graduate,No,40,568,4257,1460,900,360,,Rural,Medical,4,28.53,16.43,12415.36,Y
+LP11032,Male,Yes,3+,Not Graduate,No,48,334,3473,266,900,180,1,Urban,Vehicle,,46.21,16.26,13381.81,N
+LP11033,Male,No,,Not Graduate,Yes,41,534,3609,1386,900,120,0,Urban,Education,0,33.92,17.22,15767.48,Y
+LP11034,Female,No,1,Not Graduate,No,33,459,2644,0,,360,1,Rural,,0,45.35,12.69,9738.2,N
+LP11035,Male,Yes,1,Not Graduate,No,22,480,1000,123,900,,1,Semiurban,Home Purchase,0,50.89,17.25,,N
+LP11036,Female,No,2,Graduate,No,38,,,757,900,360,0,Rural,Home Purchase,4,39.06,19.54,14698.85,N
+LP11037,Male,No,3+,Not Graduate,No,21,446,3342,620,900,180,1,Rural,Medical,,46.19,17.52,14184.06,Y
+LP11038,Female,No,,Graduate,No,32,600,2060,0,900,,,Rural,Education,0,38.53,11.8,9784.57,N
+LP11039,Female,No,2,Graduate,No,34,478,5677,510,900,240,1,Semiurban,Medical,0,57.47,17.33,13427.53,N
+LP11040,Female,No,2,Not Graduate,,29,,2736,1251,900,180,0,Rural,Vehicle,1,46.48,13.17,11488.04,N
+LP11041,Male,No,2,Graduate,No,27,470,1592,1609,900,360,1,Semiurban,Vehicle,2,57.27,8.86,7151.13,N
+LP11042,Female,Yes,1,Graduate,No,29,556,5897,776,900,180,0,Rural,Home Improvement,3,33.5,8.36,8788.95,Y
+LP11043,Male,No,0,Graduate,Yes,34,,4006,866,900,60,0,Semiurban,,1,47.66,14.3,21081.67,N
+LP11044,Female,No,1,Not Graduate,No,32,491,5598,0,900,240,1,Semiurban,Home Improvement,3,42.68,,10679.11,N
+LP11045,Male,No,1,Graduate,No,23,540,1791,,900,240,1,Rural,Business,2,53.69,16.75,,N
+LP11046,Male,Yes,2,Graduate,No,21,,,1849,900,240,0,Rural,Home Improvement,2,66.63,17.95,13855.18,N
+LP11047,Male,No,1,Not Graduate,No,30,470,4535,991,900,240,0,Urban,Medical,0,40.91,11.91,9853.36,N
+LP11048,Male,No,2,Graduate,Yes,32,441,3214,752,900,240,0,Rural,Medical,5,,19.93,15239.99,N
+LP11049,Female,Yes,0,Graduate,Yes,33,389,1000,0,900,240,,Rural,Education,0,28.13,18.28,14084.04,N
+LP11050,Male,Yes,1,,Yes,26,314,4631,0,900,360,0,Semiurban,Home Improvement,,53.6,18.24,13740.17,N
+LP11051,Male,No,3+,Graduate,No,27,385,1869,0,900,60,0,Semiurban,Home Purchase,3,43.52,19.88,23784.44,N
+LP11052,Female,No,,Graduate,No,,,2737,0,,360,,Semiurban,Debt Consolidation,4,41.65,12.46,9577.39,N
+LP11053,Male,No,3+,Not Graduate,No,25,397,1000,256,900,60,0,Semiurban,Business,2,29.33,9.63,18958.9,N
+LP11054,,No,3+,Not Graduate,Yes,,582,3181,0,900,180,1,Semiurban,Debt Consolidation,1,62.02,13.54,11708.82,N
+LP11055,Male,No,2,Graduate,No,41,476,3283,453,900,120,,Rural,Medical,,38.0,8.15,10990.95,N
+LP11056,Male,Yes,3+,Not Graduate,Yes,25,501,4912,0,900,360,,Rural,Home Improvement,3,18.99,12.17,9375.45,Y
+LP11057,Male,No,3+,Graduate,Yes,27,521,3178,0,900,360,0,Semiurban,,2,53.55,13.34,10195.53,N
+LP11058,Male,No,2,Not Graduate,Yes,46,477,1000,367,900,240,1,Rural,Debt Consolidation,1,48.47,13.79,11054.68,N
+LP11059,,Yes,,Not Graduate,No,45,436,1773,2812,900,,1,Semiurban,Medical,0,43.04,11.34,9498.84,N
+LP11060,Female,,3+,Not Graduate,,37,,3896,0,900,360,1,Rural,Medical,2,44.32,17.2,12977.29,Y
+LP11061,Female,No,2,Not Graduate,,33,502,2694,566,900,240,1,,,0,36.86,13.58,10918.22,Y
+LP11062,Female,No,0,Graduate,Yes,45,538,5807,1183,900,240,1,Semiurban,Medical,1,28.27,13.24,10698.43,N
+LP11063,Female,No,3+,Graduate,Yes,34,497,3506,1563,900,240,0,Urban,,0,36.71,16.38,12778.58,N
+LP11064,Male,No,1,Graduate,Yes,21,584,1808,1062,900,360,1,Rural,Business,4,40.21,12.69,9738.2,N
+LP11065,Male,No,3+,Not Graduate,No,42,,2682,0,900,240,1,Semiurban,Medical,0,62.56,15.68,12305.73,Y
+LP11066,Female,No,3+,Not Graduate,No,,,4908,509,900,240,0,Rural,Debt Consolidation,0,,19.29,14789.43,N
+LP11067,Female,No,3+,Graduate,Yes,48,429,5273,0,900,180,1,Rural,Debt Consolidation,0,32.95,11.59,,N
+LP11068,Male,No,2,Not Graduate,No,33,583,5504,1158,900,180,,Semiurban,Business,1,59.53,12.25,,N
+LP11069,Male,No,0,,,40,552,5497,551,900,240,0,Rural,Education,2,36.48,15.56,12225.16,N
+LP11070,Female,Yes,0,Not Graduate,Yes,30,465,3812,277,900,360,1,Rural,Business,3,47.66,16.76,,N
+LP11071,Male,No,1,Graduate,No,35,,2961,1287,900,360,1,Semiurban,Vehicle,0,36.9,,9661.22,N
+LP11072,Male,No,3+,Not Graduate,No,38,475,3239,114,900,180,0,Rural,Business,1,33.96,11.17,10325.65,N
+LP11073,Female,No,3+,Graduate,No,45,510,5445,0,900,120,0,Urban,Business,2,58.38,21.72,18431.44,N
+LP11074,Male,Yes,3+,Not Graduate,Yes,24,600,2852,1249,900,240,0,Semiurban,Business,2,47.35,16.78,13050.85,N
+LP11075,Female,No,2,,Yes,32,520,3313,1310,900,360,,,Business,0,37.96,23.4,,N
+LP11076,,No,2,Graduate,No,36,600,1720,0,900,360,1,Semiurban,,,56.15,20.24,15216.92,N
+LP11077,Female,No,3+,Not Graduate,Yes,44,522,2590,0,900,180,1,Rural,Business,0,26.03,16.13,13299.97,Y
+LP11078,Male,No,0,Graduate,No,40,354,2240,690,,240,1,Semiurban,Education,0,27.52,11.81,9790.82,Y
+LP11079,Female,No,2,Not Graduate,,27,541,4182,,900,60,1,,,0,55.27,14.06,20969.43,N
+LP11080,Male,Yes,0,Not Graduate,No,,469,2416,10,900,360,0,Urban,Business,4,33.44,14.89,11300.87,N
+LP11081,Female,No,2,Not Graduate,Yes,46,496,3592,906,,180,,Urban,Medical,3,74.29,19.5,,Y
+LP11082,Female,Yes,3+,Graduate,No,21,365,1000,1200,900,180,0,Rural,Business,1,44.84,,11967.54,N
+LP11083,Female,Yes,2,Graduate,No,34,461,,644,900,360,,Urban,Business,4,38.91,12.03,9278.3,N
+LP11084,Female,Yes,2,Not Graduate,No,25,,3604,485,900,,1,Urban,Business,0,46.59,13.66,,N
+LP11085,Female,No,2,Not Graduate,No,21,404,1734,0,900,360,0,Semiurban,Medical,0,46.58,12.45,9570.42,N
+LP11086,Male,No,0,Not Graduate,Yes,31,439,4097,0,900,360,1,Rural,Debt Consolidation,0,32.49,16.19,12240.8,N
+LP11087,Female,No,,,No,32,462,1293,0,900,360,1,Rural,Home Improvement,0,24.21,15.6,11812.97,Y
+LP11088,Male,No,1,Not Graduate,No,35,572,4538,0,900,360,1,Rural,,2,35.37,16.2,12248.07,Y
+LP11089,Male,,2,Graduate,Yes,39,465,1000,0,900,240,1,,Vehicle,2,26.43,16.57,12907.72,N
+LP11090,Female,Yes,3+,Graduate,,33,312,1182,0,900,240,0,Urban,Debt Consolidation,0,,19.69,15070.72,N
+LP11091,,No,3+,Not Graduate,No,34,569,1952,219,900,120,0,Rural,Vehicle,0,70.23,12.66,13258.09,N
+LP11092,Female,No,2,Not Graduate,No,21,492,4398,1133,900,60,,Rural,Home Purchase,2,56.24,10.91,,N
+LP11093,Female,No,2,,No,27,450,6406,1252,900,240,1,Rural,Business,0,36.04,14.0,11191.69,N
+LP11094,Female,Yes,2,Not Graduate,No,31,517,,156,900,360,,Rural,Medical,1,76.84,11.97,9236.74,N
+LP11095,Male,No,0,Graduate,,21,538,3669,427,900,120,0,Urban,Home Improvement,0,77.05,8.9,11352.17,N
+LP11096,Female,Yes,3+,,No,22,532,5679,845,,60,1,Urban,Vehicle,0,49.26,17.63,22673.32,Y
+LP11097,,No,1,Graduate,No,29,331,3768,583,900,240,1,Semiurban,,5,,,13050.85,Y
+LP11098,Male,No,3+,,No,32,380,1975,125,900,360,1,Rural,Home Improvement,1,23.9,,8105.08,N
+LP11099,Male,Yes,3+,Not Graduate,No,36,520,1569,0,900,240,1,Rural,Vehicle,2,53.27,13.94,11152.49,N
+LP11100,Male,Yes,1,Not Graduate,,32,353,1000,105,900,360,1,,Home Purchase,3,48.8,16.14,12204.47,Y
+LP11101,Male,No,2,Not Graduate,Yes,27,495,3508,1271,900,180,1,Semiurban,Business,,56.61,9.28,,N
+LP11102,Female,Yes,3+,Not Graduate,No,39,428,3876,514,900,180,1,Rural,Home Purchase,4,40.63,12.49,11086.84,N
+LP11103,Male,Yes,1,Not Graduate,No,40,486,3415,0,900,360,,Rural,Business,,39.96,9.78,7752.23,N
+LP11104,Male,Yes,3+,Not Graduate,Yes,,,1859,1470,900,120,1,Rural,Business,2,60.31,,14207.6,N
+LP11105,Female,Yes,3+,Graduate,,29,440,2928,612,900,360,,Semiurban,Medical,0,47.55,,12553.76,N
+LP11106,Female,,1,Not Graduate,No,32,541,3087,0,900,120,0,Urban,Debt Consolidation,2,53.62,12.86,13363.75,N
+LP11107,Male,No,3+,Graduate,No,31,,4640,1081,900,180,0,,Business,0,33.75,10.68,10049.26,Y
+LP11108,Female,No,1,Graduate,Yes,38,567,5280,1099,,360,0,Rural,Education,3,42.12,14.88,11293.68,Y
+LP11109,Male,No,,Not Graduate,No,33,357,3653,456,900,360,0,Rural,Education,0,44.28,15.38,,N
+LP11110,Male,Yes,3+,Graduate,Yes,38,580,5109,1002,900,180,1,Semiurban,Home Improvement,4,51.81,15.21,12725.99,Y
+LP11111,Female,Yes,3+,,No,41,469,2289,1955,900,240,1,Semiurban,,1,42.17,16.76,13037.2,Y
+LP11112,,No,1,Not Graduate,No,30,557,1000,0,900,360,1,Rural,,1,,20.16,15157.66,N
+LP11113,Female,Yes,1,Graduate,No,27,325,,82,900,360,1,Rural,Home Improvement,1,,21.0,15780.6,N
+LP11114,,No,2,Not Graduate,Yes,46,488,2238,432,900,360,1,Rural,Business,0,45.8,13.59,10372.48,Y
+LP11115,Male,No,,Graduate,No,21,495,1395,394,900,360,0,Rural,Home Purchase,3,28.82,16.08,12160.89,N
+LP11116,Male,Yes,3+,Graduate,No,35,551,2655,451,900,60,0,Semiurban,Home Improvement,1,41.79,10.41,19304.41,Y
+LP11117,Female,No,3+,Graduate,Yes,28,379,4147,40,900,240,0,Rural,Education,0,48.14,14.01,11198.22,N
+LP11118,Female,No,0,Not Graduate,No,26,373,4320,694,900,360,1,Rural,Debt Consolidation,1,53.8,17.94,13519.7,N
+LP11119,Male,Yes,0,Not Graduate,No,29,,1522,0,900,360,0,Rural,Medical,3,58.48,15.77,11936.04,N
+LP11120,Female,Yes,0,Not Graduate,No,34,467,3826,600,900,180,1,Rural,Debt Consolidation,0,24.03,18.32,14701.47,N
+LP11121,Male,Yes,1,Not Graduate,No,39,489,3889,0,900,,1,Semiurban,Home Purchase,,44.87,15.58,12955.71,N
+LP11122,Female,,0,Graduate,Yes,41,442,4667,658,900,180,0,Urban,,2,44.94,15.66,13005.58,N
+LP11123,,No,0,Graduate,No,35,520,,1896,900,120,0,Rural,Medical,2,42.49,10.92,12356.78,N
+LP11124,Female,No,1,Graduate,No,25,597,4835,1032,,240,1,Rural,Vehicle,5,50.92,16.4,12792.16,Y
+LP11125,,Yes,2,Not Graduate,No,25,509,3218,,900,180,0,Urban,Medical,3,35.5,15.22,12732.17,N
+LP11126,Female,No,3+,Graduate,Yes,21,481,3580,1324,900,120,0,Urban,Education,2,51.3,9.46,11626.08,N
+LP11127,Female,No,3+,Not Graduate,No,34,427,2507,0,900,360,,Urban,Home Improvement,,56.6,7.48,6280.61,N
+LP11128,Female,No,0,Not Graduate,No,21,418,,1041,900,180,1,Rural,Education,5,43.58,19.88,15726.94,N
+LP11129,Male,No,0,Not Graduate,,25,529,,0,900,,0,Semiurban,,1,47.52,16.88,,N
+LP11130,,No,1,Not Graduate,No,24,356,2266,593,,60,1,,Home Improvement,,46.81,15.99,21881.47,N
+LP11131,,Yes,,Not Graduate,No,33,513,4813,734,,180,0,Rural,Vehicle,,34.04,16.68,13647.44,N
+LP11132,Female,Yes,2,,No,22,423,3602,0,900,360,1,Rural,,2,40.85,17.02,12845.69,N
+LP11133,Female,No,2,Not Graduate,Yes,32,591,1652,742,900,360,,Urban,Business,0,40.31,17.15,12940.72,N
+LP11134,Female,Yes,,Graduate,No,37,516,5210,414,900,180,1,Semiurban,Business,3,68.88,14.26,12143.29,Y
+LP11135,,Yes,0,Not Graduate,,25,544,2946,,900,360,1,Rural,Home Improvement,0,45.18,13.8,10521.54,Y
+LP11136,Female,Yes,1,Not Graduate,Yes,40,,4033,1108,900,180,1,,Home Purchase,2,50.73,7.2,8190.42,N
+LP11137,Female,Yes,3+,Not Graduate,No,,464,3275,221,900,240,0,Rural,Business,,63.79,16.27,12703.96,Y
+LP11138,Male,No,2,Not Graduate,No,,,3687,1389,900,360,0,Urban,Home Improvement,1,49.78,11.17,8686.72,N
+LP11139,Female,No,1,Not Graduate,,40,442,,710,900,240,0,Semiurban,Education,0,48.88,11.58,9647.52,N
+LP11140,,Yes,2,Not Graduate,Yes,45,500,2595,1314,900,120,1,Semiurban,,1,,11.67,12741.28,N
+LP11141,Female,No,3+,Graduate,No,27,505,1556,1540,900,360,,Rural,Home Improvement,3,42.04,13.6,10379.57,N
+LP11142,,Yes,0,Graduate,No,,562,2630,0,900,180,,Rural,Home Improvement,1,52.04,8.75,8995.04,N
+LP11143,Female,No,,Not Graduate,No,30,521,4875,350,900,240,1,,Vehicle,0,,12.12,9985.17,N
+LP11144,Male,Yes,,,Yes,36,397,3009,31,900,240,1,Rural,Education,0,61.63,16.28,12710.74,N
+LP11145,Male,No,0,Graduate,No,37,600,4091,1459,900,180,0,Urban,Home Improvement,3,56.3,9.65,9479.65,N
+LP11146,Female,Yes,3+,Graduate,Yes,31,600,3006,720,900,240,0,Semiurban,Medical,1,48.29,11.96,9884.69,Y
+LP11147,Male,No,0,Graduate,Yes,42,393,1000,101,900,360,1,Rural,,0,50.07,16.31,12328.04,Y
+LP11148,Female,No,2,Not Graduate,No,32,551,4104,519,900,360,0,Rural,Vehicle,2,38.72,16.45,12429.92,N
+LP11149,Male,No,3+,Graduate,No,22,300,6373,0,900,240,1,Semiurban,Vehicle,3,61.8,9.62,8459.83,N
+LP11150,,No,,Not Graduate,Yes,24,388,1000,0,900,180,1,,,1,40.11,11.69,10622.67,Y
+LP11151,,No,1,Graduate,Yes,26,600,4547,56,900,180,1,Urban,Home Purchase,0,52.46,8.14,8673.77,N
+LP11152,Male,Yes,1,Not Graduate,Yes,21,436,2448,2634,900,240,1,Urban,Education,,50.23,11.71,9728.42,N
+LP11153,Female,No,2,Not Graduate,,21,600,2183,0,900,240,1,Rural,Education,0,36.27,15.33,12071.13,N
+LP11154,Female,Yes,0,Graduate,Yes,31,484,1813,250,900,120,0,Rural,Debt Consolidation,3,51.06,18.14,16297.87,Y
+LP11155,Male,No,3+,Graduate,Yes,36,408,2606,428,900,180,1,Rural,Home Purchase,2,,18.19,,N
+LP11156,Male,Yes,0,Graduate,No,38,464,2962,1143,900,60,0,Rural,Education,,32.4,11.9,19974.55,Y
+LP11157,Male,No,3+,Not Graduate,No,,,2212,746,900,360,1,Rural,Business,1,73.31,17.78,13402.24,N
+LP11158,Female,No,1,Not Graduate,,43,374,3891,942,900,120,0,Urban,,2,42.61,13.83,13882.13,N
+LP11159,Female,No,1,Not Graduate,No,46,600,3664,188,900,360,0,Urban,,0,35.56,10.41,8172.16,N
+LP11160,Female,Yes,3+,Graduate,No,31,,4453,432,900,240,,Rural,Medical,0,50.03,8.79,7976.38,N
+LP11161,Male,Yes,1,Not Graduate,Yes,25,527,2004,1467,,360,0,Rural,Debt Consolidation,1,,12.56,9647.24,N
+LP11162,Female,No,0,Not Graduate,No,35,534,4523,204,900,360,1,Rural,Home Improvement,2,43.4,16.28,12306.23,N
+LP11163,Female,No,2,Not Graduate,,39,359,2298,1177,900,120,1,Urban,Medical,1,41.59,7.0,10449.76,N
+LP11164,Female,No,0,Not Graduate,No,21,457,2613,370,,360,1,Urban,Business,2,47.03,,10082.58,N
+LP11165,Female,No,3+,Not Graduate,No,21,,2447,206,900,240,,,Business,5,41.51,15.18,11970.98,N
+LP11166,,Yes,3+,Graduate,Yes,33,427,1607,1242,900,240,0,Rural,Medical,1,55.44,13.01,10550.59,N
+LP11167,Male,Yes,1,Not Graduate,No,,411,4459,154,900,360,0,Rural,Debt Consolidation,,39.66,,10315.79,N
+LP11168,Female,Yes,2,Graduate,Yes,31,490,,0,900,180,1,Rural,Home Purchase,4,66.07,16.34,13432.27,N
+LP11169,Male,No,,Not Graduate,No,32,387,1000,1122,900,240,0,Semiurban,Home Purchase,3,49.69,9.86,8601.88,N
+LP11170,Female,No,3+,Not Graduate,No,30,568,3632,0,900,120,1,Urban,Home Improvement,4,41.87,13.34,13619.05,N
+LP11171,Female,No,,Not Graduate,Yes,38,529,5011,585,900,,0,Rural,Education,5,32.91,12.92,9899.55,Y
+LP11172,Male,No,1,Not Graduate,No,35,474,4484,0,900,,1,Rural,Home Purchase,0,33.36,17.92,13505.01,N
+LP11173,Female,No,,Graduate,No,27,486,3247,1005,900,360,1,Rural,Business,3,28.75,17.59,13262.89,Y
+LP11174,,Yes,1,Not Graduate,No,39,487,1000,113,900,180,1,Semiurban,Home Improvement,1,46.43,13.46,11660.94,N
+LP11175,Male,Yes,1,Graduate,No,25,530,3524,,900,180,0,Rural,,3,29.23,18.26,14662.46,N
+LP11176,Female,No,3+,Not Graduate,No,,406,5585,1163,900,60,0,Rural,Education,,56.0,18.05,22878.57,N
+LP11177,Male,Yes,3+,Not Graduate,No,33,600,,0,900,120,0,Rural,Education,3,35.69,14.04,13995.63,N
+LP11178,Male,Yes,2,Not Graduate,,51,542,3099,0,900,360,0,Rural,Debt Consolidation,0,,13.95,,N
+LP11179,Female,Yes,3+,Not Graduate,Yes,34,495,3583,,,360,0,Rural,Business,2,31.68,18.16,13681.35,N
+LP11180,Female,,0,Graduate,No,,531,1000,495,900,240,0,Urban,Medical,2,44.99,13.03,10563.42,Y
+LP11181,Female,,0,Graduate,No,23,600,3052,512,900,240,0,Urban,Medical,2,56.47,14.71,11658.72,N
+LP11182,Male,No,3+,Graduate,,30,412,,183,900,240,1,Rural,Vehicle,2,38.5,14.02,11204.76,N
+LP11183,Female,No,0,,Yes,31,,3282,1065,900,240,1,Rural,Medical,0,51.12,12.17,10016.65,N
+LP11184,Female,,2,Not Graduate,No,36,567,2979,405,20,360,0,Rural,Debt Consolidation,0,60.73,9.87,173.6,N
+LP11185,Male,No,0,Not Graduate,Yes,25,557,6371,,900,,1,Rural,,1,48.9,18.39,14747.03,N
+LP11186,,No,1,Not Graduate,No,21,474,3511,0,900,360,1,,Home Purchase,0,44.67,15.11,,N
+LP11187,Female,Yes,,Not Graduate,Yes,37,373,2852,1028,900,60,1,Rural,Vehicle,5,43.26,9.24,18787.53,N
+LP11188,Male,Yes,0,Not Graduate,Yes,39,558,2632,181,900,120,1,Urban,Home Purchase,3,39.2,,17632.36,Y
+LP11189,Male,Yes,,Graduate,No,34,491,7998,40,900,,1,Semiurban,Education,1,42.45,19.86,14935.54,N
+LP11190,Male,No,0,,No,29,465,3400,0,900,60,1,,Business,1,34.64,,19979.1,Y
+LP11191,Male,Yes,3+,Not Graduate,No,29,355,,91,900,360,1,Semiurban,Medical,5,,9.6,7633.44,N
+LP11192,Male,Yes,3+,Graduate,No,21,,5333,2185,900,360,0,Urban,Education,1,65.94,7.0,5987.72,N
+LP11193,Female,No,,,No,27,485,3641,,900,,1,Semiurban,Education,0,76.06,17.77,16083.64,N
+LP11194,Female,No,1,Graduate,No,26,480,1863,888,900,360,0,,Vehicle,,47.25,10.45,8199.03,N
+LP11195,Male,No,2,Graduate,No,44,337,1000,0,900,240,0,Semiurban,Home Improvement,4,59.13,14.61,11592.59,N
+LP11196,Male,,0,Graduate,Yes,24,488,2337,108,900,360,1,Urban,Home Improvement,0,37.02,12.48,,Y
+LP11197,Male,No,2,Not Graduate,Yes,23,349,3717,442,900,360,0,Urban,Home Purchase,0,45.84,11.37,8823.46,N
+LP11198,Male,Yes,0,,No,25,488,3669,0,,180,1,Semiurban,Home Purchase,3,29.3,7.33,8256.4,N
+LP11199,Male,No,1,Graduate,No,21,476,3141,1380,900,180,0,Rural,Home Improvement,1,45.13,,12862.4,N
+LP11200,Male,Yes,3+,Not Graduate,,33,494,3067,0,900,240,1,Semiurban,Medical,3,53.19,12.92,10492.93,N
+LP11201,Female,Yes,2,Not Graduate,Yes,48,,,644,900,360,0,Rural,Business,2,63.69,14.04,10692.35,N
+LP11202,Female,Yes,3+,Not Graduate,Yes,42,520,5417,1431,,240,,,Education,5,48.24,11.57,9641.31,Y
+LP11203,Female,,,Not Graduate,No,47,,3430,676,900,360,,Urban,Medical,5,44.52,15.58,11798.5,Y
+LP11204,Female,No,2,Not Graduate,,27,,3570,,900,180,0,Rural,Vehicle,2,51.26,13.86,11901.14,N
+LP11205,,Yes,,Not Graduate,No,,452,2104,448,900,360,0,Semiurban,Vehicle,4,38.74,13.66,10422.12,N
+LP11206,Female,Yes,0,Graduate,No,38,546,2206,,900,240,,Rural,Business,2,,15.9,,N
+LP11207,Male,No,1,,No,38,446,5013,848,900,240,,Rural,Home Purchase,0,56.36,12.59,10282.42,N
+LP11208,Female,No,2,Graduate,No,53,403,1902,436,900,240,1,Urban,Medical,0,27.67,11.81,,Y
+LP11209,Male,No,0,Graduate,Yes,30,526,,217,900,60,,Urban,Business,1,51.74,17.15,22439.97,N
+LP11210,Female,No,0,Not Graduate,Yes,41,550,1136,489,900,180,1,Semiurban,Education,0,48.94,,10605.43,N
+LP11211,Male,No,2,Graduate,No,,485,3018,776,900,360,0,Rural,Home Improvement,,42.15,15.45,11704.52,N
+LP11212,Female,Yes,3+,Graduate,No,33,,2466,0,900,240,0,Urban,Medical,1,44.63,14.28,11375.17,N
+LP11213,,Yes,2,Graduate,No,31,600,4777,1124,900,60,0,Rural,Vehicle,5,50.62,18.57,23134.07,N
+LP11214,Male,No,2,Not Graduate,Yes,29,441,4735,0,900,,0,Semiurban,Business,1,48.85,14.09,10727.99,Y
+LP11215,Female,No,0,Not Graduate,No,41,600,,960,900,120,1,Rural,,,43.74,10.09,11938.47,N
+LP11216,Female,No,3+,Not Graduate,Yes,21,476,,71,,360,1,,Business,3,55.63,14.9,11308.06,N
+LP11217,Male,No,2,Graduate,Yes,42,386,3132,567,900,360,0,Urban,Home Improvement,3,65.11,14.37,10927.96,Y
+LP11218,Female,Yes,3+,Not Graduate,Yes,22,,1794,,900,240,0,Semiurban,,1,40.83,12.48,,N
+LP11219,Female,Yes,2,,No,38,523,8407,0,900,360,0,Semiurban,Education,0,18.03,11.86,9160.64,N
+LP11220,Female,No,2,Graduate,No,,,1674,102,900,360,0,Semiurban,Home Purchase,0,54.03,11.39,8837.16,N
+LP11221,Male,Yes,3+,Not Graduate,Yes,22,,2670,,,240,0,Rural,Medical,2,54.93,12.55,10257.0,N
+LP11222,Male,No,3+,Not Graduate,Yes,48,,2227,787,900,360,,Rural,Vehicle,3,49.37,10.13,7984.74,Y
+LP11223,Female,No,0,Graduate,Yes,30,,6695,71,900,,0,Semiurban,Home Improvement,3,50.26,11.7,9722.19,N
+LP11224,Female,No,3+,Not Graduate,No,26,439,6846,1107,900,240,0,Rural,Debt Consolidation,3,,16.5,12860.11,N
+LP11225,Male,No,2,,Yes,33,362,3003,1035,900,,0,Rural,Vehicle,2,,9.26,11527.84,N
+LP11226,Male,No,2,Not Graduate,No,36,,3990,1017,900,60,,Urban,Debt Consolidation,2,55.61,18.34,23020.87,N
+LP11227,Female,No,2,Graduate,Yes,,456,,1336,,240,1,Urban,Home Purchase,,65.97,7.0,6977.69,Y
+LP11228,Female,Yes,1,Graduate,No,35,449,1794,1024,900,360,1,Rural,Medical,3,47.83,11.37,8823.46,N
+LP11229,Male,Yes,2,Not Graduate,Yes,43,415,3384,0,900,360,0,Rural,Debt Consolidation,4,,11.66,9022.65,N
+LP11230,Female,No,2,,No,,346,1885,0,900,180,0,Rural,Debt Consolidation,5,63.29,18.88,15067.16,N
+LP11231,Male,,3+,Graduate,No,35,460,,455,900,360,1,Rural,Education,,38.57,8.29,6786.72,N
+LP11232,Male,No,0,Not Graduate,Yes,45,375,2442,864,900,60,0,Urban,Education,,58.37,9.15,18748.11,N
+LP11233,Male,No,3+,Not Graduate,Yes,28,504,,200,900,,,Urban,Medical,0,62.18,11.77,9098.49,N
+LP11234,Female,No,1,Not Graduate,,29,416,3216,2081,900,60,1,Semiurban,Debt Consolidation,2,47.26,14.73,21283.6,N
+LP11235,Male,Yes,0,Not Graduate,No,34,407,1807,,900,60,0,Semiurban,Vehicle,2,54.6,17.13,22430.28,Y
+LP11236,,Yes,,Not Graduate,No,23,495,4017,917,900,360,1,Semiurban,Home Purchase,0,57.98,14.93,11329.63,N
+LP11237,Female,Yes,,Not Graduate,No,33,483,1079,0,900,,1,Rural,Business,0,34.47,,5987.72,N
+LP11238,Male,,1,Graduate,No,26,452,2829,1706,900,60,,Rural,Medical,3,43.22,14.78,21307.14,Y
+LP11239,,No,1,Not Graduate,No,21,541,1360,1672,900,60,1,Semiurban,Vehicle,0,49.92,12.23,20124.76,Y
+LP11240,Female,,2,Not Graduate,Yes,41,466,4399,366,900,60,0,Semiurban,Business,2,53.71,14.2,21034.86,N
+LP11241,Female,No,3+,Not Graduate,No,25,456,2632,1826,900,240,,Semiurban,Debt Consolidation,1,32.08,10.97,9271.33,N
+LP11242,Female,Yes,,Not Graduate,No,21,549,2498,0,900,,1,Urban,Medical,5,52.09,16.11,12182.68,N
+LP11243,Male,No,2,Not Graduate,Yes,,563,4676,1220,900,360,1,Urban,Home Purchase,2,44.15,13.66,10422.12,N
+LP11244,Female,,2,,No,39,467,2860,485,900,360,0,Semiurban,Vehicle,3,34.89,15.64,11841.91,N
+LP11245,Male,No,2,Not Graduate,Yes,34,429,4358,695,900,360,,,Vehicle,1,54.69,18.45,13894.69,N
+LP11246,Male,,2,Graduate,No,22,498,6993,,900,180,0,Semiurban,Vehicle,3,62.92,10.45,9920.71,Y
+LP11247,Male,No,1,Graduate,No,40,478,4306,0,900,60,,,Debt Consolidation,1,,15.09,21453.48,N
+LP11248,Female,Yes,0,Graduate,Yes,29,436,3423,950,900,240,0,Urban,,0,45.26,16.93,13153.32,N
+LP11249,Female,No,2,Not Graduate,,38,506,5479,0,900,60,1,,Business,0,52.1,8.54,18482.23,N
+LP11250,Female,No,0,Graduate,Yes,25,580,1001,170,900,240,1,Urban,Medical,1,73.15,11.85,,N
+LP11251,Male,Yes,2,Graduate,No,30,495,2025,1742,900,120,1,Urban,Home Improvement,0,53.06,14.65,14327.85,Y
+LP11252,Male,No,,Graduate,Yes,,,3826,919,900,360,1,Semiurban,Medical,1,63.98,15.07,11430.39,N
+LP11253,Male,No,,Graduate,No,37,430,4703,397,900,360,1,Urban,Home Purchase,,59.1,17.63,13292.21,N
+LP11254,Male,,1,,Yes,40,427,1302,1264,900,60,0,Semiurban,,0,60.18,11.37,19734.66,Y
+LP11255,Male,No,1,Not Graduate,Yes,33,376,3859,68,900,240,1,Rural,Business,2,62.5,,12071.13,N
+LP11256,Female,No,2,Not Graduate,No,21,423,2948,1603,900,180,0,,Home Improvement,0,23.21,14.52,12301.72,N
+LP11257,Male,No,1,Not Graduate,No,25,457,3788,165,900,360,0,Rural,Medical,0,55.19,10.6,,N
+LP11258,Female,,,Not Graduate,No,27,503,2758,0,900,,1,Urban,Education,2,65.46,14.35,10913.66,N
+LP11259,Female,Yes,0,Graduate,No,42,562,2580,1741,900,180,1,Rural,Home Improvement,1,61.18,17.71,14306.4,N
+LP11260,Male,No,2,Not Graduate,Yes,27,432,3364,0,900,240,,Rural,Home Improvement,0,15,16.76,13037.2,N
+LP11261,Female,Yes,0,Graduate,Yes,,419,5220,730,900,240,0,Semiurban,Home Purchase,3,22.74,15.65,12285.58,N
+LP11262,Male,No,3+,Not Graduate,No,34,511,5482,238,900,360,1,Urban,Vehicle,1,55.15,9.64,7659.79,N
+LP11263,Male,No,2,Graduate,No,25,501,2086,0,900,60,0,Rural,Debt Consolidation,0,48.37,17.8,22756.28,N
+LP11264,Female,No,2,Graduate,Yes,34,532,3449,,900,360,,Urban,Medical,2,37.67,22.82,17134.44,N
+LP11265,Male,No,1,Graduate,No,33,392,3150,623,900,360,1,Urban,Education,0,53.36,13.0,9955.8,N
+LP11266,Male,Yes,0,Not Graduate,No,41,429,5083,0,900,120,0,Semiurban,Education,5,63.72,13.05,13464.52,N
+LP11267,Male,No,0,,Yes,43,,,2158,900,,0,,Vehicle,2,56.41,10.75,8401.33,N
+LP11268,Female,,0,Not Graduate,No,25,436,3343,1036,900,360,,Rural,Business,1,75.69,12.4,9535.54,N
+LP11269,Male,No,2,,No,41,490,3393,0,900,360,1,Rural,Debt Consolidation,3,42.14,13.84,10549.97,N
+LP11270,Female,Yes,2,Not Graduate,No,28,,2600,494,900,360,0,,Medical,4,49.7,10.23,8051.53,N
+LP11271,Male,No,2,Graduate,Yes,21,564,4841,1935,900,360,1,Rural,Medical,1,20.36,20.07,15091.0,Y
+LP11272,,Yes,0,,No,24,481,1533,394,900,360,1,Urban,Home Improvement,3,55.15,12.42,9549.49,N
+LP11273,Female,Yes,1,Not Graduate,No,26,468,2864,1440,900,240,0,Urban,,1,31.29,15.49,12178.22,N
+LP11274,Male,No,1,Graduate,,28,456,3638,0,900,360,0,Semiurban,Medical,,,11.41,8850.87,Y
+LP11275,Female,Yes,2,Not Graduate,No,24,436,2330,170,,360,0,,Vehicle,0,25.29,18.09,,Y
+LP11276,Female,Yes,2,Not Graduate,Yes,29,470,3241,0,900,360,1,Semiurban,Home Purchase,0,30.53,13.95,10628.24,N
+LP11277,Male,Yes,3+,Graduate,Yes,43,494,2925,367,900,360,0,Urban,Education,0,61.86,16.2,12248.07,N
+LP11278,Female,No,1,Graduate,No,,,3698,0,20,120,1,Rural,Home Purchase,0,64.85,19.18,375.7,N
+LP11279,Female,No,,Not Graduate,Yes,22,,2500,74,900,240,0,Rural,,,44.75,7.96,7505.57,N
+LP11280,Male,No,1,Graduate,No,42,495,2177,0,,240,0,Rural,Home Purchase,,,12.37,10142.9,N
+LP11281,Female,No,2,Graduate,No,21,473,2749,441,900,,0,Rural,Vehicle,,40.8,16.65,12962.2,N
+LP11282,Female,No,2,Graduate,Yes,,457,3162,0,900,60,0,Rural,Debt Consolidation,3,78.39,15.33,21567.15,Y
+LP11283,Female,Yes,3+,Graduate,Yes,35,600,1800,790,900,180,0,Rural,Medical,3,62.4,17.96,14467.9,N
+LP11284,Female,No,3+,Graduate,No,33,403,2981,129,900,,1,Rural,Business,2,51.92,20.09,23889.59,N
+LP11285,Female,No,3+,Not Graduate,No,28,475,2966,310,900,360,0,Rural,Medical,3,50.85,11.72,9064.0,N
+LP11286,Female,No,0,Not Graduate,No,42,415,3052,0,900,120,0,Rural,Home Improvement,3,54.52,20.46,17668.38,N
+LP11287,Female,No,0,Not Graduate,,39,450,3832,125,900,240,,Rural,Home Improvement,2,42.95,13.65,10963.65,N
+LP11288,Male,No,2,,No,,492,4317,0,900,180,1,Semiurban,Vehicle,5,52.9,13.07,11428.66,N
+LP11289,Male,No,3+,Not Graduate,Yes,25,395,1000,,900,180,1,Semiurban,Vehicle,3,36.25,,13666.48,N
+LP11290,Female,No,2,Not Graduate,Yes,21,571,1000,876,900,360,1,Rural,Home Improvement,4,,14.81,,N
+LP11291,Female,Yes,3+,Not Graduate,No,39,422,4345,3141,900,120,0,Rural,Business,1,40.26,10.99,12392.41,N
+LP11292,Male,Yes,2,Graduate,,,,3320,0,900,60,1,Semiurban,Business,1,66.62,14.07,20974.1,Y
+LP11293,Male,Yes,1,,Yes,26,399,5251,1802,900,60,0,Urban,Vehicle,0,38.5,17.3,22512.75,N
+LP11294,Male,No,3+,Not Graduate,Yes,21,396,1189,1876,900,360,1,Rural,Home Purchase,0,64.54,15.38,11653.95,N
+LP11295,Male,No,2,Not Graduate,Yes,33,579,,0,900,60,1,Semiurban,Business,1,40.56,8.86,18621.43,N
+LP11296,Male,Yes,2,Not Graduate,No,29,498,4184,,900,240,0,Rural,Vehicle,0,43.89,18.05,13924.44,N
+LP11297,Male,No,3+,,Yes,30,,4669,,900,240,0,Semiurban,Home Purchase,5,61.54,14.08,11244.02,Y
+LP11298,Male,Yes,,Not Graduate,No,32,,2602,715,900,60,,Rural,Debt Consolidation,0,42.38,14.32,21091.04,N
+LP11299,Male,No,,Not Graduate,Yes,34,414,3643,698,900,360,,Urban,Business,2,52.89,13.72,10464.71,N
+LP11300,Male,Yes,1,Graduate,No,37,525,3500,770,,120,0,Urban,,0,,9.95,11868.66,N
+LP11301,Female,Yes,0,,No,45,467,4278,518,900,,0,Semiurban,,6,54.28,13.2,10096.68,N
+LP11302,Male,Yes,3+,Not Graduate,,31,451,3250,985,900,60,0,Rural,Vehicle,0,56.77,19.32,23505.25,N
+LP11303,Male,Yes,1,Graduate,Yes,37,,1626,635,900,240,0,Semiurban,Debt Consolidation,2,56.68,17.8,13751.43,N
+LP11304,Male,No,1,Not Graduate,Yes,,503,,,900,180,1,Urban,Business,1,33.16,20.01,15813.32,Y
+LP11305,Male,No,2,Graduate,Yes,21,521,5045,916,900,120,,,Medical,3,39.11,14.37,14174.89,N
+LP11306,Female,No,2,Not Graduate,Yes,27,395,2891,0,900,360,1,,Education,4,49.14,12.99,9948.76,N
+LP11307,,,0,Graduate,No,40,517,2126,0,900,360,0,Rural,Home Improvement,0,42.47,,9759.21,N
+LP11308,Female,No,0,Not Graduate,No,22,513,,1089,900,120,1,Semiurban,Home Improvement,2,46.12,,13374.34,N
+LP11309,Female,Yes,3+,Not Graduate,Yes,33,450,1080,431,900,120,0,Semiurban,Home Improvement,0,62.17,13.73,,N
+LP11310,Male,No,0,Not Graduate,No,30,452,2671,644,900,240,,Rural,Business,6,42.85,20.52,15657.58,N
+LP11311,Male,No,1,Graduate,No,31,428,1423,1787,900,120,1,Semiurban,Home Improvement,1,,11.83,12824.09,N
+LP11312,,No,0,Not Graduate,No,27,329,2313,779,900,360,0,Rural,Medical,0,,17.79,13409.58,N
+LP11313,,No,2,Not Graduate,No,42,600,1000,0,900,180,1,Urban,Education,0,82.08,,9643.93,N
+LP11314,Male,No,3+,Not Graduate,Yes,44,437,4133,0,900,240,0,Semiurban,Home Improvement,3,24.18,13.0,,N
+LP11315,Female,Yes,1,Graduate,Yes,38,433,3227,2460,900,240,0,Semiurban,,2,69.49,17.78,13737.61,N
+LP11316,Male,Yes,,Not Graduate,Yes,35,600,4264,988,900,360,,Semiurban,Debt Consolidation,2,49.4,,9752.21,Y
+LP11317,Female,,0,Not Graduate,No,44,417,1995,0,900,360,1,Semiurban,Business,0,57.7,17.46,13167.62,Y
+LP11318,Female,Yes,2,Graduate,Yes,34,592,2143,0,900,240,0,Rural,Business,3,79.03,14.18,11309.54,N
+LP11319,Female,,1,Not Graduate,No,30,519,3684,0,900,,0,Rural,Home Purchase,0,35.55,15.28,12769.33,N
+LP11320,Male,Yes,2,Not Graduate,No,30,467,1611,0,900,360,0,Rural,Business,,48.37,15.16,11495.23,N
+LP11321,Male,No,3+,Not Graduate,Yes,21,502,,215,900,360,0,Urban,,6,69.39,9.26,7410.6,N
+LP11322,Male,No,,Not Graduate,,32,,1531,,900,360,1,Rural,,,35.66,10.1,7964.73,N
+LP11323,Female,No,,Not Graduate,Yes,21,400,1364,672,900,360,,Rural,,0,70.27,11.16,8679.9,N
+LP11324,Female,No,3+,Not Graduate,Yes,21,,3985,662,900,360,0,Semiurban,Debt Consolidation,0,65.53,18.46,13902.05,N
+LP11325,Male,Yes,0,Not Graduate,No,34,532,3435,0,900,360,1,Semiurban,,3,45.29,7.49,,N
+LP11326,Male,Yes,0,Not Graduate,Yes,38,473,1000,725,,180,0,,Debt Consolidation,0,38.49,16.06,13255.98,N
+LP11327,Male,No,,Not Graduate,No,29,503,4368,0,900,240,0,Urban,Home Purchase,3,51.84,14.55,11552.97,N
+LP11328,Female,No,,Not Graduate,,21,579,2598,153,900,120,1,Urban,Education,0,43.02,20.11,17458.7,N
+LP11329,Male,No,0,Not Graduate,No,29,507,2276,929,900,360,1,Rural,Home Purchase,2,36.55,13.67,10429.22,N
+LP11330,Male,Yes,3+,Not Graduate,No,21,490,4023,480,900,360,0,Rural,,2,42.4,12.54,9633.26,N
+LP11331,Female,No,1,Not Graduate,,21,431,3776,1165,900,240,0,Semiurban,Business,3,53.92,,13345.12,N
+LP11332,,No,1,Not Graduate,Yes,29,508,4204,268,900,240,0,Urban,Vehicle,,44.4,18.83,14467.27,N
+LP11333,Female,No,3+,Not Graduate,No,,600,1590,190,900,360,1,Semiurban,Home Improvement,4,39.64,15.81,11965.02,Y
+LP11334,Female,Yes,1,,,23,450,1128,0,,240,1,,Vehicle,1,58.18,,10212.58,N
+LP11335,Male,Yes,2,Graduate,No,35,558,4858,0,,120,0,Semiurban,Medical,3,,13.96,,N
+LP11336,Female,Yes,3+,Not Graduate,No,34,527,1712,1986,900,180,0,Rural,Vehicle,0,63.84,9.8,9561.63,N
+LP11337,Female,No,0,Not Graduate,No,21,403,2078,0,900,240,0,Semiurban,Business,3,32.73,16.48,12846.51,N
+LP11338,Female,No,3+,Not Graduate,Yes,,555,,196,900,360,,Rural,Business,3,38.16,22.18,16657.81,N
+LP11339,Female,No,,Not Graduate,No,,452,4326,0,900,60,0,Urban,Medical,6,32.75,10.86,19505.4,N
+LP11340,Female,Yes,0,Not Graduate,Yes,42,331,3679,2275,900,60,,Semiurban,Home Purchase,0,51.84,12.17,20097.4,N
+LP11341,Female,Yes,3+,Not Graduate,Yes,30,569,,502,900,360,,Urban,,2,44.22,14.6,11092.66,N
+LP11342,Male,No,2,Graduate,Yes,42,,6058,1270,900,,,Semiurban,Medical,,47.75,8.21,7646.01,N
+LP11343,Female,Yes,2,Not Graduate,Yes,26,527,2697,1055,900,360,0,Rural,Home Purchase,2,59.62,16.68,12597.51,N
+LP11344,Female,No,3+,Not Graduate,,,491,2315,1038,900,360,0,,Vehicle,0,44.67,,7515.21,N
+LP11345,Male,No,3+,Graduate,,29,,1064,,900,180,1,Rural,Education,2,61.45,10.76,10094.15,N
+LP11346,Male,No,3+,Not Graduate,Yes,51,463,3425,0,900,360,1,Rural,Debt Consolidation,4,47.83,15.08,11437.59,N
+LP11347,Female,No,2,,Yes,22,531,1000,1291,,360,0,Semiurban,Business,2,76.62,11.42,8857.73,N
+LP11348,Male,No,2,Not Graduate,No,40,583,3754,1364,,240,,Semiurban,,3,,17.85,13786.0,Y
+LP11349,Male,Yes,2,Not Graduate,No,36,459,2693,1705,900,180,1,Semiurban,Vehicle,2,,11.29,10393.86,N
+LP11350,Male,,1,Graduate,Yes,27,415,5063,466,900,360,,Rural,Business,0,,12.71,9752.21,N
+LP11351,Male,No,2,Not Graduate,No,39,561,1337,1730,900,240,0,,,0,46.74,13.32,10750.02,N
+LP11352,Male,No,3+,Not Graduate,No,33,453,5043,0,900,360,0,Semiurban,Debt Consolidation,,,,10379.57,N
+LP11353,Male,No,3+,Not Graduate,Yes,25,508,5064,0,900,180,0,Rural,Home Purchase,1,38.82,19.39,15402.59,Y
+LP11354,Male,No,3+,Graduate,Yes,56,348,4764,0,900,240,0,Urban,Medical,0,32.91,14.56,11559.57,N
+LP11355,Female,Yes,0,Graduate,No,32,600,4163,,900,240,0,Rural,Business,5,24.44,15.3,12051.08,Y
+LP11356,Male,,,,No,21,,3197,,900,120,,Rural,Home Purchase,1,46.44,14.39,14185.79,N
+LP11357,Female,,3+,Not Graduate,Yes,30,456,3026,871,900,180,1,Rural,Education,2,53.59,13.58,11732.79,N
+LP11358,Male,No,1,Not Graduate,No,21,413,3826,0,900,180,0,Rural,Vehicle,,55.66,18.42,14766.57,N
+LP11359,Male,Yes,3+,Graduate,Yes,32,449,2936,874,900,60,1,Rural,Education,5,31.25,15.17,21491.33,N
+LP11360,Female,No,1,Not Graduate,No,25,526,5546,386,900,180,0,Rural,Education,1,28.58,20.7,16274.05,N
+LP11361,Male,Yes,3+,Not Graduate,Yes,21,582,2933,1179,900,180,0,Rural,Vehicle,3,46.78,14.22,12118.99,Y
+LP11362,Female,Yes,2,Not Graduate,No,,490,2345,357,900,240,0,Urban,,2,46.89,16.23,12676.86,N
+LP11363,Male,Yes,1,Graduate,No,,497,5159,1026,900,360,1,Semiurban,Home Purchase,0,50.25,14.28,10863.62,N
+LP11364,Male,,2,Not Graduate,Yes,29,462,6810,1718,,360,1,Semiurban,Vehicle,0,47.81,14.1,10735.12,N
+LP11365,Female,No,1,Graduate,Yes,21,547,,688,900,360,0,Semiurban,Home Purchase,2,64.56,8.01,6610.16,N
+LP11366,Male,No,2,Graduate,No,28,599,2521,967,900,120,1,Rural,Home Purchase,5,72.52,10.2,11993.47,N
+LP11367,Male,No,2,Not Graduate,,34,554,5829,1062,900,,0,Rural,Medical,0,20.0,17.62,13284.88,N
+LP11368,Male,Yes,3+,Not Graduate,No,21,600,2512,80,900,240,0,Urban,Medical,2,58.19,15.79,12379.72,N
+LP11369,Female,No,0,Graduate,No,36,400,2931,0,900,360,,Rural,Debt Consolidation,1,50.32,20.39,15328.08,N
+LP11370,Male,No,3+,Graduate,Yes,38,415,2911,1327,900,360,1,Rural,Debt Consolidation,0,36.44,15.65,11849.15,N
+LP11371,Female,No,2,Not Graduate,No,21,491,1000,160,900,360,1,Semiurban,Home Improvement,5,50.01,19.44,,N
+LP11372,Female,No,0,Graduate,No,23,470,2117,1229,900,180,0,,Vehicle,0,55.74,12.11,10865.29,N
+LP11373,Male,,3+,Not Graduate,Yes,33,446,,0,900,60,1,Rural,Home Improvement,4,52.29,20.46,,N
+LP11374,Male,Yes,2,Graduate,,33,452,5400,168,900,360,0,Rural,Vehicle,2,43.94,16.08,12160.89,Y
+LP11375,Male,No,,Graduate,No,,417,5922,0,900,180,0,Semiurban,Vehicle,1,57.66,14.85,12503.95,N
+LP11376,,Yes,1,Graduate,No,21,485,5578,0,900,360,0,,Education,0,51.19,14.27,10856.47,N
+LP11377,Male,No,3+,Graduate,No,22,411,3969,0,900,120,1,Semiurban,,0,53.94,7.87,10857.76,Y
+LP11378,Female,Yes,0,Not Graduate,,30,371,2731,927,900,240,0,Semiurban,Home Improvement,1,66.35,12.42,10174.55,N
+LP11379,Male,No,,Graduate,No,21,450,4914,783,900,360,0,Urban,Business,1,55.35,,9326.85,Y
+LP11380,,No,3+,Graduate,No,26,525,,169,900,120,1,Rural,Home Purchase,0,28.52,18.94,16765.23,N
+LP11381,Female,No,3+,Not Graduate,Yes,26,543,,101,900,60,1,Semiurban,Home Improvement,3,52.45,19.79,23739.45,Y
+LP11382,Female,No,2,Graduate,No,27,447,1000,,,360,,Rural,Home Purchase,3,53.21,14.11,10742.25,N
+LP11383,Female,No,3+,Not Graduate,Yes,21,528,1522,1417,,360,0,Rural,Home Improvement,5,49.65,13.83,,N
+LP11384,Female,No,2,Graduate,No,50,477,2042,0,900,360,0,Semiurban,Debt Consolidation,1,68.79,20.44,,Y
+LP11385,Female,No,,Not Graduate,Yes,21,487,2613,0,,180,1,Rural,Home Purchase,1,42.88,16.86,13761.84,N
+LP11386,,No,3+,Graduate,No,21,422,2520,0,900,240,,Rural,Education,3,85,12.95,10512.14,N
+LP11387,Male,No,3+,Not Graduate,No,33,,2050,421,900,,0,Semiurban,Debt Consolidation,3,57.09,21.17,15906.84,N
+LP11388,Female,No,3+,Graduate,No,31,346,2320,169,900,120,1,Rural,Vehicle,1,62.48,12.21,13021.88,Y
+LP11389,Male,No,0,Not Graduate,Yes,29,555,2069,988,900,360,1,Urban,Home Improvement,4,58.58,13.44,10266.24,N
+LP11390,Female,No,2,Not Graduate,Yes,,576,2016,2332,900,,0,,Business,0,39.02,9.3,7436.71,N
+LP11391,Female,No,1,Graduate,Yes,27,,,645,900,60,1,Urban,,,79.29,9.35,18835.77,N
+LP11392,Female,Yes,2,Graduate,Yes,35,529,2840,639,900,180,0,Rural,,5,51.78,14.54,12313.94,N
+LP11393,Female,Yes,0,Graduate,Yes,21,553,4839,0,900,360,1,Rural,Home Improvement,2,44.3,,12168.15,N
+LP11394,Female,No,3+,Not Graduate,,46,600,3807,401,900,240,1,Rural,Education,0,35.68,8.64,7890.34,N
+LP11395,Female,No,1,Graduate,,32,,4841,0,900,360,0,Rural,Education,2,59.52,7.0,5987.72,N
+LP11396,Female,No,3+,Graduate,Yes,30,418,2645,0,900,360,1,Rural,,2,65.22,16.47,12444.49,Y
+LP11397,Male,No,,Graduate,No,36,419,4948,320,900,120,0,Urban,Home Improvement,0,57.53,18.64,,N
+LP11398,Female,Yes,1,Graduate,Yes,29,463,3801,703,900,240,,,,4,38.21,14.16,11296.42,N
+LP11399,Male,No,2,Not Graduate,Yes,32,353,3791,195,900,,0,Urban,Home Improvement,5,49.16,17.26,13021.19,Y
+LP11400,Male,,1,Graduate,,,379,2981,,900,240,1,Urban,Education,1,38.86,,,N
+LP11401,Female,Yes,2,,Yes,35,437,3709,673,900,180,0,Rural,Home Purchase,2,41.78,13.19,11499.93,N
+LP11402,Female,Yes,3+,Not Graduate,Yes,37,506,1703,1209,20,,,Urban,Business,,34.15,15.73,274.21,Y
+LP11403,Female,,3+,Graduate,Yes,,365,4743,1679,900,240,1,Semiurban,Medical,0,42.36,9.3,8271.99,Y
+LP11404,Female,No,2,Not Graduate,No,,450,1625,1436,900,180,0,Semiurban,Education,3,49.54,12.51,11098.56,N
+LP11405,Male,No,0,,No,30,513,4862,970,900,60,1,Semiurban,Business,1,40.37,19.52,23604.76,N
+LP11406,Male,No,3+,Not Graduate,No,35,487,1859,2527,900,,1,Urban,Business,4,54.1,12.09,10853.68,Y
+LP11407,Male,No,1,Not Graduate,No,33,530,2133,676,900,360,0,Semiurban,Home Purchase,0,29.46,15.11,11459.2,N
+LP11408,Female,Yes,2,Not Graduate,No,21,509,3869,451,900,240,0,Urban,Home Improvement,2,48.9,11.61,9666.17,N
+LP11409,,No,2,Not Graduate,Yes,,600,3844,0,900,360,0,Semiurban,Vehicle,1,59.58,11.99,9250.59,Y
+LP11410,Male,No,1,Not Graduate,No,27,491,3853,815,900,240,1,Urban,Home Improvement,0,33.04,9.53,,N
+LP11411,Male,No,1,Not Graduate,No,27,546,3518,432,900,360,1,Rural,Home Improvement,0,,15.55,,N
+LP11412,Female,No,1,Graduate,Yes,36,559,4527,89,,360,1,Rural,Education,4,51.95,15.56,11784.04,N
+LP11413,Male,No,3+,Not Graduate,No,28,458,4644,34,900,180,0,Rural,Medical,,49.85,14.92,12547.01,N
+LP11414,Female,Yes,3+,Not Graduate,No,33,545,1139,1335,900,240,1,Rural,Medical,,39.51,,14090.99,N
+LP11415,Female,Yes,1,Not Graduate,No,46,419,1000,0,900,360,0,Semiurban,,3,59.05,12.25,9431.07,N
+LP11416,,No,3+,Not Graduate,No,,423,3759,700,900,60,0,Rural,Debt Consolidation,5,46.87,11.67,19870.24,N
+LP11417,Female,No,1,Graduate,No,27,458,3908,432,900,360,0,Urban,Medical,1,57.11,14.99,11372.8,Y
+LP11418,Male,Yes,3+,Graduate,No,29,448,1142,96,900,180,1,Rural,Education,,59.69,10.21,9787.4,N
+LP11419,,Yes,2,Graduate,No,40,370,3729,,900,360,1,Rural,Vehicle,1,68.37,14.36,10920.81,N
+LP11420,Male,No,1,Not Graduate,No,40,405,4933,112,900,120,1,Rural,Home Purchase,0,44.61,14.14,14049.84,N
+LP11421,Female,No,2,Not Graduate,No,,587,2970,903,900,240,0,Semiurban,Home Improvement,1,,11.56,9635.1,Y
+LP11422,Female,No,3+,Not Graduate,No,34,,2410,446,900,180,0,Semiurban,Business,0,66.86,15.95,13186.95,N
+LP11423,Female,No,,Graduate,Yes,37,498,3889,1497,900,240,0,Urban,Medical,,,20.31,15508.71,N
+LP11424,Male,Yes,1,Graduate,No,,452,3810,547,900,60,0,Rural,,0,53.84,18.61,23153.79,Y
+LP11425,Female,Yes,1,Not Graduate,No,26,442,2457,0,900,360,1,Urban,Debt Consolidation,2,44.21,,9647.24,N
+LP11426,Male,No,2,Graduate,Yes,31,600,2134,965,900,120,0,Semiurban,Home Improvement,0,48.05,,14719.2,N
+LP11427,Male,No,3+,Graduate,No,,484,1564,578,900,240,1,Rural,Vehicle,2,52.62,11.09,9344.88,Y
+LP11428,Male,Yes,,Graduate,No,38,,4514,,900,360,1,Semiurban,Medical,1,47.05,,10678.09,N
+LP11429,Female,,2,Graduate,,21,537,4512,0,900,360,1,Urban,Debt Consolidation,0,,14.02,10678.09,Y
+LP11430,Female,,,Not Graduate,No,21,450,4674,0,,240,0,Urban,Education,0,47.31,13.29,10730.66,Y
+LP11431,Male,Yes,,Not Graduate,No,38,411,3431,0,900,360,0,Rural,Medical,1,59.7,9.46,7541.44,N
+LP11432,Female,No,2,Not Graduate,Yes,36,496,3919,447,900,360,0,Urban,Vehicle,,,17.95,13527.04,N
+LP11433,Female,Yes,,Not Graduate,,41,477,3559,0,900,180,1,Urban,Education,0,48.05,,13118.05,N
+LP11434,,No,3+,Not Graduate,Yes,31,475,3674,991,,360,0,Rural,Home Purchase,1,57.81,22.82,17134.44,N
+LP11435,Male,Yes,2,Graduate,No,40,515,5027,297,900,360,1,Urban,Home Purchase,2,,11.18,8693.54,N
+LP11436,Male,No,,Graduate,Yes,21,404,2372,0,900,240,1,Semiurban,Medical,1,54.84,16.82,13078.15,Y
+LP11437,Female,Yes,1,,Yes,49,467,2836,561,900,360,0,Rural,Debt Consolidation,3,77.9,11.8,9119.19,N
+LP11438,Female,No,3+,Graduate,No,21,404,3354,337,900,360,0,Urban,Vehicle,2,59.6,10.15,7998.09,N
+LP11439,Female,,,Not Graduate,No,39,471,3654,777,900,360,0,Semiurban,Home Purchase,0,47.66,12.59,9668.22,N
+LP11440,Female,No,3+,Not Graduate,No,21,462,2833,0,900,360,0,Semiurban,Vehicle,3,52.15,22.12,16613.16,N
+LP11441,Female,Yes,0,Not Graduate,Yes,33,507,3658,807,900,120,1,Urban,Debt Consolidation,5,40.93,12.83,13347.87,Y
+LP11442,Male,,1,Graduate,Yes,33,455,3022,1805,900,360,1,Semiurban,Medical,7,30.76,14.19,10799.34,Y
+LP11443,Male,Yes,0,Graduate,Yes,36,,2017,362,900,180,1,,Business,2,,10.13,9743.15,N
+LP11444,,,1,Not Graduate,,23,467,3737,1669,900,120,0,Rural,Education,0,,13.35,13624.4,N
+LP11445,Male,Yes,0,Graduate,No,34,398,1000,395,900,360,0,Rural,Business,3,42.87,,10592.65,N
+LP11446,Female,No,1,,Yes,30,469,4097,,,240,1,Urban,Education,2,50.36,,8846.8,Y
+LP11447,Male,Yes,0,Not Graduate,No,,445,3638,805,900,360,0,Rural,Debt Consolidation,2,65.97,15.7,11885.34,N
+LP11448,Male,No,3+,Not Graduate,Yes,33,357,,800,,360,,Rural,Home Purchase,1,,20.18,15172.47,N
+LP11449,,No,3+,Graduate,,28,536,1449,1565,900,360,0,Semiurban,Home Improvement,0,64.88,10.49,8225.93,N
+LP11450,Male,,0,Graduate,Yes,25,402,,447,900,240,0,Rural,Vehicle,3,39.99,18.73,14397.43,N
+LP11451,Female,No,0,,No,42,436,4695,0,,180,0,Semiurban,Debt Consolidation,,48.71,,14209.79,N
+LP11452,Male,No,1,Not Graduate,Yes,25,478,3578,0,900,180,0,Semiurban,Medical,2,57.31,10.71,10066.08,N
+LP11453,Male,Yes,2,Not Graduate,Yes,27,600,,0,900,360,1,Rural,Home Improvement,4,57.07,13.28,10153.14,Y
+LP11454,Male,No,,Not Graduate,No,41,460,2589,937,900,360,0,Rural,Medical,0,58.55,12.72,9759.21,N
+LP11455,Male,No,1,Not Graduate,No,38,551,3716,448,900,120,,Urban,Medical,0,52.49,14.22,14093.27,Y
+LP11456,Male,No,1,Not Graduate,No,28,534,5095,1860,900,240,0,Rural,Business,2,48.61,9.74,8530.73,N
+LP11457,Female,,,Graduate,No,,443,3554,0,900,,1,Semiurban,Debt Consolidation,2,62.3,14.09,11250.56,N
+LP11458,Female,No,0,Not Graduate,No,35,452,3434,0,900,360,0,Rural,Home Improvement,3,37.14,,7003.31,N
+LP11459,Female,No,2,,No,29,504,4259,99,900,360,0,Semiurban,Debt Consolidation,0,28.63,12.89,9878.47,Y
+LP11460,Male,No,0,Graduate,Yes,39,502,5589,702,900,360,1,Urban,Education,3,70.03,11.57,8960.72,N
+LP11461,Male,No,0,Graduate,No,41,502,2049,,900,240,1,Rural,Home Improvement,6,53.95,16.74,13023.55,N
+LP11462,Male,Yes,3+,Not Graduate,Yes,22,432,2179,184,900,360,0,Rural,Education,2,53.38,11.94,9215.97,N
+LP11463,Male,No,0,Graduate,Yes,,476,4170,237,900,60,0,Semiurban,Business,1,30.16,15.65,21719.23,N
+LP11464,Female,No,,Graduate,Yes,33,,2811,104,900,240,0,Semiurban,Home Purchase,3,46.66,14.33,11408.04,N
+LP11465,Female,No,3+,Not Graduate,Yes,31,499,2704,1293,900,240,1,Rural,Debt Consolidation,2,48.08,7.0,6977.69,Y
+LP11466,Female,No,1,Graduate,Yes,31,523,1258,0,,180,0,Semiurban,Home Purchase,4,39.02,15.42,12856.18,N
+LP11467,Female,Yes,2,Graduate,Yes,35,,3875,426,900,60,1,Rural,Medical,2,35.48,14.51,21180.15,N
+LP11468,Female,No,0,Not Graduate,Yes,39,567,3683,950,900,,0,,Home Purchase,0,65.82,,12838.38,N
+LP11469,Male,No,3+,Not Graduate,,41,493,2348,0,900,360,1,Semiurban,Home Improvement,1,41.17,16.41,12400.81,N
+LP11470,Male,No,0,Not Graduate,Yes,,520,2269,1091,900,240,1,Semiurban,Business,0,37.6,21.89,16634.67,N
+LP11471,Male,Yes,3+,Graduate,No,39,582,,839,900,360,,Rural,,2,37.41,13.22,10110.79,N
+LP11472,Female,No,3+,Not Graduate,Yes,37,321,3093,1454,900,240,0,Rural,Home Improvement,3,38.14,14.31,11394.89,N
+LP11473,,No,2,Not Graduate,Yes,47,338,3294,,900,360,1,Urban,Home Purchase,,74.98,9.96,7871.55,N
+LP11474,Female,No,0,,,30,537,3297,369,900,360,1,Urban,Vehicle,0,47.96,10.42,8178.87,N
+LP11475,Male,Yes,1,Not Graduate,No,40,484,3179,984,900,60,0,Rural,Debt Consolidation,4,48.62,19.81,23749.45,N
+LP11476,Male,No,3+,Graduate,No,33,512,1007,1100,,360,0,Rural,Business,,29.6,13.93,10614.0,N
+LP11477,,Yes,1,Not Graduate,No,26,428,4769,,900,180,,,Home Improvement,0,50.6,21.72,,Y
+LP11478,Male,No,3+,,,23,461,2338,86,900,60,1,Urban,Vehicle,1,82.73,17.55,22634.34,Y
+LP11479,Male,No,1,Not Graduate,,30,409,,945,900,360,,Rural,Home Improvement,3,60.58,18.74,14108.3,N
+LP11480,Male,No,,Not Graduate,No,30,517,2163,0,900,,,Rural,Home Improvement,2,62.01,14.59,11085.49,N
+LP11481,Male,Yes,1,Not Graduate,Yes,50,475,4414,2359,,120,0,Rural,,0,63.21,,11327.89,N
+LP11482,Female,,0,Not Graduate,No,37,470,3115,997,900,120,1,Urban,Business,0,43.87,10.25,12018.51,Y
+LP11483,Female,No,3+,Graduate,No,31,583,5734,983,,60,0,Rural,Medical,2,39.17,9.69,18985.35,Y
+LP11484,Female,No,2,Graduate,,28,462,,708,900,120,1,Semiurban,Debt Consolidation,1,57.47,18.89,16735.86,Y
+LP11485,Female,No,2,Not Graduate,No,25,363,1000,590,900,240,0,Urban,Vehicle,2,21.21,12.78,10403.45,Y
+LP11486,Male,No,3+,Not Graduate,,25,563,4442,599,900,120,1,Rural,Education,0,66.09,14.38,14180.34,N
+LP11487,Male,Yes,1,Graduate,No,30,,5013,,900,360,0,Rural,,,49.93,20.94,15736.06,N
+LP11488,Female,Yes,2,Not Graduate,Yes,34,578,1000,124,900,180,0,Urban,Debt Consolidation,,66.69,,9376.31,Y
+LP11489,Male,No,2,Graduate,No,25,600,3961,400,900,120,0,Semiurban,Debt Consolidation,4,53.25,10.92,12356.78,N
+LP11490,Male,No,,Graduate,No,42,564,2579,0,900,360,1,,,2,52.05,18.94,14255.77,N
+LP11491,,No,3+,Not Graduate,Yes,48,505,,,900,360,1,Semiurban,Vehicle,2,45.7,7.0,5987.72,Y
+LP11492,Female,No,2,Graduate,Yes,26,451,2885,1109,900,180,1,Rural,Medical,3,21.98,17.24,,Y
+LP11493,Male,Yes,1,,Yes,35,467,4319,139,900,360,0,Semiurban,Medical,0,56.77,10.52,,N
+LP11494,,Yes,0,Not Graduate,Yes,29,498,2905,232,900,240,1,Semiurban,Debt Consolidation,0,39.39,12.62,10301.5,N
+LP11495,Female,No,0,Graduate,No,43,503,4530,321,,60,0,Semiurban,Medical,5,55.82,19.81,23749.45,N
+LP11496,Female,No,3+,Not Graduate,No,40,431,5097,619,900,60,0,Rural,Home Purchase,,18.97,12.56,20275.62,Y
+LP11497,Female,No,0,Not Graduate,Yes,33,503,4625,0,900,180,1,Semiurban,Vehicle,3,43.87,12.97,11369.42,N
+LP11498,Male,Yes,0,Not Graduate,No,,410,5021,1695,900,360,1,Rural,Home Purchase,3,,15.76,11928.8,N
+LP11499,Male,Yes,2,Graduate,,33,,1273,0,900,240,0,Rural,Home Purchase,1,49.72,7.0,6977.69,N
+LP11500,Male,,0,Graduate,Yes,,572,,0,900,180,0,Semiurban,Home Improvement,5,45.19,10.43,9909.57,N
